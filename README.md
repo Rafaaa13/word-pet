@@ -87,6 +87,21 @@ python3 tools/import_words.py 我的词表.csv --name toefl-1000 --title "TOEFL 
 | 想清空进度重来 | 删掉 `data/state.json`（这会丢掉全部背词记录，先备份） |
 | 想搬到新电脑 | 整个文件夹拷过去，删掉 `.venv/`，重新双击启动器 |
 | 从旧版桌宠迁移 | 把旧的 `gre_state.json` 放到本目录根下，首次启动会自动接住进度 |
+| Windows 上不小心开了两只 | 分别右键 →「退出桌宠」，Windows 版没做重复启动检测 |
+
+## 发给别人 / 传到 GitHub
+
+本目录已经是一个 git 仓库（含首次提交）。传上去只要三条命令：
+
+```bash
+git remote add origin https://github.com/<你的用户名>/word-pet.git
+git push -u origin main
+```
+
+朋友那边 `git clone` 下来，或者你把整个文件夹压缩发给他，双击对应系统的启动器就能用。
+`data/`（背词进度）和 `.venv/` 已经在 `.gitignore` 里，不会把你的进度传上去。
+
+公开仓库记得先删 `themes/mikasa/pet.png`（见文末说明）。
 
 ## 目录结构
 
