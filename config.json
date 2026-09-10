@@ -1,0 +1,11 @@
+{
+  "theme": "default",
+  "wordbank": "gre-core-500.json",
+  "dailyNewTarget": 20,
+  "sessionMinutes": 15,
+  "petHeight": 300,
+  "hourlyNudge": true,
+  "nudgeQuiz": true,
+  "speech": true,
+  "nightHour": 6
+}

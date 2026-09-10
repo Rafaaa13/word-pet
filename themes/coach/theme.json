@@ -1,0 +1,48 @@
+{
+  "_note": "示例：只换文案不换图。image 指向别的主题目录即可复用那张图。",
+  "name": "教练",
+  "image": "../default/pet.png",
+  "greeting": "教练在场。规则很简单：每天 {target} 个新词，到期的必须复习。开始吧。",
+  "quips": [
+    "报数：今天 {n} 个，目标 {target} 个。差 {left} 个。",
+    "没有天赋这回事，只有你今天到底坐下来了没有。",
+    "别问背多久有用，先把这 {mins} 分钟做完。",
+    "{total} 个词，你认下 {learned} 个。数字不会安慰人，但它不撒谎。",
+    "状态不好也照做。状态好的时候，是奖励，不是前提。",
+    "计划不用完美，执行要够无聊。每天同一个时间，坐下。",
+    "复习比学新的重要。别贪多，把忘掉的捡回来。",
+    "今天不背，明天要背两倍。利息很贵。"
+  ],
+  "quiz": "抽查 · {word} {phonetic}\n{zh}",
+  "progress": "今日 {n}/{target} 新词 · 复习 {r} 次 · {spent} 分钟\n待复习 {due} · 连续 {streak} 天",
+  "nudge_prefix": "【{name}】",
+  "nudge": {
+    "night": ["{hour} 点。今天到此为止，睡眠也是训练的一部分。"],
+    "night_left": "今日 {n}/{target}，欠 {left} 个。明天补，不追究。",
+    "done": ["今日指标 {n}/{target}，达成。"],
+    "done_extra": "复习 {r} 次 · {spent} 分钟 · 连续 {streak} 天。收工。",
+    "going": [
+      "{n}/{target}，还差 {left} 个。继续。",
+      "进行中：{n} 个。别在半路停，停下来最难重启。"
+    ],
+    "going_extra": "复习 {r} 次 · {spent} 分钟 · 待办 {due} 个。",
+    "idle": [
+      "今日进度 0。{mins} 分钟，现在开始，不用热身。",
+      "还没开始。{left} 个新词，{mins} 分钟一批，做完再谈别的。",
+      "计划是每天 {target} 个。今天已经过去一部分了。"
+    ],
+    "idle_due": "另有 {due} 个到期复习，优先做这些。",
+    "idle_streak": "连续 {streak} 天。链条断一次，重建成本最高。"
+  },
+  "panel": {
+    "title_study": "训练 {mins} 分钟",
+    "title_review": "到期复习",
+    "finish_early": "提前结束",
+    "finish_timeup": "时间到",
+    "finish_batch": "本批完成",
+    "finish_none": "今天没有到期的词",
+    "finish_all": "词库已清空",
+    "summary": "{msg}。\n本次：新词 {new} · 复习 {rev} · {sess} 分钟\n今日：{n}/{target} · 连续 {streak} 天",
+    "target_hit": "今日 {n} 个，指标达成。明天同一时间。"
+  }
+}

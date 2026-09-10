@@ -1,0 +1,15 @@
+# 运行环境和虚拟环境
+.venv/
+__pycache__/
+*.pyc
+
+# 用户私有数据：背词进度和窗口位置，不要提交
+data/
+*.tmp
+
+# 旧版数据文件（迁移用，放在根目录会被自动读取一次）
+gre_state.json
+
+# 系统垃圾
+.DS_Store
+Thumbs.db
