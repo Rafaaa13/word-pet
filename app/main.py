@@ -36,8 +36,23 @@ def main():
 
 
 def smoke():
-    """离屏自检：把所有窗口和核心流程都跑一遍，退出码 0 表示通过。"""
-    app = QApplication(sys.argv)          # 必须持有引用，否则会被回收
+    """离屏自检：强制使用临时数据目录，不接触真实进度与窗口设置。"""
+    import tempfile
+    root = tempfile.mkdtemp(prefix="wordpet-smoke-")
+    os.environ["WORDPET_HOME"] = root
+    # core 已导入，显式改写运行路径并复制只读配置/词库/主题。
+    import shutil
+    project_root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    for name in ("config.json", "wordbanks", "themes"):
+        src = os.path.join(project_root, name)
+        dst = os.path.join(root, name)
+        shutil.copytree(src, dst) if os.path.isdir(src) else shutil.copy2(src, dst)
+    core.ROOT = root
+    core.DATA_DIR = os.path.join(root, "data")
+    core.CONFIG_FILE = os.path.join(root, "config.json")
+    core.STATE_FILE = os.path.join(root, "data", "state.json")
+    core.PREFS_FILE = os.path.join(root, "data", "prefs.json")
+    app = QApplication(sys.argv)
     store = core.Store()
     assert store.words, "词库为空"
     pet = Pet(store)
@@ -53,20 +68,27 @@ def smoke():
     panel = pet.panel
     assert panel.queue or panel.done_flag, "队列构造失败"
     panel.reveal()
-    panel.grade(True)
-    panel.grade(False)
+    panel.grade(core.GRADE_GOOD)
+    panel.reveal()
+    panel.grade(core.GRADE_AGAIN)
     panel._tick()
+    for mode in ("sweep", "shuffle", "review", "weak"):
+        panel._set_mode(mode)
+        panel._build_queue()
+    panel._toggle_untimed(True)
+    assert panel.untimed, "不限时模式没有启用"
     panel.finish("smoke")
-    panel._again()
+    panel._reset_session()
     panel.close()
     pet.set_scale(1.0)
     pet._save_prefs()
     store.load()
-    assert store.state["progress"], "打分没有写入 progress"
+    assert store.progress, "打分没有写入 progress"
     print("today:", store.today_rec(), "| words:", len(store.words),
           "| theme:", store.theme.name)
     print("SMOKE OK")
     del app
+    shutil.rmtree(root, ignore_errors=True)
     return 0
 
 

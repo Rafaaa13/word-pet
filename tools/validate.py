@@ -13,7 +13,7 @@ import core                                                        # noqa: E402
 OK = ["✓"]
 BAD = []
 PLACEHOLDERS = {"name", "n", "r", "target", "left", "spent", "due", "streak", "mins",
-                "hour", "total", "learned", "word", "phonetic", "pos", "zh", "en",
+                "hour", "total", "learned", "bank", "milestone", "word", "phonetic", "pos", "zh", "en",
                 "msg", "new", "rev", "sess"}
 WORD_KEYS = ("word", "zh")
 NICE_KEYS = ("phonetic", "pos", "en", "example", "example_zh")
@@ -56,6 +56,13 @@ def check_config():
     unknown = [k for k in raw if k not in core.DEFAULT_CONFIG and not k.startswith("_")]
     if unknown:
         print("·  config.json 有程序不认识的键（不影响运行）：", ", ".join(unknown))
+    try:
+        import fsrs
+        from importlib.metadata import version
+        assert version("fsrs") == "6.3.2"
+        ok("FSRS 6 调度器可用（fsrs 6.3.2）")
+    except Exception as e:
+        bad("FSRS 调度器不可用：%s" % e)
     ok("config.json 可读")
     return raw
 
@@ -121,23 +128,63 @@ def check_wordbank(store):
 def check_logic(store):
     """核心逻辑自测，用内存里的副本，不落盘。"""
     import copy
+    from datetime import datetime, timedelta, timezone
     s = copy.deepcopy(store)
-    s.state = {"progress": {}, "daily": {}}
+    s.state = {"version": 2, "banks": {s.bank_id: {}}, "progress": {}, "daily": {}}
     w = s.words[0]["word"]
-    assert s.grade(w, True) is True, "第一次打分应判定为新词"
-    ivl1 = s.state["progress"][w]["ivl"]
-    s.grade(w, True)
-    assert s.state["progress"][w]["ivl"] > ivl1, "连对时间隔应该变长"
-    s.grade(w, False)
-    assert s.state["progress"][w]["ivl"] == 0, "答错应该重置间隔"
-    assert s.grade(w, True) is False, "已学过的词不该再算新词"
+    t0 = datetime(2026, 1, 1, 9, 0, tzinfo=timezone.utc)
+    assert s.grade(w, core.GRADE_AGAIN, t0) is True, "第一次打分应判定为新词"
+    assert s.state["progress"][w]["scheduler"] == "fsrs-6", "应使用 FSRS 6 调度"
+    # 动态当日上限：重来 6 次、困难 5 次、记得 2 次、秒答不重复。
+    w_dynamic = s.words[2]["word"]
+    assert s.grade(w_dynamic, core.GRADE_HARD, t0) is True
+    assert s.review_count_today(w_dynamic, t0.date().isoformat()) == 1
+    assert s.remaining_reviews_today(w_dynamic, t0.date().isoformat()) == 4
+    assert s.grade(w_dynamic, core.GRADE_HARD, t0) is False
+    assert s.grade(w_dynamic, core.GRADE_HARD, t0) is False
+    assert s.grade(w_dynamic, core.GRADE_HARD, t0) is False
+    assert s.grade(w_dynamic, core.GRADE_HARD, t0) is False
+    assert not s.can_review_today(w_dynamic, t0.date().isoformat())
+    w_easy = s.words[3]["word"]
+    assert s.grade(w_easy, core.GRADE_EASY, t0) is True
+    assert s.remaining_reviews_today(w_easy, t0.date().isoformat()) == 0
+    assert s.grade(w_easy, core.GRADE_GOOD, t0) is None
+    assert s.state["progress"][w]["stage"] == "learning", "重来后应留在学习阶段"
+    assert s._parse_due(s.state["progress"][w]["due"]) == t0.replace(minute=1), "重来应 1 分钟后复测"
+    previews = s.preview_grades("__new_sprint_test__", t0)
+    assert s._parse_due(previews[core.GRADE_HARD]["due"]) <= t0 + timedelta(minutes=3), "困难应约 3 分钟后复测"
+    assert all(s._parse_due(v["due"]) <= t0 + timedelta(days=3) for v in previews.values()), "任何评分都不得超过 3 天"
+    s.grade(w, core.GRADE_GOOD, t0.replace(minute=1))
+    assert s.state["progress"][w]["step"] == 1, "首次记得应进入第二学习步"
+    due = s._parse_due(s.state["progress"][w]["due"])
+    assert s.grade(w, core.GRADE_GOOD, due) is None, "记得设为2次后不得进行第三次评分"
+    assert s.review_count_today(w, t0.date().isoformat()) == 2
+    assert all(x.get("word") != w for x in s.due_words(t0)), "超限词当天不得再次进入到期队列"
+    assert s.can_review_today(w, (t0 + timedelta(days=1)).date().isoformat()), "第二天应恢复复习额度"
+    # Store 的每日上限和 FSRS 的毕业路径分开验证：冲刺上限会阻止同日第四次评分。
+    fsrs_adapter = core.fsrs_adapter
+    raw = {}
+    ft = t0
+    for g in (core.GRADE_AGAIN, core.GRADE_GOOD, core.GRADE_GOOD, core.GRADE_GOOD):
+        raw = fsrs_adapter.review(raw, g, ft)
+        ft = datetime.fromisoformat(raw["due"])
+    assert raw["stage"] == "review", "完成 1/3/10 分钟学习步后应毕业到长期复习"
+    w2 = s.words[1]["word"]
+    s.grade(w2, core.GRADE_EASY, t0)
+    assert 1 <= s.state["progress"][w2]["ivl"] <= 3, "秒答间隔应受 3 天冲刺上限约束"
     s.today_rec()["n"] = 1
     assert s.streak() == 1, "连续天数计算异常"
     assert core.fmt("{n}/{target} {zzz}", {"n": 1, "target": 2}) == "1/2 {zzz}", "占位符兜底异常"
     for fn in (core.progress_text, core.quiz_text, core.nudge_text):
         out = fn(s)
         assert out and "{" not in out, "%s 渲染出未替换的占位符：%s" % (fn.__name__, out)
-    ok("核心逻辑自测通过（间隔阶梯 / 打卡 / 文案渲染）")
+    import random
+    s._quiz_cycle = []
+    picks = [core.quiz_word(s, random.Random(100 + i))["word"] for i in range(min(30, len(s.words)))]
+    assert len(set(picks)) == len(picks), "连续抽查不应在词库走完前重复"
+    if len(s.words) > 1:
+        assert all(a != b for a, b in zip(picks, picks[1:])), "连续抽查不应出现同一个词"
+    ok("核心逻辑自测通过（FSRS 6 冲刺 / 1·3·10 分钟 / 最大 3 天 / 无限通刷）")
 
 
 def main():

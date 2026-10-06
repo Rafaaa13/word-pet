@@ -8,7 +8,9 @@
 import json
 import os
 import random
-from datetime import date, datetime, timedelta
+from datetime import date, datetime, timedelta, timezone
+
+import fsrs_adapter
 
 APP_DIR = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.environ.get("WORDPET_HOME") or os.path.dirname(APP_DIR)
@@ -17,13 +19,19 @@ CONFIG_FILE = os.path.join(ROOT, "config.json")
 STATE_FILE = os.path.join(DATA_DIR, "state.json")
 PREFS_FILE = os.path.join(DATA_DIR, "prefs.json")
 
-LADDER = [1, 3, 7, 14, 30, 60, 120]      # 答对时的复习间隔阶梯（天）
+MAX_INTERVAL_DAYS = 365
+GRADE_AGAIN, GRADE_HARD, GRADE_GOOD, GRADE_EASY = 1, 2, 3, 4
+DAILY_LIMIT_BY_GRADE = {GRADE_AGAIN: 6, GRADE_HARD: 5, GRADE_GOOD: 2, GRADE_EASY: 0}
 
 DEFAULT_CONFIG = {
     "theme": "default",
-    "wordbank": "gre-core-500.json",
-    "dailyNewTarget": 20,
+    "wordbank": "zhangwei-zhenkao-7.json",
+    "dailyNewTarget": 40,
     "sessionMinutes": 15,
+    "newPerSession": 0,
+    "desiredRetention": 0.98,
+    "maximumIntervalDays": 3,
+    "maxReviewsPerWordPerDay": 3,
     "petHeight": 300,
     "hourlyNudge": True,
     "nudgeQuiz": True,
@@ -38,7 +46,7 @@ FALLBACK_THEME = {
     "greeting": "{name}就位。左键点我互动，右键出菜单，滚轮调大小。",
     "quips": ["单词不会自己爬进脑子。", "戳我一下，背十个词。", "今天的词，今天背完。"],
     "quiz": "随手抽查 · {word} {phonetic} —— {zh}",
-    "progress": "今日新词 {n}/{target} · 复习 {r} 次 · {spent} 分钟\n"
+    "progress": "{bank}\n今日接触 {n} 词 · Daily {target}{milestone} · 复习 {r} 次 · {spent} 分钟\n"
                 "待复习 {due} 个 · 连续打卡 {streak} 天",
     "nudge_prefix": "【{name}】",
     "nudge": {
@@ -141,23 +149,101 @@ class Store:
         self.cfg = _merge(DEFAULT_CONFIG, read_json(CONFIG_FILE, {}))
         self.theme = Theme(self.cfg.get("theme") or "default")
         raw = read_json(os.path.join(ROOT, "wordbanks", self.cfg["wordbank"]), {})
+        self.bank_meta = raw.get("meta", {}) if isinstance(raw, dict) else {}
+        self.bank_id = str(self.bank_meta.get("id") or os.path.splitext(self.cfg["wordbank"])[0])
         self.words = raw.get("words", raw) if isinstance(raw, (dict, list)) else []
         if not isinstance(self.words, list):
             self.words = []
+        self._last_quiz_word = getattr(self, "_last_quiz_word", None)
+        self._quiz_cycle = getattr(self, "_quiz_cycle", [])
+        self._attach_equivalents()
         st = read_json(STATE_FILE, None)
-        if st is None:                                  # 首次运行：尝试接住旧版数据
+        from_legacy = st is None
+        if from_legacy:                                  # 首次运行：尝试接住旧版数据
             st = read_json(os.path.join(ROOT, "gre_state.json"), {})
         if not isinstance(st, dict):
             st = {}
-        self.state = {"progress": st.get("progress") or {}, "daily": st.get("daily") or {}}
+        raw_progress = st.get("progress") or {}
+        raw_daily = st.get("daily") or {}
+        banks = st.get("banks") if isinstance(st.get("banks"), dict) else {}
+        migration_bank = "gre-core-500" if from_legacy else self.bank_id
+        if raw_progress and not banks:                    # v1：旧版默认库的全局 progress
+            banks[migration_bank] = raw_progress
+        banks.setdefault(self.bank_id, {})
+        self.state = {"version": 2, "banks": banks, "progress": banks[self.bank_id],
+                      "daily": raw_daily}
+        self._apply_sprint_cap()
+
+    def _apply_sprint_cap(self):
+        """把所有词库里历史上排得过远的卡片拉回冲刺上限内。"""
+        cap = self.now() + timedelta(days=int(self.cfg.get("maximumIntervalDays", 3)))
+        for progress in self.state["banks"].values():
+            if not isinstance(progress, dict):
+                continue
+            for rec in progress.values():
+                if not isinstance(rec, dict) or not rec.get("due"):
+                    continue
+                if self._parse_due(rec.get("due")) > cap:
+                    rec["due"] = cap.isoformat(timespec="seconds")
+                    if isinstance(rec.get("fsrs"), dict):
+                        rec["fsrs"]["due"] = cap.isoformat(timespec="seconds")
+
+    def _attach_equivalents(self):
+        """镇考卡自动吸收等价词库；独立等价词库则保留自身词组。"""
+        if not self.words or "equivalence" in self.bank_id:
+            return
+        path = os.path.join(ROOT, "wordbanks", "zhangwei-equivalence-2021.json")
+        raw = read_json(path, {})
+        rows = raw.get("words", []) if isinstance(raw, dict) else []
+        eq = {str(x.get("word", "")).casefold(): x.get("equivalents") or x.get("synonyms") or []
+              for x in rows if isinstance(x, dict)}
+        for word in self.words:
+            base = word.get("synonyms") or []
+            if isinstance(base, str):
+                base = [x.strip() for x in base.split(",") if x.strip()]
+            extra = eq.get(str(word.get("word", "")).casefold(), [])
+            word["synonyms"] = list(dict.fromkeys([*base, *extra]))
+
+    @property
+    def progress(self):
+        return self.state["progress"]
 
     def save(self):
-        write_json(STATE_FILE, self.state)
+        self.state["banks"][self.bank_id] = self.state["progress"]
+        payload = {"version": 2, "banks": self.state["banks"], "daily": self.state["daily"]}
+        write_json(STATE_FILE, payload)
 
     # ---- 查询
     @staticmethod
     def today():
         return date.today().isoformat()
+
+    def review_limit(self, word=None, day=None):
+        day = day or self.today()
+        if word:
+            rec = self.progress.get(word) or {}
+            if rec.get("daily_review_date") == day and rec.get("daily_review_limit") is not None:
+                return max(0, int(rec.get("daily_review_limit") or 0))
+        return max(1, int(self.cfg.get("maxReviewsPerWordPerDay", 3)))
+
+    def review_count_today(self, word, day=None):
+        day = day or self.today()
+        rec = self.progress.get(word) or {}
+        return int(rec.get("daily_reviews", 0) or 0) if rec.get("daily_review_date") == day else 0
+
+    def can_review_today(self, word, day=None):
+        return self.review_count_today(word, day) < self.review_limit(word, day)
+
+    def remaining_reviews_today(self, word, day=None):
+        return max(0, self.review_limit(word, day) - self.review_count_today(word, day))
+
+    def _mark_review_today(self, rec, rating, day=None):
+        day = day or self.today()
+        count = int(rec.get("daily_reviews", 0) or 0) if rec.get("daily_review_date") == day else 0
+        rec["daily_review_date"] = day
+        rec["daily_review_limit"] = DAILY_LIMIT_BY_GRADE.get(int(rating), self.review_limit())
+        rec["daily_reviews"] = count + 1
+        return rec
 
     def today_rec(self):
         rec = self.state["daily"].setdefault(self.today(), {"n": 0, "r": 0, "sec": 0})
@@ -165,15 +251,33 @@ class Store:
             rec[k] = int(rec.get(k, 0) or 0)
         return rec
 
-    def due_words(self):
-        t, p = self.today(), self.state["progress"]
+    @staticmethod
+    def now():
+        return datetime.now(timezone.utc).replace(microsecond=0)
+
+    @staticmethod
+    def _parse_due(value):
+        try:
+            parsed = datetime.fromisoformat(str(value))
+            return parsed.replace(tzinfo=timezone.utc) if parsed.tzinfo is None else parsed.astimezone(timezone.utc)
+        except (TypeError, ValueError):
+            try:
+                return datetime.combine(date.fromisoformat(str(value)), datetime.min.time(), timezone.utc)
+            except (TypeError, ValueError):
+                return datetime.max.replace(tzinfo=timezone.utc)
+
+    def due_words(self, now=None):
+        now = now or self.now()
+        day = now.date().isoformat()
+        p = self.progress
         ws = [w for w in self.words
-              if w.get("word") in p and str(p[w["word"]].get("due", "9999")) <= t]
-        ws.sort(key=lambda w: str(p[w["word"]].get("due", "")))
+              if w.get("word") in p and self.can_review_today(w["word"], day)
+              and self._parse_due(p[w["word"]].get("due")) <= now]
+        ws.sort(key=lambda w: self._parse_due(p[w["word"]].get("due")))
         return ws
 
     def new_words(self):
-        p = self.state["progress"]
+        p = self.progress
         return [w for w in self.words if w.get("word") not in p]
 
     def streak(self):
@@ -189,38 +293,42 @@ class Store:
                 break
         return s
 
-    # ---- 打分：认识就往阶梯上走一格，不认识就明天重来
-    def grade(self, word, know):
-        p = self.state["progress"]
-        today = date.today()
+    # ---- FSRS 6 四档打分；旧进度首次评分时自动迁移
+    def grade(self, word, rating, now=None):
+        if isinstance(rating, bool):
+            rating = GRADE_GOOD if rating else GRADE_AGAIN
+        rating = max(GRADE_AGAIN, min(GRADE_EASY, int(rating)))
+        p, now = self.progress, now or self.now()
+        if now.tzinfo is None:
+            now = now.replace(tzinfo=timezone.utc)
         rec = p.get(word)
         is_new = rec is None
-        rec = rec or {"ivl": 0, "reps": 0, "lapses": 0}
-        if know:
-            cur = int(rec.get("ivl", 0) or 0)
-            rec["ivl"] = next((v for v in LADDER if v > cur), min(max(cur, 1) * 2, 365))
-            rec["reps"] = int(rec.get("reps", 0)) + 1
-        else:
-            rec["ivl"] = 0
-            rec["lapses"] = int(rec.get("lapses", 0)) + 1
-        rec["due"] = (today + timedelta(days=rec["ivl"] or 1)).isoformat()
-        rec["last"] = today.isoformat()
-        p[word] = rec
+        if rec is not None and not self.can_review_today(word, now.date().isoformat()):
+            return None
+        p[word] = self._mark_review_today(
+            fsrs_adapter.review(rec or {}, rating, now), rating, now.date().isoformat())
         return is_new
+
+    def preview_grades(self, word, now=None):
+        if word in self.progress and not self.can_review_today(word):
+            return None
+        return fsrs_adapter.preview(self.progress.get(word) or {}, now or self.now())
 
     # ---- 所有文案占位符的取值都从这里来
     def ctx(self, **extra):
         rec = self.today_rec()
-        target = int(self.cfg.get("dailyNewTarget", 20))
+        target = int(self.cfg.get("dailyNewTarget", 40))
         c = {
             "name": self.theme.raw("name", "小豆"),
             "n": rec["n"], "r": rec["r"], "target": target,
+            "milestone": " ✓（不限量继续）" if rec["n"] >= target else "",
             "left": max(0, target - rec["n"]),
             "spent": int(round(rec["sec"] / 60)),
             "due": len(self.due_words()), "streak": self.streak(),
             "mins": int(self.cfg.get("sessionMinutes", 15)),
             "hour": datetime.now().hour,
-            "total": len(self.words), "learned": len(self.state["progress"]),
+            "total": len(self.words), "learned": len(self.progress),
+            "bank": self.bank_meta.get("name", self.bank_id),
         }
         c.update(extra)
         return c
@@ -231,12 +339,27 @@ def progress_text(store):
     return store.theme.text("progress", store.ctx())
 
 
-def quiz_text(store):
-    p = store.state["progress"]
-    pool = store.due_words() or store.new_words() or store.words
-    if not pool:
+def quiz_word(store, rng=None):
+    """从当前词库做无放回随机抽查；一轮走完前不重复，也不会连续同词。"""
+    rng = rng or random
+    valid = {str(w.get("word", "")).casefold(): w for w in store.words if w.get("word")}
+    cycle = [key for key in getattr(store, "_quiz_cycle", []) if key in valid]
+    if not cycle:
+        cycle = list(valid)
+        rng.shuffle(cycle)
+        last = str(getattr(store, "_last_quiz_word", "") or "").casefold()
+        if len(cycle) > 1 and cycle[-1] == last:
+            cycle[0], cycle[-1] = cycle[-1], cycle[0]
+    key = cycle.pop()
+    store._quiz_cycle = cycle
+    store._last_quiz_word = valid[key].get("word", "")
+    return valid[key]
+
+
+def quiz_text(store, rng=None):
+    if not store.words:
         return "词库是空的，先去 wordbanks/ 放一个词库。"
-    w = random.choice(pool)
+    w = quiz_word(store, rng)
     return store.theme.text("quiz", store.ctx(**{k: w.get(k, "") for k in
                                                  ("word", "phonetic", "pos", "zh", "en")}))
 

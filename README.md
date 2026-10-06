@@ -1,10 +1,13 @@
 # 背词桌宠 word-pet
 
 一只待在桌面上的小家伙，每小时按你的真实进度催你背单词，点一下会跳、会说话。
-自带 GRE 核心 500 词和三套人格，换形象换词库都只改一个 JSON，不用碰代码。
+自带张巍 GRE 镇考机经词 7.0（1450 词）、真经 GRE 等价词（889 组）和 GRE 核心 500，换形象换词库都只改一个 JSON，不用碰代码。
 
-- 15 分钟一轮的卡片式背词，空格看释义，`1` 认识 / `2` 不认识
-- 间隔复习：认识就 1 → 3 → 7 → 14 → 30 → 60 → 120 天往后排，不认识明天再见
+- 15 分钟一轮的主动回忆卡片：空格看释义，`1` 重来 / `2` 困难 / `3` 记得 / `4` 秒答
+- **Daily 40 只是里程碑，不是上限**：达到 40 后仍可继续背，全天不限总量
+- 冲刺版 FSRS 6：目标记忆率 98%，新词 1/3/10 分钟、遗忘后 1/5 分钟复测，最长间隔硬限制为 3 天
+- 每个词的释义下方提供原创中文巧记：优先使用关键词/近音、词根构词、具体画面和语境联想；巧记只辅助记忆，不替代真实释义
+- 镇考卡片自动合并等价词提示；右键可随时切换镇考 7.0、等价词和核心 500
 - 整点提醒会报出真实数字（今天背了几个、几个到期、连续几天），不是干巴巴的闹钟
 - 进度只存在本机 `data/state.json`，不联网、不上传
 
@@ -14,12 +17,12 @@
 如果提示「无法打开，因为它来自身份不明的开发者」，右键该文件 →「打开」→「打开」。
 
 **Windows**：双击 `scripts/start-windows.bat`
-需要先装 [Python 3.9+](https://www.python.org/downloads/)，安装时勾选 *Add python.exe to PATH*。
+需要先装 [Python 3.10+](https://www.python.org/downloads/)，安装时勾选 *Add python.exe to PATH*。
 
-首次启动会自动建虚拟环境并装 PyQt6（联网，1-2 分钟），之后就是秒开。
+首次启动会自动建虚拟环境并安装 PyQt6 与 py-fsrs（联网，1-2 分钟），之后就是秒开。
 装完桌宠会出现在屏幕右下角。**左键点它**说话，**右键出菜单**，**滚轮调大小**，拖着能挪窗口。
 
-右键菜单里有：开始背词、只复习到期的词、今日进度、抽查一个词、换形象、换词库、整点提醒开关、退出。
+右键菜单里有：智能混合、顺序/随机全库通刷、FSRS 到期复习、薄弱词速刷、今日进度、抽查一个词、换形象、换词库、整点提醒开关、退出。背词面板中的五种模式使用常驻按钮，不依赖系统下拉菜单。
 
 ## 换形象
 
@@ -61,14 +64,20 @@ python3 tools/import_words.py 我的词表.csv --name toefl-1000 --title "TOEFL 
 | 键 | 默认 | 说明 |
 | --- | --- | --- |
 | `theme` | `default` | 用哪个形象主题（`themes/` 下的目录名） |
-| `wordbank` | `gre-core-500.json` | 用哪个词库（`wordbanks/` 下的文件名） |
-| `dailyNewTarget` | `20` | 每天背几个新词。别贪，20 个能坚持下来比 60 个放弃强 |
-| `sessionMinutes` | `15` | 一轮多少分钟 |
+| `wordbank` | `zhangwei-zhenkao-7.json` | 默认词库；也可在桌宠右键菜单随时切换 |
+| `dailyNewTarget` | `40` | 每日里程碑；达到后不会停止，仍可无限继续 |
+| `sessionMinutes` | `15` | 一轮多少分钟；结算后可立即继续下一轮 |
+| `newPerSession` | `0` | `0` 表示不限新词（当前默认） |
+| `desiredRetention` | `0.98` | 冲刺目标记忆率；高频复习 |
+| `maximumIntervalDays` | `3` | 任何长期复习的最大间隔，已有卡片也会压缩到 3 天内 |
+| `maxReviewsPerWordPerDay` | `3` | 默认当日上限；实际会按最后评分动态调整：重来 6 次、困难 5 次、记得 2 次、秒答 0 次 |
 | `petHeight` | `300` | 桌宠基准高度（px），觉得整体偏小就调大 |
 | `hourlyNudge` | `true` | 整点自动提醒 |
 | `nudgeQuiz` | `true` | 提醒里附带抽查一个词 |
 | `speech` | `true` | 点 🔊 朗读单词（用系统自带语音） |
 | `nightHour` | `6` | 几点之前算深夜，会换成劝你睡觉的话 |
+
+**每日复习限制：** 单词当日评分上限按最后一次评分动态决定：重来 6 次、困难 5 次、记得 2 次、秒答 0 次；次日恢复，记录会随本机进度保存。
 
 ## 让 AI 每小时提醒你（可选）
 
@@ -83,7 +92,7 @@ python3 tools/import_words.py 我的词表.csv --name toefl-1000 --title "TOEFL 
 | 双击没反应 | 打开终端，`cd` 到本目录，跑 `python3 tools/validate.py` 看报错 |
 | 桌宠不见了 | 右键菜单勾上「窗口置顶」；或删掉 `data/prefs.json` 重启，位置会复位 |
 | 提示找不到词库 | `config.json` 里的 `wordbank` 名字和 `wordbanks/` 下的文件名要一字不差 |
-| 装 PyQt6 卡住 | 换源：`.venv/bin/pip install PyQt6 -i https://pypi.tuna.tsinghua.edu.cn/simple` |
+| 装运行依赖卡住 | 换源：`.venv/bin/pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple` |
 | 想清空进度重来 | 删掉 `data/state.json`（这会丢掉全部背词记录，先备份） |
 | 想搬到新电脑 | 整个文件夹拷过去，删掉 `.venv/`，重新双击启动器 |
 | 从旧版桌宠迁移 | 把旧的 `gre_state.json` 放到本目录根下，首次启动会自动接住进度 |
@@ -98,10 +107,10 @@ git remote add origin https://github.com/<你的用户名>/word-pet.git
 git push -u origin main
 ```
 
-朋友那边 `git clone` 下来，或者你把整个文件夹压缩发给他，双击对应系统的启动器就能用。
+朋友那边直接打开同目录的 `GRE极速背词.html` 即可免安装使用；若要分享桌宠程序，可把 `word-pet` 文件夹压缩后发送，双击对应系统启动器。仓库根目录的 HTML 已内嵌完整词库，可直接切换词库使用。
 `data/`（背词进度）和 `.venv/` 已经在 `.gitignore` 里，不会把你的进度传上去。
 
-公开仓库记得先删 `themes/mikasa/pet.png`（见文末说明）。
+**版权提示：** 两套张巍词库及其原资料权利归原作者/权利人，本项目内置版本仅供个人学习。公开发布或商用前请先取得授权，或改成由使用者自行导入词库。公开仓库还应删除 `themes/mikasa/pet.png`。
 
 ## 目录结构
 

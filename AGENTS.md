@@ -20,7 +20,8 @@
 
 `{name}` 桌宠自称 · `{n}` 今日新词数 · `{target}` 今日目标 · `{left}` 还差几个 ·
 `{r}` 今日复习次数 · `{spent}` 今日分钟 · `{due}` 待复习数 · `{streak}` 连续天数 ·
-`{mins}` 单轮时长 · `{hour}` 当前小时 · `{total}` 词库总词数 · `{learned}` 已学词数
+`{mins}` 单轮时长 · `{hour}` 当前小时 · `{total}` 词库总词数 · `{learned}` 已学词数 ·
+`{bank}` 当前词库名称 · `{milestone}` Daily 目标达成提示（达成后仍不限量）
 
 只在 `quiz` 里额外可用：`{word}` `{phonetic}` `{pos}` `{zh}` `{en}`
 只在 `panel.summary` 里额外可用：`{msg}` `{new}` `{rev}` `{sess}`

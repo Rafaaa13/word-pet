@@ -245,9 +245,11 @@ class Pet(QWidget):
     def contextMenuEvent(self, e):
         m = QMenu(self)
         mins = int(self.store.cfg.get("sessionMinutes", 15))
-        m.addAction("📖 开始 %d 分钟背词" % mins).triggered.connect(
-            lambda: self.open_study("mixed"))
-        m.addAction("🔁 只复习到期的词").triggered.connect(lambda: self.open_study("review"))
+        m.addAction("📖 智能混合（不限量）").triggered.connect(lambda: self.open_study("mixed"))
+        m.addAction("⚡ 顺序通刷全词库").triggered.connect(lambda: self.open_study("sweep"))
+        m.addAction("🎲 随机通刷全词库").triggered.connect(lambda: self.open_study("shuffle"))
+        m.addAction("🔁 FSRS 到期复习").triggered.connect(lambda: self.open_study("review"))
+        m.addAction("🔥 薄弱词速刷").triggered.connect(lambda: self.open_study("weak"))
         m.addAction("📊 今日进度").triggered.connect(self._show_progress)
         m.addAction("🎲 抽查一个词").triggered.connect(
             lambda: self.show_bubble(core.quiz_text(self.store), 9000))
@@ -286,7 +288,12 @@ class Pet(QWidget):
             a.triggered.connect(lambda _, k=key, v=it: self._switch(k, v))
 
     def _switch(self, key, value):
-        cfg = core.read_json(core.CONFIG_FILE, {})
+        if key == "wordbank" and self.panel is not None:
+            self.panel.close()
+        cfg = core.read_json(core.CONFIG_FILE, None)
+        if not isinstance(cfg, dict):
+            self.show_bubble("config.json 无法读取，未修改设置。请先运行 tools/validate.py。", 9000)
+            return
         cfg[key] = value
         core.write_json(core.CONFIG_FILE, cfg)
         self.store.load()
@@ -332,7 +339,7 @@ class Pet(QWidget):
         if x < geo.left() + 4:
             x = pr.right() + 14
         x = max(geo.left() + 4, min(x, geo.right() - self.panel.width() - 4))
-        y = max(geo.top() + 4, min(pr.top(), geo.bottom() - 320))
+        y = max(geo.top() + 4, min(pr.top(), geo.bottom() - self.panel.height() - 4))
         self.panel.move(x, y)
         self.panel.show()
         self.panel.raise_()
