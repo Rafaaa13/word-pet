@@ -93,36 +93,81 @@ def check_theme(store):
     ok("可选主题：%s" % " / ".join(others))
 
 
-def check_wordbank(store):
-    path = os.path.join(core.ROOT, "wordbanks", store.cfg["wordbank"])
-    if not os.path.exists(path):
-        bad("词库文件不存在：wordbanks/%s" % store.cfg["wordbank"])
-        return
-    if not store.words:
-        bad("词库解析出 0 个词，检查是否为 {\"words\": [...]} 结构")
-        return
-    seen, dup, missing, thin = set(), [], [], 0
-    for i, w in enumerate(store.words):
+def wordbank_errors(raw):
+    """校验两端共同的数据契约；缺少可选音标/例句/巧记不算错误。"""
+    words = raw.get("words") if isinstance(raw, dict) else raw
+    if not isinstance(words, list) or not words:
+        return ["words 必须是非空数组"]
+    errors, ids, spellings = [], set(), set()
+    if isinstance(raw, dict) and isinstance(raw.get("meta"), dict):
+        count = raw["meta"].get("count")
+        if count is not None and (type(count) is not int or count != len(words)):
+            errors.append("meta.count 与实际词数不符")
+    for i, w in enumerate(words, 1):
         if not isinstance(w, dict):
-            missing.append("第 %d 条不是对象" % (i + 1)); continue
-        for k in WORD_KEYS:
-            if not str(w.get(k, "")).strip():
-                missing.append("第 %d 条缺 %s" % (i + 1, k))
-        word = str(w.get("word", "")).strip().lower()
-        (dup.append(word) if word in seen else seen.add(word))
-        if sum(1 for k in NICE_KEYS if str(w.get(k, "")).strip()) < 3:
-            thin += 1
-    if missing:
-        bad("词库有 %d 处必填字段问题，例如：%s" % (len(missing), "；".join(missing[:3])))
-    if dup:
-        bad("词库有 %d 个重复单词，例如：%s" % (len(dup), ", ".join(dup[:5])))
-    if not missing and not dup:
-        ok("词库 %s：%d 个词，字段完整" % (store.cfg["wordbank"], len(store.words)))
-    if thin:
-        print("·  其中 %d 个词的音标/词性/例句偏少，能用但体验一般" % thin)
-    banks = sorted(n for n in os.listdir(os.path.join(core.ROOT, "wordbanks"))
-                   if n.endswith(".json"))
-    ok("可选词库：%s" % " / ".join(banks))
+            errors.append("第 %d 条不是对象" % i)
+            continue
+        for key in WORD_KEYS:
+            if not isinstance(w.get(key), str) or not w[key].strip():
+                errors.append("第 %d 条缺少有效的 %s" % (i, key))
+        spelling = str(w.get("word", "")).strip().casefold()
+        if spelling in spellings:
+            errors.append("重复单词：%s" % spelling)
+        spellings.add(spelling)
+        ident = w.get("id")
+        valid_id = (type(ident) is int and 0 < ident <= 9007199254740991) or (
+            isinstance(ident, str) and bool(ident.strip()) and ident == ident.strip()
+            and ident not in {"undefined", "null", "__proto__", "constructor", "prototype"})
+        if not valid_id:
+            errors.append("第 %d 条缺少有效 id（HTML 必须有唯一卡片键）" % i)
+        elif str(ident) in ids:
+            errors.append("重复 id：%s" % ident)
+        else:
+            ids.add(str(ident))
+    return errors
+
+
+def check_wordbank(store):
+    """检查全部词库及仓库 HTML，不再仅检查当前配置的词库。"""
+    import json
+    from pathlib import Path
+    folder = Path(core.ROOT) / "wordbanks"
+    banks = sorted(folder.glob("*.json"))
+    if not banks:
+        bad("没有找到词库 JSON")
+        return
+    if store.cfg["wordbank"] not in {p.name for p in banks}:
+        bad("当前配置的词库不存在：%s" % store.cfg["wordbank"])
+    by_id = {}
+    for path in banks:
+        raw = core.read_json(str(path), None)
+        errors = wordbank_errors(raw)
+        if errors:
+            bad("%s：%s" % (path.name, "；".join(errors[:5])))
+            continue
+        bank_id = raw.get("meta", {}).get("id", path.stem) if isinstance(raw, dict) else path.stem
+        if bank_id in by_id:
+            bad("重复词库 ID：%s" % bank_id)
+        by_id[bank_id] = raw
+        words = raw["words"] if isinstance(raw, dict) else raw
+        ok("词库 %s：%d 个词，唯一 id / 必填字段正常" % (path.name, len(words)))
+    html = Path(core.ROOT) / "GRE极速背词.html"
+    if html.exists():
+        try:
+            text = html.read_text(encoding="utf-8")
+            start = text.index("const BANKS=") + len("const BANKS=")
+            embedded, _ = json.JSONDecoder().raw_decode(text[start:])
+            assert isinstance(embedded, dict), "BANKS 必须是对象"
+            for bank_id, raw in embedded.items():
+                errors = wordbank_errors(raw)
+                if errors:
+                    bad("HTML %s：%s" % (bank_id, "；".join(errors[:5])))
+                elif bank_id not in by_id or raw != by_id[bank_id]:
+                    bad("HTML 词库与 JSON 不一致：%s" % bank_id)
+                else:
+                    ok("HTML 词库 %s：与 JSON 完全一致" % bank_id)
+        except (ValueError, AssertionError) as exc:
+            bad("HTML 词库解析失败：%s" % exc)
 
 
 def check_logic(store):

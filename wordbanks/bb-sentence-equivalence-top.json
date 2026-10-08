@@ -21,7 +21,8 @@
       "pair_note": "都表示在外部压力、偏见或诱惑下被动放弃，从而失去自主性",
       "mnemonic": "把 succumb to 与“屈服于”绑定成一幅画面；等价词 yield to 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 1
     },
     {
       "word": "singular",
@@ -35,7 +36,8 @@
       "pair_note": "都表示独一无二、唯一的特性",
       "mnemonic": "把 singular 与“独特的”绑定成一幅画面；等价词 unique 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 2
     },
     {
       "word": "exaggeration",
@@ -49,7 +51,8 @@
       "pair_note": "都表示言过其实、夸大的陈述",
       "mnemonic": "把 exaggeration 与“夸张”绑定成一幅画面；等价词 hyperbole 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 3
     },
     {
       "word": "prescient",
@@ -63,7 +66,8 @@
       "pair_note": "都能表示有预见性或先见之明",
       "mnemonic": "把 prescient 与“有预知能力的”绑定成一幅画面；等价词 prophetic 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 4
     },
     {
       "word": "realism",
@@ -77,7 +81,8 @@
       "pair_note": "都强调对现实世界的忠实再现或描绘",
       "mnemonic": "把 realism 与“现实主义”绑定成一幅画面；等价词 verisimilitude 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 5
     },
     {
       "word": "irascibility",
@@ -91,7 +96,8 @@
       "pair_note": "都表示易怒或愤怒的情绪",
       "mnemonic": "把 irascibility 与“易怒”绑定成一幅画面；等价词 exasperation 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 6
     },
     {
       "word": "extremist",
@@ -105,7 +111,8 @@
       "pair_note": "都指持有极端或狂热立场的人",
       "mnemonic": "把 extremist 与“极端主义者”绑定成一幅画面；等价词 zealot 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 7
     },
     {
       "word": "intricate",
@@ -119,7 +126,8 @@
       "pair_note": "都表示结构或思想复杂、纠缠不清，难以简单理解",
       "mnemonic": "把 intricate 与“复杂难懂的”绑定成一幅画面；等价词 convoluted 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 8
     },
     {
       "word": "fairness",
@@ -133,7 +141,8 @@
       "pair_note": "都强调公正、不偏不倚，确保判断基于事实而非个人偏见",
       "mnemonic": "把 fairness 与“公平”绑定成一幅画面；等价词 objectivity 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 9
     },
     {
       "word": "groundless",
@@ -147,7 +156,8 @@
       "pair_note": "都表示缺乏正当理由或基础，因此是无效或不合理的",
       "mnemonic": "把 groundless 与“没有根据的”绑定成一幅画面；等价词 unwarranted 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 10
     },
     {
       "word": "affable",
@@ -161,7 +171,8 @@
       "pair_note": "都形容人性格友善、随和，易于相处",
       "mnemonic": "把 affable 与“亲切的”绑定成一幅画面；等价词 easygoing 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 11
     },
     {
       "word": "realized",
@@ -175,7 +186,8 @@
       "pair_note": "都表示目标或愿望被成功实现或达成",
       "mnemonic": "把 realized 与“实现”绑定成一幅画面；等价词 achieved 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 12
     },
     {
       "word": "diffuse",
@@ -189,7 +201,8 @@
       "pair_note": "都表示使某物广泛分布或分散开来",
       "mnemonic": "把 diffuse 与“扩散”绑定成一幅画面；等价词 spread 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 13
     },
     {
       "word": "baseless",
@@ -203,7 +216,8 @@
       "pair_note": "都表示缺乏坚实基础或理由，无法被支持或辩护",
       "mnemonic": "把 baseless 与“无根据的”绑定成一幅画面；等价词 untenable 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 14
     },
     {
       "word": "proclaimed",
@@ -217,7 +231,8 @@
       "pair_note": "都表示公开表达或声明某种立场或意图",
       "mnemonic": "把 proclaimed 与“宣布”绑定成一幅画面；等价词 professed 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 15
     },
     {
       "word": "pugnacious",
@@ -231,7 +246,8 @@
       "pair_note": "都形容一种好斗、具有攻击性或挑衅性的天性或态度",
       "mnemonic": "把 pugnacious 与“好斗的”绑定成一幅画面；等价词 truculent 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 16
     },
     {
       "word": "stave off",
@@ -245,7 +261,8 @@
       "pair_note": "都表示通过主动干预来防止或延缓负面结果",
       "mnemonic": "把 stave off 与“延缓”绑定成一幅画面；等价词 forestall 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 17
     },
     {
       "word": "momentary",
@@ -259,7 +276,8 @@
       "pair_note": "都表示短暂或转瞬即逝",
       "mnemonic": "把 momentary 与“短暂的”绑定成一幅画面；等价词 evanescent 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 18
     },
     {
       "word": "belies",
@@ -273,7 +291,8 @@
       "pair_note": "都表示掩盖或隐藏真实情况",
       "mnemonic": "把 belies 与“掩饰”绑定成一幅画面；等价词 masks 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 19
     },
     {
       "word": "yield",
@@ -287,7 +306,8 @@
       "pair_note": "都会导致或产生某种结果",
       "mnemonic": "把 yield 与“产生”绑定成一幅画面；等价词 engender 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 20
     },
     {
       "word": "limpid",
@@ -301,7 +321,8 @@
       "pair_note": "都表示清澈透明，尤指空气或液体",
       "mnemonic": "把 limpid 与“清澈的”绑定成一幅画面；等价词 pellucid 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 21
     },
     {
       "word": "interdependent",
@@ -315,7 +336,8 @@
       "pair_note": "都表示事物之间紧密相连、彼此影响或依靠",
       "mnemonic": "把 interdependent 与“相互依赖的”绑定成一幅画面；等价词 interrelated 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 22
     },
     {
       "word": "prevalent",
@@ -329,7 +351,8 @@
       "pair_note": "普遍存在的，而非罕见或局限的",
       "mnemonic": "把 prevalent 与“普遍存在的”绑定成一幅画面；等价词 widespread 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 23
     },
     {
       "word": "undermined",
@@ -343,7 +366,8 @@
       "pair_note": "都表示削弱或损害，使效果或能力下降",
       "mnemonic": "把 undermined 与“逐渐破坏”绑定成一幅画面；等价词 impaired 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 24
     },
     {
       "word": "original",
@@ -357,7 +381,8 @@
       "pair_note": "都表示新的、独创的、不常见的",
       "mnemonic": "把 original 与“原创的”绑定成一幅画面；等价词 novel 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 25
     },
     {
       "word": "rejection",
@@ -371,7 +396,8 @@
       "pair_note": "都表示对某种事物的否定或脱离态度",
       "mnemonic": "把 rejection 与“拒绝”绑定成一幅画面；等价词 liberation 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 26
     },
     {
       "word": "confused",
@@ -385,7 +411,8 @@
       "pair_note": "都表示思维或情况混乱，难以理解",
       "mnemonic": "把 confused 与“困惑的”绑定成一幅画面；等价词 muddled 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 27
     },
     {
       "word": "expansion",
@@ -399,7 +426,8 @@
       "pair_note": "都表示规模、范围或数量的增加",
       "mnemonic": "把 expansion 与“扩展”绑定成一幅画面；等价词 augmentation 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 28
     },
     {
       "word": "exalt",
@@ -413,7 +441,8 @@
       "pair_note": "都表示高度赞扬或颂扬",
       "mnemonic": "把 exalt 与“赞扬”绑定成一幅画面；等价词 valorize 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 29
     },
     {
       "word": "respite",
@@ -427,7 +456,8 @@
       "pair_note": "都表示一个短暂的停顿、间歇或平静期",
       "mnemonic": "把 respite 与“短暂休息”绑定成一幅画面；等价词 lull 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 30
     },
     {
       "word": "gratify",
@@ -441,7 +471,8 @@
       "pair_note": "都会使人感到高兴或满意",
       "mnemonic": "把 gratify 与“使满意”绑定成一幅画面；等价词 please 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 31
     },
     {
       "word": "cumbersome",
@@ -455,7 +486,8 @@
       "pair_note": "都表示笨重、难以移动或处理",
       "mnemonic": "把 cumbersome 与“笨重的”绑定成一幅画面；等价词 unwieldy 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 32
     },
     {
       "word": "fractious",
@@ -469,7 +501,8 @@
       "pair_note": "指代难以管理、不配合、易引发骚动或不和的状态，都适合形容让推动共",
       "mnemonic": "把 fractious 与“难以管理的”绑定成一幅画面；等价词 restive 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 33
     },
     {
       "word": "snag",
@@ -483,7 +516,8 @@
       "pair_note": "都指意外出现的障碍或问题",
       "mnemonic": "把 snag 与“障碍”绑定成一幅画面；等价词 hitch 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 34
     },
     {
       "word": "adaptability",
@@ -497,7 +531,8 @@
       "pair_note": "都表示能够根据情况调整或改变的能力",
       "mnemonic": "把 adaptability 与“适应性”绑定成一幅画面；等价词 flexibility 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 35
     },
     {
       "word": "galvanize",
@@ -511,7 +546,8 @@
       "pair_note": "都会激励或激发行动",
       "mnemonic": "把 galvanize 与“激励”绑定成一幅画面；等价词 animate 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 36
     },
     {
       "word": "utilitarian",
@@ -525,7 +561,8 @@
       "pair_note": "都强调实用性和功能性，而非装饰性",
       "mnemonic": "把 utilitarian 与“功利的”绑定成一幅画面；等价词 functional 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 37
     },
     {
       "word": "quiescence",
@@ -539,7 +576,8 @@
       "pair_note": "都表示平静、不活跃或安静的状态",
       "mnemonic": "把 quiescence 与“静止”绑定成一幅画面；等价词 calm 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 38
     },
     {
       "word": "elicit",
@@ -553,7 +591,8 @@
       "pair_note": "都会引起或引出某种反应或行为",
       "mnemonic": "把 elicit 与“引出”绑定成一幅画面；等价词 draw 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 39
     },
     {
       "word": "primitive",
@@ -567,7 +606,8 @@
       "pair_note": "都表示简单、原始或未充分发展的状态",
       "mnemonic": "把 primitive 与“原始的”绑定成一幅画面；等价词 rudimentary 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 40
     },
     {
       "word": "acquiescence",
@@ -581,7 +621,8 @@
       "pair_note": "在语境中都表示同意或接受请求，体现被动或正式的让步意味",
       "mnemonic": "把 acquiescence 与“默许”绑定成一幅画面；等价词 accession 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 41
     },
     {
       "word": "somnolent",
@@ -595,7 +636,8 @@
       "pair_note": "都描述一种疲倦、缺乏活力的状态",
       "mnemonic": "把 somnolent 与“昏昏欲睡的”绑定成一幅画面；等价词 lethargic 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 42
     },
     {
       "word": "inferable from",
@@ -609,7 +651,8 @@
       "pair_note": "都表示新的结论（新定律）可以从旧的、已知的前提（旧定",
       "mnemonic": "把 inferable from 与“可由...推断得出的”绑定成一幅画面；等价词 entailed by 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 43
     },
     {
       "word": "decay",
@@ -623,7 +666,8 @@
       "pair_note": "都表示逐渐变坏或衰败的过程",
       "mnemonic": "把 decay 与“腐烂”绑定成一幅画面；等价词 deterioration 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 44
     },
     {
       "word": "shackle",
@@ -637,7 +681,8 @@
       "pair_note": "都会限制或阻碍自由或发展",
       "mnemonic": "把 shackle 与“束缚”绑定成一幅画面；等价词 stifle 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 45
     },
     {
       "word": "repudiate",
@@ -651,7 +696,8 @@
       "pair_note": "都表示公开拒绝、否认或放弃之前的立场、声明、信仰或政策",
       "mnemonic": "把 repudiate 与“拒绝接受”绑定成一幅画面；等价词 recant 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 46
     },
     {
       "word": "encomiums",
@@ -665,7 +711,8 @@
       "pair_note": "都表示正式的赞扬或致敬",
       "mnemonic": "把 encomiums 与“赞扬，颂词”绑定成一幅画面；等价词 tributes 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 47
     },
     {
       "word": "unostentatious",
@@ -679,7 +726,8 @@
       "pair_note": "形容不张扬、低调、朴素的特质或风格，与华丽炫耀形成对比",
       "mnemonic": "把 unostentatious 与“不炫耀的”绑定成一幅画面；等价词 modest 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 48
     },
     {
       "word": "dangerous",
@@ -693,7 +741,8 @@
       "pair_note": "都表示存在危险或可能导致伤害、损失的状态，在描述危险情境时",
       "mnemonic": "把 dangerous 与“危险的”绑定成一幅画面；等价词 perilous 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 49
     },
     {
       "word": "speculation",
@@ -707,7 +756,8 @@
       "pair_note": "都表示基于不完全证据的猜测或推测",
       "mnemonic": "把 speculation 与“推测”绑定成一幅画面；等价词 conjecture 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 50
     },
     {
       "word": "disparities",
@@ -721,7 +771,8 @@
       "pair_note": "都表示数量或程度上的差异",
       "mnemonic": "把 disparities 与“差异”绑定成一幅画面；等价词 variances 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 51
     },
     {
       "word": "abused",
@@ -735,7 +786,8 @@
       "pair_note": "都表示不正确地使用或滥用，尤其在概念或逻辑上",
       "mnemonic": "把 abused 与“滥用”绑定成一幅画面；等价词 misused 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 52
     },
     {
       "word": "relief",
@@ -749,7 +801,8 @@
       "pair_note": "从压力、困扰中获得暂时的解脱或宽慰",
       "mnemonic": "把 relief 与“痛苦或忧虑的减轻”绑定成一幅画面；等价词 respite 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 53
     },
     {
       "word": "portend",
@@ -763,7 +816,8 @@
       "pair_note": "都表示预示或预测未来事件",
       "mnemonic": "把 portend 与“预示”绑定成一幅画面；等价词 predict 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 54
     },
     {
       "word": "pristine",
@@ -777,7 +831,8 @@
       "pair_note": "都表示完美、未受损害的状态",
       "mnemonic": "把 pristine 与“原始状态的”绑定成一幅画面；等价词 unblemished 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 55
     },
     {
       "word": "lugubrious",
@@ -791,7 +846,8 @@
       "pair_note": "都表示悲伤、阴郁的情绪或氛围",
       "mnemonic": "把 lugubrious 与“悲哀的”绑定成一幅画面；等价词 gloomy 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 56
     },
     {
       "word": "heterogeneity",
@@ -805,7 +861,8 @@
       "pair_note": "都表示由多种不同成分或类型组成的特性",
       "mnemonic": "把 heterogeneity 与“异质性”绑定成一幅画面；等价词 diversity 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 57
     },
     {
       "word": "champion",
@@ -819,7 +876,8 @@
       "pair_note": "都表示积极支持或捍卫某个事业或权利",
       "mnemonic": "把 champion 与“拥护”绑定成一幅画面；等价词 defend 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 58
     },
     {
       "word": "sidestep",
@@ -833,7 +891,8 @@
       "pair_note": "都表示采取行动避开或绕过某事物，而非直接面对",
       "mnemonic": "把 sidestep 与“回避”绑定成一幅画面；等价词 circumvent 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 59
     },
     {
       "word": "mockery",
@@ -847,7 +906,8 @@
       "pair_note": "都表示轻蔑的嘲笑或嘲弄",
       "mnemonic": "把 mockery 与“嘲笑”绑定成一幅画面；等价词 derision 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 60
     },
     {
       "word": "burgeoning",
@@ -861,7 +921,8 @@
       "pair_note": "都表示快速增长或扩张的状态",
       "mnemonic": "把 burgeoning 与“快速增长的”绑定成一幅画面；等价词 expansion 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 61
     },
     {
       "word": "presage",
@@ -875,7 +936,8 @@
       "pair_note": "都表示预示或预兆未来事件",
       "mnemonic": "把 presage 与“预示”绑定成一幅画面；等价词 portend 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 62
     },
     {
       "word": "heterogeneous",
@@ -889,7 +951,8 @@
       "pair_note": "都表示不同或不相似的性质",
       "mnemonic": "把 heterogeneous 与“异质的”绑定成一幅画面；等价词 dissimilar 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 63
     },
     {
       "word": "extirpated",
@@ -903,7 +966,8 @@
       "pair_note": "都表示彻底移除或消灭，使不复存在。",
       "mnemonic": "把 extirpated 与“根除”绑定成一幅画面；等价词 eliminated 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 64
     },
     {
       "word": "deflate",
@@ -917,7 +981,8 @@
       "pair_note": "缓解或消除（担忧等负面情绪）",
       "mnemonic": "把 deflate 与“使泄气”绑定成一幅画面；等价词 soothe 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 65
     },
     {
       "word": "harmless",
@@ -931,7 +996,8 @@
       "pair_note": "都表示无害的，不会引起伤害或危害",
       "mnemonic": "把 harmless 与“无害的”绑定成一幅画面；等价词 innocuous 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 66
     },
     {
       "word": "familiar",
@@ -945,7 +1011,8 @@
       "pair_note": "都表示容易被识别或认识的",
       "mnemonic": "把 familiar 与“熟悉的”绑定成一幅画面；等价词 recognizable 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 67
     },
     {
       "word": "loquacious",
@@ -959,7 +1026,8 @@
       "pair_note": "都表示话多，喋喋不休",
       "mnemonic": "把 loquacious 与“健谈的”绑定成一幅画面；等价词 garrulous 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 68
     },
     {
       "word": "restorative",
@@ -973,7 +1041,8 @@
       "pair_note": "都具有恢复精力、健康或提振身心效果",
       "mnemonic": "把 restorative 与“恢复健康的”绑定成一幅画面；等价词 tonic 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 69
     },
     {
       "word": "prevented",
@@ -987,7 +1056,8 @@
       "pair_note": "使某事不可能发生或实现",
       "mnemonic": "把 prevented 与“阻止”绑定成一幅画面；等价词 precluded 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 70
     },
     {
       "word": "shrieking",
@@ -1001,7 +1071,8 @@
       "pair_note": "都指刺耳、不悦耳的尖叫声，常用于贬义描述难听的声音",
       "mnemonic": "把 shrieking 与“尖声喊叫的”绑定成一幅画面；等价词 caterwauling 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 71
     },
     {
       "word": "anticipates",
@@ -1015,7 +1086,8 @@
       "pair_note": "都表示提前预示或具有未来特征的迹象",
       "mnemonic": "把 anticipates 与“预期”绑定成一幅画面；等价词 prefigures 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 72
     },
     {
       "word": "generic",
@@ -1029,7 +1101,8 @@
       "pair_note": "都表示术语具有广泛性或包容性，含义依赖于语境",
       "mnemonic": "把 generic 与“通用的”绑定成一幅画面；等价词 inclusive 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 73
     },
     {
       "word": "defied",
@@ -1043,7 +1116,8 @@
       "pair_note": "都表示不遵循或无视逻辑",
       "mnemonic": "把 defied 与“公然反抗”绑定成一幅画面；等价词 disregarded 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 74
     },
     {
       "word": "anonymous",
@@ -1057,7 +1131,8 @@
       "pair_note": "都表示不为人知或不出名的状态",
       "mnemonic": "把 anonymous 与“匿名的”绑定成一幅画面；等价词 obscure 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 75
     },
     {
       "word": "recycle",
@@ -1071,7 +1146,8 @@
       "pair_note": "都表示重复使用旧内容，缺乏新意",
       "mnemonic": "把 recycle 与“回收利用”绑定成一幅画面；等价词 rehash 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 76
     },
     {
       "word": "malfeasance",
@@ -1085,7 +1161,8 @@
       "pair_note": "都指不道德或非法行为，尤其是涉及欺骗或滥用职权的",
       "mnemonic": "把 malfeasance 与“渎职”绑定成一幅画面；等价词 fraudulence 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 77
     },
     {
       "word": "abstraction",
@@ -1099,7 +1176,8 @@
       "pair_note": "都指抽象、不具体或一般化的概念",
       "mnemonic": "把 abstraction 与“抽象”绑定成一幅画面；等价词 generality 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 78
     },
     {
       "word": "decisive",
@@ -1113,7 +1191,8 @@
       "pair_note": "都表示明确、显著、不容置疑的影响",
       "mnemonic": "把 decisive 与“决定性的”绑定成一幅画面；等价词 unmistakable 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 79
     },
     {
       "word": "capture",
@@ -1127,7 +1206,8 @@
       "pair_note": "都表示短暂吸引或获得关注",
       "mnemonic": "把 capture 与“捕获”绑定成一幅画面；等价词 secure 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 80
     },
     {
       "word": "malodorous",
@@ -1141,7 +1221,8 @@
       "pair_note": "都表示气味难闻、令人不快的",
       "mnemonic": "把 malodorous 与“恶臭的”绑定成一幅画面；等价词 noisome 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 81
     },
     {
       "word": "prominence",
@@ -1155,7 +1236,8 @@
       "pair_note": "都表示在视觉、认知或重要性上引人注目的特征",
       "mnemonic": "把 prominence 与“突出”绑定成一幅画面；等价词 salience 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 82
     },
     {
       "word": "pecuniary",
@@ -1169,7 +1251,8 @@
       "pair_note": "都与金钱或财务利益相关",
       "mnemonic": "把 pecuniary 与“金钱的”绑定成一幅画面；等价词 economic 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 83
     },
     {
       "word": "waning",
@@ -1183,7 +1266,8 @@
       "pair_note": "都表示减少、下降或衰退的趋势",
       "mnemonic": "把 waning 与“减弱”绑定成一幅画面；等价词 declining 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 84
     },
     {
       "word": "slighted",
@@ -1197,7 +1281,8 @@
       "pair_note": "都表示轻视或贬低",
       "mnemonic": "把 slighted 与“轻视，怠慢，冷落”绑定成一幅画面；等价词 disparaged 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 85
     },
     {
       "word": "gainsaid",
@@ -1211,7 +1296,8 @@
       "pair_note": "都表示否认或反驳，意指某事物不可争辩",
       "mnemonic": "把 gainsaid 与“否认”绑定成一幅画面；等价词 disputed 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 86
     },
     {
       "word": "conform to",
@@ -1225,7 +1311,8 @@
       "pair_note": "都表示与某事物一致或符合",
       "mnemonic": "把 conform to 与“符合”绑定成一幅画面；等价词 square with 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 87
     },
     {
       "word": "sluggish",
@@ -1239,7 +1326,8 @@
       "pair_note": "都表示缓慢或拖延，导致效率低下，需要加速",
       "mnemonic": "把 sluggish 与“缓慢的”绑定成一幅画面；等价词 dilatory 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 88
     },
     {
       "word": "simplicity",
@@ -1253,7 +1341,8 @@
       "pair_note": "都表示简单、直接、不复杂，与晦涩或装饰相反",
       "mnemonic": "把 simplicity 与“简单”绑定成一幅画面；等价词 artlessness 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 89
     },
     {
       "word": "circumscribed",
@@ -1267,7 +1356,8 @@
       "pair_note": "都表示受到限制或局限",
       "mnemonic": "把 circumscribed 与“受限制的”绑定成一幅画面；等价词 confined 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 90
     },
     {
       "word": "constraining",
@@ -1281,7 +1371,8 @@
       "pair_note": "都表示抑制或阻止某种行为或倾向",
       "mnemonic": "把 constraining 与“限制”绑定成一幅画面；等价词 deterring 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 91
     },
     {
       "word": "detracting",
@@ -1295,7 +1386,8 @@
       "pair_note": "都表达批评、贬低，使事物价值或声誉降低的态度",
       "mnemonic": "把 detracting 与“贬低的”绑定成一幅画面；等价词 deprecatory 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 92
     },
     {
       "word": "purposefulness",
@@ -1309,7 +1401,8 @@
       "pair_note": "都表示有意图或故意的行为",
       "mnemonic": "把 purposefulness 与“有目的的”绑定成一幅画面；等价词 design 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 93
     },
     {
       "word": "hamper",
@@ -1323,7 +1416,8 @@
       "pair_note": "都会造成阻碍、妨碍，使进展变慢或更困难",
       "mnemonic": "把 hamper 与“阻碍，妨碍，牵制”绑定成一幅画面；等价词 impede 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 94
     },
     {
       "word": "impeding",
@@ -1337,7 +1431,8 @@
       "pair_note": "都会表示阻碍或妨碍某事的发展或进展",
       "mnemonic": "把 impeding 与“阻碍”绑定成一幅画面；等价词 hampering 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 95
     },
     {
       "word": "haphazardly",
@@ -1351,7 +1446,8 @@
       "pair_note": "均指缺乏计划、系统或固定模式的混乱状态",
       "mnemonic": "把 haphazardly 与“随意地”绑定成一幅画面；等价词 randomly 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 96
     },
     {
       "word": "capricious",
@@ -1365,7 +1461,8 @@
       "pair_note": "都表示变化无常、无法预测的特性",
       "mnemonic": "把 capricious 与“反复无常的”绑定成一幅画面；等价词 unpredictable 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 97
     },
     {
       "word": "foundation",
@@ -1379,7 +1476,8 @@
       "pair_note": "都表示某物得以存在的最初阶段或建立行为",
       "mnemonic": "把 foundation 与“建立”绑定成一幅画面；等价词 inception 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 98
     },
     {
       "word": "diminutive",
@@ -1393,7 +1491,8 @@
       "pair_note": "都强调尺寸异常微小",
       "mnemonic": "把 diminutive 与“极小的、特小的”绑定成一幅画面；等价词 minuscule 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 99
     },
     {
       "word": "scarcely",
@@ -1407,7 +1506,8 @@
       "pair_note": "都表示几乎不，强调程度极小或否定",
       "mnemonic": "把 scarcely 与“几乎不”绑定成一幅画面；等价词 hardly 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 100
     },
     {
       "word": "obtain",
@@ -1421,7 +1521,8 @@
       "pair_note": "都表示获取、获得信息，尤指从分散或有限来源中费力收集",
       "mnemonic": "把 obtain 与“获得”绑定成一幅画面；等价词 glean 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 101
     },
     {
       "word": "coherent",
@@ -1435,7 +1536,8 @@
       "pair_note": "都表示有条理、有逻辑，能形成完整结构",
       "mnemonic": "把 coherent 与“连贯的”绑定成一幅画面；等价词 orderly 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 102
     },
     {
       "word": "vitiate",
@@ -1449,7 +1551,8 @@
       "pair_note": "都表示损害事物的效力或价值",
       "mnemonic": "把 vitiate 与“损害（事物）的本质、效力或价值”绑定成一幅画面；等价词 impair 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 103
     },
     {
       "word": "porous",
@@ -1463,7 +1566,8 @@
       "pair_note": "都表示允许物质通过，形容边界不严格或易穿透",
       "mnemonic": "把 porous 与“多孔的”绑定成一幅画面；等价词 permeable 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 104
     },
     {
       "word": "homogeneity",
@@ -1477,7 +1581,8 @@
       "pair_note": "都指事物在本质、类型或外观上具有高度的相似性，强调趋",
       "mnemonic": "把 homogeneity 与“同质化”绑定成一幅画面；等价词 resemblance 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 105
     },
     {
       "word": "unfamiliarity with",
@@ -1491,7 +1596,8 @@
       "pair_note": "对某事物缺乏了解的状态",
       "mnemonic": "把 unfamiliarity with 与“不熟悉”绑定成一幅画面；等价词 ignorance of 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 106
     },
     {
       "word": "unalloyed",
@@ -1505,7 +1611,8 @@
       "pair_note": "都表示完全的、纯粹的，没有杂质或限制",
       "mnemonic": "把 unalloyed 与“纯粹的”绑定成一幅画面；等价词 unqualified 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 107
     },
     {
       "word": "denounces",
@@ -1519,7 +1626,8 @@
       "pair_note": "都表示公开、严厉地批评或谴责",
       "mnemonic": "把 denounces 与“谴责”绑定成一幅画面；等价词 lambastes 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 108
     },
     {
       "word": "tortuous",
@@ -1533,7 +1641,8 @@
       "pair_note": "都描述某事复杂、曲折、难以理解",
       "mnemonic": "把 tortuous 与“曲折的”绑定成一幅画面；等价词 convoluted 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 109
     },
     {
       "word": "burdensome",
@@ -1547,7 +1656,8 @@
       "pair_note": "都表示繁重、负担沉重，形容事物令人难以承受或处理",
       "mnemonic": "把 burdensome 与“繁重的”绑定成一幅画面；等价词 onerous 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 110
     },
     {
       "word": "inconstant",
@@ -1561,7 +1671,8 @@
       "pair_note": "都表示反复无常、变化不定",
       "mnemonic": "把 inconstant 与“反复无常的”绑定成一幅画面；等价词 capricious 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 111
     },
     {
       "word": "plethora",
@@ -1575,7 +1686,8 @@
       "pair_note": "都表示数量过多或过剩，在句子中暗示已有大量案例研究，因此新研究",
       "mnemonic": "把 plethora 与“过多的”绑定成一幅画面；等价词 surfeit 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 112
     },
     {
       "word": "triumph",
@@ -1589,7 +1701,8 @@
       "pair_note": "都指一个事件或行动取得了积极的、令人满意的结果或成就",
       "mnemonic": "把 triumph 与“胜利，巨大成功”绑定成一幅画面；等价词 success 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 113
     },
     {
       "word": "unorthodox",
@@ -1603,7 +1716,8 @@
       "pair_note": "都表示不遵循传统或常规方法",
       "mnemonic": "把 unorthodox 与“非正统的”绑定成一幅画面；等价词 unconventional 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 114
     },
     {
       "word": "altruistic",
@@ -1617,7 +1731,8 @@
       "pair_note": "都强调出于善意、无私的动机或行为",
       "mnemonic": "把 altruistic 与“利他的”绑定成一幅画面；等价词 benevolent 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 115
     },
     {
       "word": "favorable",
@@ -1631,7 +1746,8 @@
       "pair_note": "都表示有利的、积极的，预示着成功或好运",
       "mnemonic": "把 favorable 与“有利的”绑定成一幅画面；等价词 auspicious 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 116
     },
     {
       "word": "cursory",
@@ -1645,7 +1761,8 @@
       "pair_note": "都表示不深入、不细致的，用于描述快速或表面的检查",
       "mnemonic": "把 cursory 与“粗略的”绑定成一幅画面；等价词 casual 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 117
     },
     {
       "word": "rudimentary",
@@ -1659,7 +1776,8 @@
       "pair_note": "都形容事物处于最早、最初、未充分发展的初始阶段",
       "mnemonic": "把 rudimentary 与“基础的”绑定成一幅画面；等价词 embryonic 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 118
     },
     {
       "word": "maturity",
@@ -1673,7 +1791,8 @@
       "pair_note": "都表示在年龄上超出预期的成熟或发展",
       "mnemonic": "把 maturity 与“成熟”绑定成一幅画面；等价词 precociousness 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 119
     },
     {
       "word": "kinfolk",
@@ -1687,7 +1806,8 @@
       "pair_note": "都指家族成员或血缘关系的人",
       "mnemonic": "把 kinfolk 与“亲属”绑定成一幅画面；等价词 relative 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 120
     },
     {
       "word": "unlinked",
@@ -1701,7 +1821,8 @@
       "pair_note": "都表示分离或不连接的状态",
       "mnemonic": "把 unlinked 与“未连接的”绑定成一幅画面；等价词 estranged 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 121
     },
     {
       "word": "paucity",
@@ -1715,7 +1836,8 @@
       "pair_note": "都表示数量上的缺乏或不足",
       "mnemonic": "把 paucity 与“稀少”绑定成一幅画面；等价词 dearth 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 122
     },
     {
       "word": "perplexing",
@@ -1729,7 +1851,8 @@
       "pair_note": "都表示难以理解或解释的",
       "mnemonic": "把 perplexing 与“令人困惑的”绑定成一幅画面；等价词 enigmatic 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 123
     },
     {
       "word": "protean",
@@ -1743,7 +1866,8 @@
       "pair_note": "都表示具有多种才能或能扮演多种角色",
       "mnemonic": "把 protean 与“多才多艺的”绑定成一幅画面；等价词 versatile 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 124
     },
     {
       "word": "glut",
@@ -1757,7 +1881,8 @@
       "pair_note": "‘都指过度的、有害的过量’",
       "mnemonic": "把 glut 与“过量”绑定成一幅画面；等价词 surfeit 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 125
     },
     {
       "word": "relic",
@@ -1771,7 +1896,8 @@
       "pair_note": "都指过去事物的残留或痕迹，暗示与现在无关",
       "mnemonic": "把 relic 与“遗物”绑定成一幅画面；等价词 vestige 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 126
     },
     {
       "word": "humility",
@@ -1785,7 +1911,8 @@
       "pair_note": "都可描述一种不张扬、不自我夸耀的谦逊品质",
       "mnemonic": "把 humility 与“谦逊，谦卑”绑定成一幅画面；等价词 modesty 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 127
     },
     {
       "word": "quiescent",
@@ -1799,7 +1926,8 @@
       "pair_note": "都表示暂时不活跃或暂停的状态",
       "mnemonic": "把 quiescent 与“静止的”绑定成一幅画面；等价词 abeyant 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 128
     },
     {
       "word": "venerated",
@@ -1813,7 +1941,8 @@
       "pair_note": "都表示对某人深表尊敬，尤指因其成就或神圣性",
       "mnemonic": "把 venerated 与“崇敬的”绑定成一幅画面；等价词 honored 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 129
     },
     {
       "word": "exhaustive",
@@ -1827,7 +1956,8 @@
       "pair_note": "都表示全面的、详尽的，没有遗漏任何细节",
       "mnemonic": "把 exhaustive 与“详尽的”绑定成一幅画面；等价词 comprehensive 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 130
     },
     {
       "word": "laconic",
@@ -1841,7 +1971,8 @@
       "pair_note": "都表示沉默寡言、话语简洁",
       "mnemonic": "把 laconic 与“简洁的”绑定成一幅画面；等价词 taciturn 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 131
     },
     {
       "word": "hailed",
@@ -1855,7 +1986,8 @@
       "pair_note": "都表示公开赞扬或认可",
       "mnemonic": "把 hailed 与“称赞”绑定成一幅画面；等价词 acclaimed 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 132
     },
     {
       "word": "tactless",
@@ -1869,7 +2001,8 @@
       "pair_note": "都会因为不合时宜的言行而导致社交上的尴尬或对自身不利",
       "mnemonic": "把 tactless 与“不机智的”绑定成一幅画面；等价词 impolitic 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 133
     },
     {
       "word": "eliminated",
@@ -1883,7 +2016,8 @@
       "pair_note": "都表示使某事物结束或消失",
       "mnemonic": "把 eliminated 与“消除”绑定成一幅画面；等价词 put to rest 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 134
     },
     {
       "word": "demanded",
@@ -1897,7 +2031,8 @@
       "pair_note": "都表示强制性地要求，带有索取或强制的意味",
       "mnemonic": "把 demanded 与“要求”绑定成一幅画面；等价词 exacted 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 135
     },
     {
       "word": "controversial",
@@ -1911,7 +2046,8 @@
       "pair_note": "都能引发争议或不同意见",
       "mnemonic": "把 controversial 与“引发争议的”绑定成一幅画面；等价词 provocative 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 136
     },
     {
       "word": "eclipse",
@@ -1925,7 +2061,8 @@
       "pair_note": "都表示在程度或成就上‘超过、胜过’，使参照对象显得逊色",
       "mnemonic": "把 eclipse 与“使…相形见绌”绑定成一幅画面；等价词 outdo 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 137
     },
     {
       "word": "unconstrained",
@@ -1939,7 +2076,8 @@
       "pair_note": "都表示没有限制或约束，可以自由行动或表达",
       "mnemonic": "把 unconstrained 与“不受约束的”绑定成一幅画面；等价词 free 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 138
     },
     {
       "word": "approbation",
@@ -1953,7 +2091,8 @@
       "pair_note": "都表示赞扬或认可，常指公开或正式的高度评价",
       "mnemonic": "把 approbation 与“批准”绑定成一幅画面；等价词 adulation 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 139
     },
     {
       "word": "opprobrium",
@@ -1967,7 +2106,8 @@
       "pair_note": "都表示强烈的鄙视、轻蔑或谴责",
       "mnemonic": "把 opprobrium 与“耻辱”绑定成一幅画面；等价词 disdain 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 140
     },
     {
       "word": "panacea",
@@ -1981,7 +2121,8 @@
       "pair_note": "都表示能解决问题的方法或药方",
       "mnemonic": "把 panacea 与“万能药”绑定成一幅画面；等价词 remedy 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 141
     },
     {
       "word": "contingent",
@@ -1995,7 +2136,8 @@
       "pair_note": "都表示由外部环境或偶然条件决定的，而非内在固有的",
       "mnemonic": "把 contingent 与“取决于特定条件的”绑定成一幅画面；等价词 circumstantial 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 142
     },
     {
       "word": "spurious",
@@ -2009,7 +2151,8 @@
       "pair_note": "外表具有欺骗性的虚假之物",
       "mnemonic": "把 spurious 与“伪造的”绑定成一幅画面；等价词 specious 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 143
     },
     {
       "word": "short-lived",
@@ -2023,7 +2166,8 @@
       "pair_note": "都表示持续时间很短的，易逝的",
       "mnemonic": "把 short-lived 与“短暂存在的”绑定成一幅画面；等价词 ephemeral 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 144
     },
     {
       "word": "solidarity",
@@ -2037,7 +2181,8 @@
       "pair_note": "都表示团结、团队精神或集体归属感",
       "mnemonic": "把 solidarity 与“团结”绑定成一幅画面；等价词 camaraderie 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 145
     },
     {
       "word": "obtrusive",
@@ -2051,7 +2196,8 @@
       "pair_note": "引人注意、难以被忽视的（人或事物）",
       "mnemonic": "把 obtrusive 与“冒失的”绑定成一幅画面；等价词 conspicuous 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 146
     },
     {
       "word": "secure",
@@ -2065,7 +2211,8 @@
       "pair_note": "都表示通过行动或策略来获得或确保某物，如在政治中获取支持或选票",
       "mnemonic": "把 secure 与“确保”绑定成一幅画面；等价词 earn 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 147
     },
     {
       "word": "origin",
@@ -2079,7 +2226,8 @@
       "pair_note": "都指事物的起源或来源，强调产地或出处",
       "mnemonic": "把 origin 与“起源”绑定成一幅画面；等价词 provenance 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 148
     },
     {
       "word": "mitigated",
@@ -2093,7 +2241,8 @@
       "pair_note": "都表示减轻或减弱某事物的强度或影响",
       "mnemonic": "把 mitigated 与“减轻的”绑定成一幅画面；等价词 abated 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 149
     },
     {
       "word": "artificial",
@@ -2107,7 +2256,8 @@
       "pair_note": "都表示虚假的、不真实的",
       "mnemonic": "把 artificial 与“人工的”绑定成一幅画面；等价词 spurious 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 150
     },
     {
       "word": "dissemblance",
@@ -2121,7 +2271,8 @@
       "pair_note": "都指假装或欺骗，尤指言行不一",
       "mnemonic": "把 dissemblance 与“掩饰”绑定成一幅画面；等价词 duplicity 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 151
     },
     {
       "word": "self-interest",
@@ -2135,7 +2286,8 @@
       "pair_note": "都表示行为出于个人利益或机会考量",
       "mnemonic": "把 self-interest 与“自私自利”绑定成一幅画面；等价词 opportunism 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 152
     },
     {
       "word": "resonates",
@@ -2149,7 +2301,8 @@
       "pair_note": "都表示某事听起来真实可信，能引起共鸣或认同",
       "mnemonic": "把 resonates 与“引起共鸣”绑定成一幅画面；等价词 rings true 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 153
     },
     {
       "word": "tenacity",
@@ -2163,7 +2316,8 @@
       "pair_note": "都表示坚定不移、不轻易放弃的品质",
       "mnemonic": "把 tenacity 与“坚韧不拔”绑定成一幅画面；等价词 resolve 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 154
     },
     {
       "word": "adept",
@@ -2177,7 +2331,8 @@
       "pair_note": "都表示在某个领域有高度技能或知识",
       "mnemonic": "把 adept 与“精通的”绑定成一幅画面；等价词 proficient 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 155
     },
     {
       "word": "spirited",
@@ -2191,7 +2346,8 @@
       "pair_note": "都表示充满活力和能量的状态",
       "mnemonic": "把 spirited 与“精神饱满的”绑定成一幅画面；等价词 vigorous 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 156
     },
     {
       "word": "alarm",
@@ -2205,7 +2361,8 @@
       "pair_note": "都会使人感到不安或惊慌",
       "mnemonic": "把 alarm 与“使惊慌”绑定成一幅画面；等价词 unsettle 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 157
     },
     {
       "word": "temperate",
@@ -2219,7 +2376,8 @@
       "pair_note": "都表示冷静、不情绪化，与激烈的争论形成对比",
       "mnemonic": "把 temperate 与“温和的”绑定成一幅画面；等价词 dispassionate 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 158
     },
     {
       "word": "amazing",
@@ -2233,7 +2391,8 @@
       "pair_note": "都表示令人惊奇或赞叹的事物",
       "mnemonic": "把 amazing 与“令人惊讶的”绑定成一幅画面；等价词 wondrous 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 159
     },
     {
       "word": "trivial",
@@ -2247,7 +2406,8 @@
       "pair_note": "都表示不重要或无关紧要",
       "mnemonic": "把 trivial 与“琐碎的”绑定成一幅画面；等价词 inessential 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 160
     },
     {
       "word": "denunciations",
@@ -2261,7 +2421,8 @@
       "pair_note": "都表示公开的谴责或批评",
       "mnemonic": "把 denunciations 与“谴责”绑定成一幅画面；等价词 indictments 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 161
     },
     {
       "word": "neutrality",
@@ -2275,7 +2436,8 @@
       "pair_note": "都表示不偏不倚、保持客观中立的立场或态度",
       "mnemonic": "把 neutrality 与“中立”绑定成一幅画面；等价词 impartiality 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 162
     },
     {
       "word": "obscure",
@@ -2289,7 +2451,8 @@
       "pair_note": "都表示不为人知或缺乏知名度",
       "mnemonic": "把 obscure 与“不为人知的”绑定成一幅画面；等价词 unknown 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 163
     },
     {
       "word": "perennial",
@@ -2303,7 +2466,8 @@
       "pair_note": "都表示持续很长时间的",
       "mnemonic": "把 perennial 与“永久的”绑定成一幅画面；等价词 long-standing 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 164
     },
     {
       "word": "long-winded",
@@ -2317,7 +2481,8 @@
       "pair_note": "都表示言语或文字不必要地冗长、啰嗦，用词超过所需",
       "mnemonic": "把 long-winded 与“冗长的”绑定成一幅画面；等价词 verbose 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 165
     },
     {
       "word": "tempered",
@@ -2331,7 +2496,8 @@
       "pair_note": "都表示通过调节使事物变得温和或适度，以减少极端性，从而达成",
       "mnemonic": "把 tempered 与“使缓和”绑定成一幅画面；等价词 moderated 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 166
     },
     {
       "word": "canned",
@@ -2345,7 +2511,8 @@
       "pair_note": "都表示缺乏原创性、按固定模式或公式制作的",
       "mnemonic": "把 canned 与“预先录制好的”绑定成一幅画面；等价词 formulaic 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 167
     },
     {
       "word": "obsolete",
@@ -2359,7 +2526,8 @@
       "pair_note": "都表示过时的、不再适用的",
       "mnemonic": "把 obsolete 与“过时的”绑定成一幅画面；等价词 outmoded 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 168
     },
     {
       "word": "inexplicable",
@@ -2373,7 +2541,8 @@
       "pair_note": "都表示无法理解或解释的",
       "mnemonic": "把 inexplicable 与“无法解释的”绑定成一幅画面；等价词 incomprehensible 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 169
     },
     {
       "word": "experimental",
@@ -2387,7 +2556,8 @@
       "pair_note": "都表示尝试新方法或引入新思想，与传统或常规相对",
       "mnemonic": "把 experimental 与“实验性的”绑定成一幅画面；等价词 innovative 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 170
     },
     {
       "word": "veneration",
@@ -2401,7 +2571,8 @@
       "pair_note": "都表示深深的尊敬或崇敬",
       "mnemonic": "把 veneration 与“尊敬”绑定成一幅画面；等价词 reverence 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 171
     },
     {
       "word": "perceptive",
@@ -2415,7 +2586,8 @@
       "pair_note": "都指具有敏锐的观察、理解和精细区分的能力",
       "mnemonic": "把 perceptive 与“洞察力强的”绑定成一幅画面；等价词 discerning 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 172
     },
     {
       "word": "unabated",
@@ -2429,7 +2601,8 @@
       "pair_note": "都表示没有减弱或减少，保持原样或持续不变",
       "mnemonic": "把 unabated 与“未减弱的”绑定成一幅画面；等价词 undiminished 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 173
     },
     {
       "word": "regular",
@@ -2443,7 +2616,8 @@
       "pair_note": "都表示有规律的、稳定发生的",
       "mnemonic": "把 regular 与“规律的”绑定成一幅画面；等价词 consistent 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 174
     },
     {
       "word": "imitate",
@@ -2457,7 +2631,8 @@
       "pair_note": "都表示模仿或效仿他人的行为",
       "mnemonic": "把 imitate 与“模仿”绑定成一幅画面；等价词 emulate 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 175
     },
     {
       "word": "shrewd",
@@ -2471,7 +2646,8 @@
       "pair_note": "都表示精明、有洞察力，善于在策略或决策中做出明智判断",
       "mnemonic": "把 shrewd 与“精明的”绑定成一幅画面；等价词 canny 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 176
     },
     {
       "word": "discrepancies",
@@ -2485,7 +2661,8 @@
       "pair_note": "均指事物间的不匹配、不一致或矛盾的状态，与‘major（主",
       "mnemonic": "把 discrepancies 与“差异”绑定成一幅画面；等价词 incongruities 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 177
     },
     {
       "word": "precise",
@@ -2499,7 +2676,8 @@
       "pair_note": "在陈述事实时注重准确性和谨慎性",
       "mnemonic": "把 precise 与“精确的”绑定成一幅画面；等价词 circumspect 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 178
     },
     {
       "word": "disinformation",
@@ -2513,7 +2691,8 @@
       "pair_note": "都指代虚假、欺骗性的内容或性质",
       "mnemonic": "把 disinformation 与“虚假信息”绑定成一幅画面；等价词 mendacity 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 179
     },
     {
       "word": "disparaged",
@@ -2527,7 +2706,8 @@
       "pair_note": "都表示以轻蔑或嘲笑的方式表达不满或批评",
       "mnemonic": "把 disparaged 与“贬低”绑定成一幅画面；等价词 mocked 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 180
     },
     {
       "word": "assured",
@@ -2541,7 +2721,8 @@
       "pair_note": "都表示确定的、稳固的，暗示一个固定或无需争议的位置",
       "mnemonic": "把 assured 与“有保证的”绑定成一幅画面；等价词 settled 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 181
     },
     {
       "word": "transitory",
@@ -2555,7 +2736,8 @@
       "pair_note": "短暂、不持久的性质",
       "mnemonic": "把 transitory 与“短暂的”绑定成一幅画面；等价词 temporary 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 182
     },
     {
       "word": "hallowed",
@@ -2569,7 +2751,8 @@
       "pair_note": "都表示受到高度尊敬或崇敬，常用来形容被广泛认可或推崇的事物",
       "mnemonic": "把 hallowed 与“神圣的”绑定成一幅画面；等价词 respected 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 183
     },
     {
       "word": "preternatural",
@@ -2583,7 +2766,8 @@
       "pair_note": "都表示超出寻常的、非凡的，常用于描述卓越的能力或特质",
       "mnemonic": "把 preternatural 与“超自然的”绑定成一幅画面；等价词 prodigious 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 184
     },
     {
       "word": "scarce",
@@ -2597,7 +2781,8 @@
       "pair_note": "都表示数量或程度不足，无法满足需要或标准",
       "mnemonic": "把 scarce 与“稀缺的”绑定成一幅画面；等价词 inadequate 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 185
     },
     {
       "word": "futile",
@@ -2611,7 +2796,8 @@
       "pair_note": "都形容努力或行动没有结果、白费力气",
       "mnemonic": "把 futile 与“徒劳的”绑定成一幅画面；等价词 fruitless 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 186
     },
     {
       "word": "excellent",
@@ -2625,7 +2811,8 @@
       "pair_note": "在句子语境中都表示一个‘非常合适/理想的’避难所或环境",
       "mnemonic": "把 excellent 与“极好的，卓越的，非常适宜的”绑定成一幅画面；等价词 agreeable 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 187
     },
     {
       "word": "comprehended",
@@ -2639,7 +2826,8 @@
       "pair_note": "都表示完全理解或领会",
       "mnemonic": "把 comprehended 与“理解”绑定成一幅画面；等价词 fathomed 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 188
     },
     {
       "word": "irony",
@@ -2653,7 +2841,8 @@
       "pair_note": "都表示一种矛盾或相反的情况，其中事情的结果与预期相反或自相矛盾",
       "mnemonic": "把 irony 与“讽刺”绑定成一幅画面；等价词 paradox 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 189
     },
     {
       "word": "invigorating",
@@ -2667,7 +2856,8 @@
       "pair_note": "都表示一种令人精神振奋、焕然一新的感觉",
       "mnemonic": "把 invigorating 与“令人振奋的”绑定成一幅画面；等价词 refreshing 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 190
     },
     {
       "word": "divest",
@@ -2681,7 +2871,8 @@
       "pair_note": "都表示剥夺或移除某物，尤其在职位或权力方面",
       "mnemonic": "把 divest 与“剥夺”绑定成一幅画面；等价词 strip 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 191
     },
     {
       "word": "render",
@@ -2695,7 +2886,8 @@
       "pair_note": "都表示精确地呈现或复制原物",
       "mnemonic": "把 render 与“呈现”绑定成一幅画面；等价词 reproduce 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 192
     },
     {
       "word": "mediated by",
@@ -2709,7 +2901,8 @@
       "pair_note": "都表示外在因素（如文化）对某事（如习惯）起着重要的塑造",
       "mnemonic": "把 mediated by 与“经由...调节/促成”绑定成一幅画面；等价词 influenced by 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 193
     },
     {
       "word": "catalyst for",
@@ -2723,7 +2916,8 @@
       "pair_note": "都是指引发或促进变化的（关键）事物或力量",
       "mnemonic": "把 catalyst for 与“催化剂”绑定成一幅画面；等价词 factor in 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 194
     },
     {
       "word": "sanctioning",
@@ -2737,7 +2931,8 @@
       "pair_note": "都表示容忍或允许某事发生",
       "mnemonic": "把 sanctioning 与“批准”绑定成一幅画面；等价词 countenancing 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 195
     },
     {
       "word": "dubious",
@@ -2751,7 +2946,8 @@
       "pair_note": "都表示某事或某人不可信、值得怀疑",
       "mnemonic": "把 dubious 与“可疑的”绑定成一幅画面；等价词 suspect 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 196
     },
     {
       "word": "scary",
@@ -2765,7 +2961,8 @@
       "pair_note": "都会引起恐惧或害怕的感觉",
       "mnemonic": "把 scary 与“可怕的”绑定成一幅画面；等价词 intimidating 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 197
     },
     {
       "word": "proclivity",
@@ -2779,7 +2976,8 @@
       "pair_note": "都表示对某事的自然倾向或喜好",
       "mnemonic": "把 proclivity 与“倾向”绑定成一幅画面；等价词 affinity 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 198
     },
     {
       "word": "identified",
@@ -2793,7 +2991,8 @@
       "pair_note": "在语境中都可表示识别或判定某事物为某种状态或问题",
       "mnemonic": "把 identified 与“识别出的”绑定成一幅画面；等价词 diagnosed 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 199
     },
     {
       "word": "dismiss",
@@ -2807,7 +3006,8 @@
       "pair_note": "都表示主动选择不理会或忽视某事物",
       "mnemonic": "把 dismiss 与“不予理会”绑定成一幅画面；等价词 ignore 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 200
     },
     {
       "word": "showy",
@@ -2821,7 +3021,8 @@
       "pair_note": "都指外表华丽吸引人但可能缺乏实质或深度",
       "mnemonic": "把 showy 与“显眼的”绑定成一幅画面；等价词 meretricious 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 201
     },
     {
       "word": "inaccessible to",
@@ -2835,7 +3036,8 @@
       "pair_note": "都表示对特定对象（读者）而言，难以达到或难以",
       "mnemonic": "把 inaccessible to 与“让...难以到达的”绑定成一幅画面；等价词 insurmountable for 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 202
     },
     {
       "word": "bounds",
@@ -2849,7 +3051,8 @@
       "pair_note": "都表示不可逾越的边界或限制，指事物范围或行动的约束",
       "mnemonic": "把 bounds 与“边界”绑定成一幅画面；等价词 limits 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 203
     },
     {
       "word": "placidity",
@@ -2863,7 +3066,8 @@
       "pair_note": "在句子上下文中都表示因不感威胁而表现出的缺乏担忧或焦虑的",
       "mnemonic": "把 placidity 与“平静”绑定成一幅画面；等价词 complacency 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 204
     },
     {
       "word": "calamity",
@@ -2877,7 +3081,8 @@
       "pair_note": "都指严重的灾难或不幸事件，强调巨大损失或痛苦",
       "mnemonic": "把 calamity 与“灾难”绑定成一幅画面；等价词 disaster 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 205
     },
     {
       "word": "comparable",
@@ -2891,7 +3096,8 @@
       "pair_note": "都表示事物之间具有相似性或可比较性",
       "mnemonic": "把 comparable 与“可比较的”绑定成一幅画面；等价词 analogous 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 206
     },
     {
       "word": "elude",
@@ -2905,7 +3111,8 @@
       "pair_note": "都会使某人感到困惑或难以理解",
       "mnemonic": "把 elude 与“逃避”绑定成一幅画面；等价词 puzzle 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 207
     },
     {
       "word": "compelling",
@@ -2919,7 +3126,8 @@
       "pair_note": "都指事物具有吸引人的特质，能激发人的关注或兴趣",
       "mnemonic": "把 compelling 与“引人入胜的”绑定成一幅画面；等价词 interesting 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 208
     },
     {
       "word": "beget",
@@ -2933,7 +3141,8 @@
       "pair_note": "都表示产生或创造新事物",
       "mnemonic": "把 beget 与“产生”绑定成一幅画面；等价词 create 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 209
     },
     {
       "word": "palatable",
@@ -2947,7 +3156,8 @@
       "pair_note": "都形容食物美味、令人有食欲",
       "mnemonic": "把 palatable 与“可口的”绑定成一幅画面；等价词 appetizing 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 210
     },
     {
       "word": "sober",
@@ -2961,7 +3171,8 @@
       "pair_note": "都表示严肃、稳重、不轻浮的状态",
       "mnemonic": "把 sober 与“清醒的”绑定成一幅画面；等价词 staid 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 211
     },
     {
       "word": "benign",
@@ -2975,7 +3186,8 @@
       "pair_note": "都强调‘无害的、不造成伤害的’这一核心特征",
       "mnemonic": "把 benign 与“良性的”绑定成一幅画面；等价词 innocuous 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 212
     },
     {
       "word": "disapprobation",
@@ -2989,7 +3201,8 @@
       "pair_note": "上级正式的、不认可的负面评价",
       "mnemonic": "把 disapprobation 与“不赞成”绑定成一幅画面；等价词 censure 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 213
     },
     {
       "word": "attenuating",
@@ -3003,7 +3216,8 @@
       "pair_note": "都表示信号或能量减弱或消失",
       "mnemonic": "把 attenuating 与“减弱”绑定成一幅画面；等价词 dissipating 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 214
     },
     {
       "word": "confound",
@@ -3017,7 +3231,8 @@
       "pair_note": "都表示抵制或抗拒分类，使难以被简单归类",
       "mnemonic": "把 confound 与“使困惑”绑定成一幅画面；等价词 resist 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 215
     },
     {
       "word": "intemperate",
@@ -3031,7 +3246,8 @@
       "pair_note": "表示行为或程度超出正常或适当限度",
       "mnemonic": "把 intemperate 与“放纵的”绑定成一幅画面；等价词 excessive 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 216
     },
     {
       "word": "intuitive",
@@ -3045,7 +3261,8 @@
       "pair_note": "都表示容易理解或无需复杂思考",
       "mnemonic": "把 intuitive 与“直观的”绑定成一幅画面；等价词 straightforward 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 217
     },
     {
       "word": "counterfeit",
@@ -3059,7 +3276,8 @@
       "pair_note": "都表示‘虚假的、伪造的’，强调其不真实性或欺骗性，因此可以用",
       "mnemonic": "把 counterfeit 与“伪造的”绑定成一幅画面；等价词 spurious 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 218
     },
     {
       "word": "versatile",
@@ -3073,7 +3291,8 @@
       "pair_note": "都表示能够以多种不同的方式、形式或角色展现能力，强调多样变化的",
       "mnemonic": "把 versatile 与“多才多艺的”绑定成一幅画面；等价词 protean 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 219
     },
     {
       "word": "indigence",
@@ -3087,7 +3306,8 @@
       "pair_note": "都表示极度的贫困或贫穷状态",
       "mnemonic": "把 indigence 与“贫困”绑定成一幅画面；等价词 penury 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 220
     },
     {
       "word": "unrelated",
@@ -3101,7 +3321,8 @@
       "pair_note": "都强调两个事物之间没有关联、是独立的",
       "mnemonic": "把 unrelated 与“无关的”绑定成一幅画面；等价词 separate 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 221
     },
     {
       "word": "asymmetrically",
@@ -3115,7 +3336,8 @@
       "pair_note": "都表示不对称或不均匀的分布，强调位置或形状的不平衡",
       "mnemonic": "把 asymmetrically 与“不对称地”绑定成一幅画面；等价词 unevenly 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 222
     },
     {
       "word": "sullen",
@@ -3129,7 +3351,8 @@
       "pair_note": "都描述了不友好、阴沉、易怒的情绪状态",
       "mnemonic": "把 sullen 与“闷闷不乐的，阴郁的”绑定成一幅画面；等价词 surly 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 223
     },
     {
       "word": "predominantly",
@@ -3143,7 +3366,8 @@
       "pair_note": "在句中都能表达出‘特别地、突出地’这一核心语义，强调",
       "mnemonic": "把 predominantly 与“主要地”绑定成一幅画面；等价词 particularly 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 224
     },
     {
       "word": "hidebound",
@@ -3157,7 +3381,8 @@
       "pair_note": "都表示思想狭隘、固执守旧、不开放",
       "mnemonic": "把 hidebound 与“思想狭隘的”绑定成一幅画面；等价词 illiberal 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 225
     },
     {
       "word": "competing",
@@ -3171,7 +3396,8 @@
       "pair_note": "都表示相互竞争、对抗或争论的状态",
       "mnemonic": "把 competing 与“竞争的”绑定成一幅画面；等价词 contending 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 226
     },
     {
       "word": "prudent",
@@ -3185,7 +3411,8 @@
       "pair_note": "都表示谨慎、有远见，强调为避免未来问题而采取行动",
       "mnemonic": "把 prudent 与“谨慎的”绑定成一幅画面；等价词 provident 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 227
     },
     {
       "word": "somnolence",
@@ -3199,7 +3426,8 @@
       "pair_note": "都表示一种昏昏欲睡、缺乏活力的状态，导致行动迟缓或准备不足",
       "mnemonic": "把 somnolence 与“困倦”绑定成一幅画面；等价词 lethargy 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 228
     },
     {
       "word": "insulated from",
@@ -3213,7 +3441,8 @@
       "pair_note": "都表示保护免受某事的影响，起到隔离或缓冲作用",
       "mnemonic": "把 insulated from 与“隔离于”绑定成一幅画面；等价词 buffered against 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 229
     },
     {
       "word": "inconspicuous",
@@ -3227,7 +3456,8 @@
       "pair_note": "都表示不显眼或不引人注目",
       "mnemonic": "把 inconspicuous 与“不显眼的”绑定成一幅画面；等价词 discreet 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 230
     },
     {
       "word": "altruism",
@@ -3241,7 +3471,8 @@
       "pair_note": "都表示无私、关心他人的品质或行为",
       "mnemonic": "把 altruism 与“利他主义”绑定成一幅画面；等价词 benevolence 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 231
     },
     {
       "word": "convey",
@@ -3255,7 +3486,8 @@
       "pair_note": "都表示传递或传达信息、情感或品质",
       "mnemonic": "把 convey 与“传达”绑定成一幅画面；等价词 impart 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 232
     },
     {
       "word": "imprecise",
@@ -3269,7 +3501,8 @@
       "pair_note": "都表示不精确、不准确，强调缺乏精准性",
       "mnemonic": "把 imprecise 与“不精确的”绑定成一幅画面；等价词 inexact 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 233
     },
     {
       "word": "peripatetic",
@@ -3283,7 +3516,8 @@
       "pair_note": "都表示经常移动、旅行或流动的状态",
       "mnemonic": "把 peripatetic 与“巡游的”绑定成一幅画面；等价词 itinerant 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 234
     },
     {
       "word": "pliable",
@@ -3297,7 +3531,8 @@
       "pair_note": "都表示材料容易弯曲或塑造的性质",
       "mnemonic": "把 pliable 与“易弯曲的”绑定成一幅画面；等价词 malleable 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 235
     },
     {
       "word": "anomalous",
@@ -3311,7 +3546,8 @@
       "pair_note": "都表示偏离常态或不常见，强调异常性或稀有性",
       "mnemonic": "把 anomalous 与“异常的”绑定成一幅画面；等价词 uncommon 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 236
     },
     {
       "word": "defray",
@@ -3325,7 +3561,8 @@
       "pair_note": "都表示支付或承担费用",
       "mnemonic": "把 defray 与“支付”绑定成一幅画面；等价词 pay 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 237
     },
     {
       "word": "fitting",
@@ -3339,7 +3576,8 @@
       "pair_note": "都表示恰当的、适合的",
       "mnemonic": "把 fitting 与“合适的”绑定成一幅画面；等价词 apposite 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 238
     },
     {
       "word": "inept at",
@@ -3353,7 +3591,8 @@
       "pair_note": "都表示缺乏能力或不擅长",
       "mnemonic": "把 inept at 与“不擅长的”绑定成一幅画面；等价词 unequal to 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 239
     },
     {
       "word": "stratified",
@@ -3367,7 +3606,8 @@
       "pair_note": "都表示形成层次或区分出不同部分",
       "mnemonic": "把 stratified 与“分层的”绑定成一幅画面；等价词 differentiated 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 240
     },
     {
       "word": "slanted",
@@ -3381,7 +3621,8 @@
       "pair_note": "都表示信息带有偏见或倾向性，不中立客观，使得区分真假变得困",
       "mnemonic": "把 slanted 与“有偏见的”绑定成一幅画面；等价词 tendentious 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 241
     },
     {
       "word": "impatient",
@@ -3395,7 +3636,8 @@
       "pair_note": "在否定结构中表示不急切或不情愿",
       "mnemonic": "把 impatient 与“不耐烦的”绑定成一幅画面；等价词 keen 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 242
     },
     {
       "word": "malleable",
@@ -3409,7 +3651,8 @@
       "pair_note": "都表示物质或事物能够被塑造、改变或适应新条件",
       "mnemonic": "把 malleable 与“可塑的”绑定成一幅画面；等价词 plastic 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 243
     },
     {
       "word": "discounted",
@@ -3423,7 +3666,8 @@
       "pair_note": "都被学者们给予过低评价、未给予应有重视",
       "mnemonic": "把 discounted 与“低估…的重要性”绑定成一幅画面；等价词 slighted 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 244
     },
     {
       "word": "overstated",
@@ -3437,7 +3681,8 @@
       "pair_note": "都表示把事情说得比实际情况更严重或更重要，即过度陈述",
       "mnemonic": "把 overstated 与“夸大”绑定成一幅画面；等价词 exaggerated 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 245
     },
     {
       "word": "dearth",
@@ -3451,7 +3696,8 @@
       "pair_note": "都表示数量上的缺乏或不足",
       "mnemonic": "把 dearth 与“短缺”绑定成一幅画面；等价词 paucity 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 246
     },
     {
       "word": "engaging",
@@ -3465,7 +3711,8 @@
       "pair_note": "都表示有吸引力、迷人的特质",
       "mnemonic": "把 engaging 与“吸引人的”绑定成一幅画面；等价词 winning 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 247
     },
     {
       "word": "unremunerative",
@@ -3479,7 +3726,8 @@
       "pair_note": "都指在经济回报或收益上不划算、不值得做",
       "mnemonic": "把 unremunerative 与“无利可图的”绑定成一幅画面；等价词 unprofitable 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 248
     },
     {
       "word": "staid",
@@ -3493,7 +3741,8 @@
       "pair_note": "都描述一种因循守旧、缺乏创新或活力的保守状态",
       "mnemonic": "把 staid 与“因循守旧的”绑定成一幅画面；等价词 unadventurous 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 249
     },
     {
       "word": "sullying",
@@ -3507,7 +3756,8 @@
       "pair_note": "都表示玷污或败坏，尤指名声或纯洁性",
       "mnemonic": "把 sullying 与“玷污”绑定成一幅画面；等价词 tainting 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 250
     },
     {
       "word": "flexibility",
@@ -3521,7 +3771,8 @@
       "pair_note": "都表示物体能够弯曲、适应而不易断裂，适合描述工具进入身体的",
       "mnemonic": "把 flexibility 与“灵活性”绑定成一幅画面；等价词 suppleness 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 251
     },
     {
       "word": "elisions",
@@ -3535,7 +3786,8 @@
       "pair_note": "都表示‘被省略、未被包含的内容’",
       "mnemonic": "把 elisions 与“省略”绑定成一幅画面；等价词 omissions 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 252
     },
     {
       "word": "paralleled",
@@ -3549,7 +3801,8 @@
       "pair_note": "都表示‘与…相似’或‘具有相似性’这一核心含义",
       "mnemonic": "把 paralleled 与“相似的，对应的”绑定成一幅画面；等价词 resembled 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 253
     },
     {
       "word": "misleading",
@@ -3563,7 +3816,8 @@
       "pair_note": "都表示不真实或具有误导性，给人以虚假或错误的印象",
       "mnemonic": "把 misleading 与“误导性的”绑定成一幅画面；等价词 illusory 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 254
     },
     {
       "word": "elusive",
@@ -3577,7 +3831,8 @@
       "pair_note": "都表示难以获得、实现或捉摸的状态",
       "mnemonic": "把 elusive 与“难以捉摸的”绑定成一幅画面；等价词 unattainable 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 255
     },
     {
       "word": "atypical",
@@ -3591,7 +3846,8 @@
       "pair_note": "都表示偏离常规或标准，具有不寻常或非凡的特性",
       "mnemonic": "把 atypical 与“非典型的”绑定成一幅画面；等价词 exceptional 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 256
     },
     {
       "word": "proscribing",
@@ -3605,7 +3861,8 @@
       "pair_note": "都表示禁止或不允许的行为",
       "mnemonic": "把 proscribing 与“明令禁止”绑定成一幅画面；等价词 enjoining 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 257
     },
     {
       "word": "contemptuous",
@@ -3619,7 +3876,8 @@
       "pair_note": "都表示一种居高临下、看不起人的轻蔑态度",
       "mnemonic": "把 contemptuous 与“轻蔑的、鄙视的”绑定成一幅画面；等价词 supercilious 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 258
     },
     {
       "word": "uniform",
@@ -3633,7 +3891,8 @@
       "pair_note": "都表示均匀、一致、没有差异的状态",
       "mnemonic": "把 uniform 与“均匀的”绑定成一幅画面；等价词 homogeneous 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 259
     },
     {
       "word": "scant",
@@ -3647,7 +3906,8 @@
       "pair_note": "都表示数量很少或不足",
       "mnemonic": "把 scant 与“缺乏的”绑定成一幅画面；等价词 little 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 260
     },
     {
       "word": "tendentious",
@@ -3661,7 +3921,8 @@
       "pair_note": "都表示并非中立、带有强烈的偏见或倾向性，服务于特定立场",
       "mnemonic": "把 tendentious 与“有倾向性的”绑定成一幅画面；等价词 partisan 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 261
     },
     {
       "word": "propagate",
@@ -3675,7 +3936,8 @@
       "pair_note": "都表示传播或扩散，尤其指技术、信息等的广泛传布",
       "mnemonic": "把 propagate 与“传播”绑定成一幅画面；等价词 spread 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 262
     },
     {
       "word": "ubiquitous",
@@ -3689,7 +3951,8 @@
       "pair_note": "表示某物非常普遍或广泛存在",
       "mnemonic": "把 ubiquitous 与“普遍存在的”绑定成一幅画面；等价词 prevalent 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 263
     },
     {
       "word": "robust",
@@ -3703,7 +3966,8 @@
       "pair_note": "都形容经济状态良好、强健，不易受外部冲击",
       "mnemonic": "把 robust 与“强健的”绑定成一幅画面；等价词 healthy 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 264
     },
     {
       "word": "buoyed",
@@ -3717,7 +3981,8 @@
       "pair_note": "都表示被某种力量支持或维持，使能度过困难或持续前进",
       "mnemonic": "把 buoyed 与“被支持的”绑定成一幅画面；等价词 sustained 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 265
     },
     {
       "word": "eschew",
@@ -3731,7 +3996,8 @@
       "pair_note": "都表示有意避开或避免某事",
       "mnemonic": "把 eschew 与“避免”绑定成一幅画面；等价词 avoid 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 266
     },
     {
       "word": "entrenched",
@@ -3745,7 +4011,8 @@
       "pair_note": "形容立场坚定、毫不退让，是达成妥协的障碍",
       "mnemonic": "把 entrenched 与“根深蒂固的”绑定成一幅画面；等价词 obdurate 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 267
     },
     {
       "word": "acrimony",
@@ -3759,7 +4026,8 @@
       "pair_note": "都表示强烈的敌意或怨恨，尤指在言辞或态度中体现",
       "mnemonic": "把 acrimony 与“尖酸刻薄”绑定成一幅画面；等价词 rancor 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 268
     },
     {
       "word": "enigmatic",
@@ -3773,7 +4041,8 @@
       "pair_note": "都表示难以理解或解释，描述某事神秘或不可知",
       "mnemonic": "把 enigmatic 与“神秘的”绑定成一幅画面；等价词 inscrutable 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 269
     },
     {
       "word": "defy",
@@ -3787,7 +4056,8 @@
       "pair_note": "都表示公然反抗或蔑视规则、权威",
       "mnemonic": "把 defy 与“违抗”绑定成一幅画面；等价词 flout 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 270
     },
     {
       "word": "restraint",
@@ -3801,7 +4071,8 @@
       "pair_note": "都表示克制或控制自己的行为或情绪",
       "mnemonic": "把 restraint 与“克制”绑定成一幅画面；等价词 self-control 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 271
     },
     {
       "word": "stationary",
@@ -3815,7 +4086,8 @@
       "pair_note": "都表示不移动、不变化的状态",
       "mnemonic": "把 stationary 与“静止的”绑定成一幅画面；等价词 static 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 272
     },
     {
       "word": "polemic",
@@ -3829,7 +4101,8 @@
       "pair_note": "强调通过激烈辩论来争论",
       "mnemonic": "把 polemic 与“激烈的辩论”绑定成一幅画面；等价词 disputation 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 273
     },
     {
       "word": "voluble",
@@ -3843,7 +4116,8 @@
       "pair_note": "都表示人健谈、话多",
       "mnemonic": "把 voluble 与“健谈的”绑定成一幅画面；等价词 expansive 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 274
     },
     {
       "word": "understandable",
@@ -3857,7 +4131,8 @@
       "pair_note": "都表示某事是合理的或在意料之中",
       "mnemonic": "把 understandable 与“可以理解的”绑定成一幅画面；等价词 unsurprising 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 275
     },
     {
       "word": "permeate",
@@ -3871,7 +4146,8 @@
       "pair_note": "都表示一种深刻、持续且塑造性的影响",
       "mnemonic": "把 permeate 与“渗透、弥漫于、遍及”绑定成一幅画面；等价词 inform 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 276
     },
     {
       "word": "authoritative",
@@ -3885,7 +4161,8 @@
       "pair_note": "都表示具有最终权威或决定性的",
       "mnemonic": "把 authoritative 与“权威的”绑定成一幅画面；等价词 definitive 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 277
     },
     {
       "word": "characteristic",
@@ -3899,7 +4176,8 @@
       "pair_note": "都表示具有代表性或典型特征的",
       "mnemonic": "把 characteristic 与“典型的”绑定成一幅画面；等价词 emblematic 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 278
     },
     {
       "word": "consensus",
@@ -3913,7 +4191,8 @@
       "pair_note": "都指意见、看法或判断上的一致状态，而非分歧或混乱",
       "mnemonic": "把 consensus 与“共识”绑定成一幅画面；等价词 accord 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 279
     },
     {
       "word": "unpredictable",
@@ -3927,7 +4206,8 @@
       "pair_note": "都描述了事物（如天气）的本质难以捉摸、无法被准确预见的特",
       "mnemonic": "把 unpredictable 与“无法预测的”绑定成一幅画面；等价词 fickleness 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 280
     },
     {
       "word": "early",
@@ -3941,7 +4221,8 @@
       "pair_note": "都形容在年龄较小时就展现出非凡才能或成熟特质",
       "mnemonic": "把 early 与“早期的”绑定成一幅画面；等价词 precocious 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 281
     },
     {
       "word": "contrived",
@@ -3955,7 +4236,8 @@
       "pair_note": "都描述刻意做作的，非自然或自发产生的状态",
       "mnemonic": "把 contrived 与“刻意做作的”绑定成一幅画面；等价词 artificial 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 282
     },
     {
       "word": "bromides",
@@ -3969,7 +4251,8 @@
       "pair_note": "都指缺乏新意、平淡无奇的陈腐言论",
       "mnemonic": "把 bromides 与“陈词滥调”绑定成一幅画面；等价词 platitudes 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 283
     },
     {
       "word": "speculative",
@@ -3983,7 +4266,8 @@
       "pair_note": "都表示缺乏确凿证据，基于猜测或未证实的",
       "mnemonic": "把 speculative 与“推测的”绑定成一幅画面；等价词 unsubstantiated 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 284
     },
     {
       "word": "recalcitrant",
@@ -3997,7 +4281,8 @@
       "pair_note": "形容事物或问题极其难以对付、难以管理或解决",
       "mnemonic": "把 recalcitrant 与“顽抗的”绑定成一幅画面；等价词 intractable 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 285
     },
     {
       "word": "deliberate",
@@ -4011,7 +4296,8 @@
       "pair_note": "都表示经过深思熟虑或计划，而非自动的",
       "mnemonic": "把 deliberate 与“深思熟虑的”绑定成一幅画面；等价词 calculated 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 286
     },
     {
       "word": "rapprochement",
@@ -4025,7 +4311,8 @@
       "pair_note": "都指敌对或疏远双方和解、恢复友好关系",
       "mnemonic": "把 rapprochement 与“和解”绑定成一幅画面；等价词 reconciliation 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 287
     },
     {
       "word": "plastic",
@@ -4039,7 +4326,8 @@
       "pair_note": "都表示可塑的、易改变的，强调灵活性或易受影响",
       "mnemonic": "把 plastic 与“可塑的”绑定成一幅画面；等价词 malleable 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 288
     },
     {
       "word": "lamentable",
@@ -4053,7 +4341,8 @@
       "pair_note": "都表示某事令人遗憾、可悲或糟糕",
       "mnemonic": "把 lamentable 与“可悲的”绑定成一幅画面；等价词 deplorable 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 289
     },
     {
       "word": "scandalous",
@@ -4067,7 +4356,8 @@
       "pair_note": "都会引起道德上的反感或被视为不当行为",
       "mnemonic": "把 scandalous 与“丑闻的”绑定成一幅画面；等价词 unseemly 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 290
     },
     {
       "word": "abjection",
@@ -4081,7 +4371,8 @@
       "pair_note": "都表示极端的悲惨或卑贱状态",
       "mnemonic": "把 abjection 与“悲惨”绑定成一幅画面；等价词 wretchedness 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 291
     },
     {
       "word": "fusty",
@@ -4095,7 +4386,8 @@
       "pair_note": "都表示过时的、陈旧的，强调事物不再现代或新鲜",
       "mnemonic": "把 fusty 与“发霉的”绑定成一幅画面；等价词 archaic 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 292
     },
     {
       "word": "charitable",
@@ -4109,7 +4401,8 @@
       "pair_note": "都表示对他人缺点或直率行为的宽容、不苛刻",
       "mnemonic": "把 charitable 与“慈善的”绑定成一幅画面；等价词 forbearing 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 293
     },
     {
       "word": "exculpated",
@@ -4123,7 +4416,8 @@
       "pair_note": "都表示免除罪责或宣告无罪",
       "mnemonic": "把 exculpated 与“宣告无罪”绑定成一幅画面；等价词 absolved 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 294
     },
     {
       "word": "nebulous",
@@ -4137,7 +4431,8 @@
       "pair_note": "都表示模糊、不明确、难以捉摸的状态",
       "mnemonic": "把 nebulous 与“模糊的”绑定成一幅画面；等价词 amorphous 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 295
     },
     {
       "word": "a gauge of",
@@ -4151,7 +4446,8 @@
       "pair_note": "都表示用来测量、显示或反映某事物的指标或迹象",
       "mnemonic": "把 a gauge of 与“测量...的仪器”绑定成一幅画面；等价词 an indicator of 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 296
     },
     {
       "word": "resented",
@@ -4165,7 +4461,8 @@
       "pair_note": "都表示因不满或嫉妒而产生的怨恨情绪，尤其当他人得到好处或认可",
       "mnemonic": "把 resented 与“愤恨”绑定成一幅画面；等价词 begrudged 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 297
     },
     {
       "word": "cruelty",
@@ -4179,7 +4476,8 @@
       "pair_note": "都指残忍或野蛮的行为，常用于描述负面、不人道的特性",
       "mnemonic": "把 cruelty 与“残忍”绑定成一幅画面；等价词 barbarity 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 298
     },
     {
       "word": "tyros",
@@ -4193,7 +4491,8 @@
       "pair_note": "都指缺乏经验或技能的新手，与‘天才’形成极端对比",
       "mnemonic": "把 tyros 与“新手”绑定成一幅画面；等价词 novices 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 299
     },
     {
       "word": "inconsistent",
@@ -4207,7 +4506,8 @@
       "pair_note": "都表示行为或观点缺乏一致性，反复无常",
       "mnemonic": "把 inconsistent 与“不一致的”绑定成一幅画面；等价词 erratic 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 300
     },
     {
       "word": "inhibited",
@@ -4221,7 +4521,8 @@
       "pair_note": "都表示被阻止或限制的状态",
       "mnemonic": "把 inhibited 与“被抑制的”绑定成一幅画面；等价词 constrained 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 301
     },
     {
       "word": "inapposite",
@@ -4235,7 +4536,8 @@
       "pair_note": "都表示不合适、错误或不恰当",
       "mnemonic": "把 inapposite 与“不恰当的”绑定成一幅画面；等价词 misguided 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 302
     },
     {
       "word": "enthralled",
@@ -4249,7 +4551,8 @@
       "pair_note": "都表示被深深吸引或迷住，强调强烈的兴趣或沉浸感",
       "mnemonic": "把 enthralled 与“着迷的”绑定成一幅画面；等价词 captivated 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 303
     },
     {
       "word": "interested in",
@@ -4263,7 +4566,8 @@
       "pair_note": "都会被某人或某物所吸引，产生关注或好感",
       "mnemonic": "把 interested in 与“对...感兴趣的”绑定成一幅画面；等价词 drawn to 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 304
     },
     {
       "word": "peripheral",
@@ -4277,7 +4581,8 @@
       "pair_note": "都表示次要的、非核心的",
       "mnemonic": "把 peripheral 与“边缘的”绑定成一幅画面；等价词 subsidiary 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 305
     },
     {
       "word": "refractory",
@@ -4291,7 +4596,8 @@
       "pair_note": "都表示顽固或不服从，难以管理",
       "mnemonic": "把 refractory 与“难控制的”绑定成一幅画面；等价词 recalcitrant 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 306
     },
     {
       "word": "constant",
@@ -4305,7 +4611,8 @@
       "pair_note": "都表示持续不断、常年存在的",
       "mnemonic": "把 constant 与“持续的”绑定成一幅画面；等价词 perennial 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 307
     },
     {
       "word": "hauteur",
@@ -4319,7 +4626,8 @@
       "pair_note": "都表示一种傲慢、轻蔑的态度",
       "mnemonic": "把 hauteur 与“傲慢”绑定成一幅画面；等价词 superciliousness 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 308
     },
     {
       "word": "commonplace",
@@ -4333,7 +4641,8 @@
       "pair_note": "都表示广泛存在或常见的事物",
       "mnemonic": "把 commonplace 与“常见的”绑定成一幅画面；等价词 pervasive 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 309
     },
     {
       "word": "neglected",
@@ -4347,7 +4656,8 @@
       "pair_note": "都表示忽视或不重视",
       "mnemonic": "把 neglected 与“忽视”绑定成一幅画面；等价词 dismissed 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 310
     },
     {
       "word": "wanting",
@@ -4361,7 +4671,8 @@
       "pair_note": "均表示‘缺少、不足’的状态",
       "mnemonic": "把 wanting 与“缺乏的”绑定成一幅画面；等价词 lacking 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 311
     },
     {
       "word": "truculence",
@@ -4375,7 +4686,8 @@
       "pair_note": "都表现出强烈的对抗性、攻击性或好斗性",
       "mnemonic": "把 truculence 与“好斗”绑定成一幅画面；等价词 belligerence 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 312
     },
     {
       "word": "parochial",
@@ -4389,7 +4701,8 @@
       "pair_note": "都表示范围狭窄、局限或视野有限",
       "mnemonic": "把 parochial 与“狭隘的”绑定成一幅画面；等价词 narrow 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 313
     },
     {
       "word": "fertile",
@@ -4403,7 +4716,8 @@
       "pair_note": "都表示多产或繁殖能力强",
       "mnemonic": "把 fertile 与“肥沃的”绑定成一幅画面；等价词 fecund 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 314
     },
     {
       "word": "elegy",
@@ -4417,7 +4731,8 @@
       "pair_note": "都表示哀悼逝者或终结的作品，常用于象征结束、死亡或消逝",
       "mnemonic": "把 elegy 与“挽歌”绑定成一幅画面；等价词 requiem 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 315
     },
     {
       "word": "apogee",
@@ -4431,7 +4746,8 @@
       "pair_note": "都表示最高点或完美状态，强调事物的顶峰或极致",
       "mnemonic": "把 apogee 与“最高点”绑定成一幅画面；等价词 acme 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 316
     },
     {
       "word": "modern",
@@ -4445,7 +4761,8 @@
       "pair_note": "都表示处于前沿、现代化或高度发展的状态",
       "mnemonic": "把 modern 与“现代的”绑定成一幅画面；等价词 advanced 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 317
     },
     {
       "word": "canny",
@@ -4459,7 +4776,8 @@
       "pair_note": "都表示精明、有判断力，尤其在商业或实际决策中",
       "mnemonic": "把 canny 与“精明的”绑定成一幅画面；等价词 shrewd 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 318
     },
     {
       "word": "modified",
@@ -4473,7 +4791,8 @@
       "pair_note": "都对原始内容进行了改动，而非原封不动地保存或传播",
       "mnemonic": "把 modified 与“修改”绑定成一幅画面；等价词 adapted 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 319
     },
     {
       "word": "scorned",
@@ -4487,7 +4806,8 @@
       "pair_note": "都表示轻视或贬低的态度",
       "mnemonic": "把 scorned 与“轻蔑”绑定成一幅画面；等价词 disparaged 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 320
     },
     {
       "word": "multifarious",
@@ -4501,7 +4821,8 @@
       "pair_note": "都表示由许多部分组成，从而显得复杂或多样",
       "mnemonic": "把 multifarious 与“多样的”绑定成一幅画面；等价词 complex 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 321
     },
     {
       "word": "striking",
@@ -4515,7 +4836,8 @@
       "pair_note": "都表示明显、显著或突出",
       "mnemonic": "把 striking 与“引人注目的”绑定成一幅画面；等价词 pronounced 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 322
     },
     {
       "word": "abstruse",
@@ -4529,7 +4851,8 @@
       "pair_note": "都表示深奥难懂，难以理解",
       "mnemonic": "把 abstruse 与“深奥的”绑定成一幅画面；等价词 recondite 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 323
     },
     {
       "word": "exigent",
@@ -4543,7 +4866,8 @@
       "pair_note": "都表示情况紧急、必须立即处理，强调由外部因素强加的紧迫性",
       "mnemonic": "把 exigent 与“紧急的”绑定成一幅画面；等价词 imperative 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 324
     },
     {
       "word": "inappropriate",
@@ -4557,7 +4881,8 @@
       "pair_note": "都表示不合适或不可行的情况",
       "mnemonic": "把 inappropriate 与“不恰当的”绑定成一幅画面；等价词 unfeasible 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 325
     },
     {
       "word": "salubrious",
@@ -4571,7 +4896,8 @@
       "pair_note": "都表示对健康或状况最有益的状态",
       "mnemonic": "把 salubrious 与“有益健康的”绑定成一幅画面；等价词 optimal 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 326
     },
     {
       "word": "convoluted",
@@ -4585,7 +4911,8 @@
       "pair_note": "都形容事物曲折、复杂、多分支，适合描述蜿蜒河流或复杂结构",
       "mnemonic": "把 convoluted 与“曲折复杂的”绑定成一幅画面；等价词 intricate 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 327
     },
     {
       "word": "proscribe",
@@ -4599,7 +4926,8 @@
       "pair_note": "都表示正式禁止或不允某事情",
       "mnemonic": "把 proscribe 与“禁止”绑定成一幅画面；等价词 disallow 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 328
     },
     {
       "word": "precipitate",
@@ -4613,7 +4941,8 @@
       "pair_note": "都会形容行动仓促、鲁莽，没有经过充分思考",
       "mnemonic": "把 precipitate 与“仓促的”绑定成一幅画面；等价词 hasty 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 329
     },
     {
       "word": "onerous",
@@ -4627,7 +4956,8 @@
       "pair_note": "都表示任务或情况非常困难、需要大量努力",
       "mnemonic": "把 onerous 与“繁重的”绑定成一幅画面；等价词 arduous 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 330
     },
     {
       "word": "Controversy",
@@ -4641,7 +4971,8 @@
       "pair_note": "都表示公开的、激烈的争论或分歧",
       "mnemonic": "把 Controversy 与“争议”绑定成一幅画面；等价词 Disputation 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 331
     },
     {
       "word": "functional",
@@ -4655,7 +4986,8 @@
       "pair_note": "表示能正常运作、有基本功能的",
       "mnemonic": "把 functional 与“可运作的”绑定成一幅画面；等价词 serviceable 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 332
     },
     {
       "word": "eliminating",
@@ -4669,7 +5001,8 @@
       "pair_note": "都表示停止或结束某事，在此指停止创新",
       "mnemonic": "把 eliminating 与“消除”绑定成一幅画面；等价词 discontinuing 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 333
     },
     {
       "word": "salient",
@@ -4683,7 +5016,8 @@
       "pair_note": "都形容某事物非常突出、显眼或重要",
       "mnemonic": "把 salient 与“显著的，突出的”绑定成一幅画面；等价词 prominent 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 334
     },
     {
       "word": "precludes",
@@ -4697,7 +5031,8 @@
       "pair_note": "都表示阻碍或阻止某事发生，使无法实现",
       "mnemonic": "把 precludes 与“阻止”绑定成一幅画面；等价词 frustrates 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 335
     },
     {
       "word": "superciliousness",
@@ -4711,7 +5046,8 @@
       "pair_note": "都表示一种居高临下、看不起别人的傲慢态度",
       "mnemonic": "把 superciliousness 与“傲慢的”绑定成一幅画面；等价词 condescension 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 336
     },
     {
       "word": "refutation",
@@ -4725,7 +5061,8 @@
       "pair_note": "都指对他人主张进行有力否定或辩驳",
       "mnemonic": "把 refutation 与“驳斥”绑定成一幅画面；等价词 rebuttal 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 337
     },
     {
       "word": "contravening",
@@ -4739,7 +5076,8 @@
       "pair_note": "都会表示反对、反驳或否定",
       "mnemonic": "把 contravening 与“违反”绑定成一幅画面；等价词 gainsaying 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 338
     },
     {
       "word": "telescoping",
@@ -4753,7 +5091,8 @@
       "pair_note": "都表示将大量内容压缩或缩短到更小空间，导致简化或可能失真",
       "mnemonic": "把 telescoping 与“压缩”绑定成一幅画面；等价词 compression 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 339
     },
     {
       "word": "lucid",
@@ -4767,7 +5106,8 @@
       "pair_note": "都表示清晰易懂，强调表达或内容容易理解",
       "mnemonic": "把 lucid 与“清晰的”绑定成一幅画面；等价词 intelligible 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 340
     },
     {
       "word": "forestall",
@@ -4781,7 +5121,8 @@
       "pair_note": "都有‘阻止某事发生’的核心含义",
       "mnemonic": "把 forestall 与“预先阻止”绑定成一幅画面；等价词 prevent 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 341
     },
     {
       "word": "frugal",
@@ -4795,7 +5136,8 @@
       "pair_note": "都表示在给予或使用资源时非常节省，近乎吝啬",
       "mnemonic": "把 frugal 与“节俭的”绑定成一幅画面；等价词 stinting 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 342
     },
     {
       "word": "analogous",
@@ -4809,7 +5151,8 @@
       "pair_note": "都表示事物之间有相似性或可比较性，在特定语境下可互换",
       "mnemonic": "把 analogous 与“类似的”绑定成一幅画面；等价词 comparable 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 343
     },
     {
       "word": "buttressed",
@@ -4823,7 +5166,8 @@
       "pair_note": "都表示支持或加强某个观点或论证",
       "mnemonic": "把 buttressed 与“支撑”绑定成一幅画面；等价词 bolstered 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 344
     },
     {
       "word": "ruled out",
@@ -4837,7 +5181,8 @@
       "pair_note": "都表示排除可能性，使某事不发生",
       "mnemonic": "把 ruled out 与“排除”绑定成一幅画面；等价词 precluded 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 345
     },
     {
       "word": "insular",
@@ -4851,7 +5196,8 @@
       "pair_note": "都形容思想或视野上的局限性，对自身之外的观点不感兴趣或持",
       "mnemonic": "把 insular 与“岛国的”绑定成一幅画面；等价词 narrow-minded 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 346
     },
     {
       "word": "reinforcement",
@@ -4865,7 +5211,8 @@
       "pair_note": "都表示通过增加支持或力量来加强某事物",
       "mnemonic": "把 reinforcement 与“加强”绑定成一幅画面；等价词 bolstering 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 347
     },
     {
       "word": "undermine",
@@ -4879,7 +5226,8 @@
       "pair_note": "都表示提供反面证据来否定一个观点或说法",
       "mnemonic": "把 undermine 与“暗中破坏，逐渐削弱（基础、论据等）”绑定成一幅画面；等价词 contradict 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 348
     },
     {
       "word": "finer",
@@ -4893,7 +5241,8 @@
       "pair_note": "都表示测量或感知的精确度更高，能检测到更细微的差异",
       "mnemonic": "把 finer 与“更精细的”绑定成一幅画面；等价词 more sensitive 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 349
     },
     {
       "word": "unsung",
@@ -4907,7 +5256,8 @@
       "pair_note": "都表达未被充分认识、重视或赞扬的状态",
       "mnemonic": "把 unsung 与“未被赞扬的”绑定成一幅画面；等价词 disregarded 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 350
     },
     {
       "word": "annalist",
@@ -4921,7 +5271,8 @@
       "pair_note": "都指按时间顺序记录历史事件的作者",
       "mnemonic": "把 annalist 与“编年史作者”绑定成一幅画面；等价词 chronicler 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 351
     },
     {
       "word": "fragility",
@@ -4935,7 +5286,8 @@
       "pair_note": "都表示容易损坏或不能持久，强调需要保护以延长存在时间",
       "mnemonic": "把 fragility 与“易碎性”绑定成一幅画面；等价词 impermanence 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 352
     },
     {
       "word": "disposition",
@@ -4949,7 +5301,8 @@
       "pair_note": "都表示一种内在的、自然的倾向或偏好",
       "mnemonic": "把 disposition 与“倾向”绑定成一幅画面；等价词 proclivity 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 353
     },
     {
       "word": "fortuitous",
@@ -4963,7 +5316,8 @@
       "pair_note": "都表示偶然发生的、非计划的",
       "mnemonic": "把 fortuitous 与“偶然的”绑定成一幅画面；等价词 accidental 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 354
     },
     {
       "word": "equanimity",
@@ -4977,7 +5331,8 @@
       "pair_note": "在困境中保持冷静与内心平衡",
       "mnemonic": "把 equanimity 与“内心平静”绑定成一幅画面；等价词 sangfroid 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 355
     },
     {
       "word": "exploitable",
@@ -4991,7 +5346,8 @@
       "pair_note": "都表示某物具有实用价值或可以被有效利用",
       "mnemonic": "把 exploitable 与“可开发的”绑定成一幅画面；等价词 useful 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 356
     },
     {
       "word": "uncommon",
@@ -5005,7 +5361,8 @@
       "pair_note": "都形容某物存在或出现的数量极少、不常见",
       "mnemonic": "把 uncommon 与“不常见的”绑定成一幅画面；等价词 rare 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 357
     },
     {
       "word": "piecemeal",
@@ -5019,7 +5376,8 @@
       "pair_note": "都表示内容零散、不成体系，缺乏完整性",
       "mnemonic": "把 piecemeal 与“零碎的”绑定成一幅画面；等价词 fragmentary 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 358
     },
     {
       "word": "orthodox",
@@ -5033,7 +5391,8 @@
       "pair_note": "都表示遵守传统或规范，循规蹈矩",
       "mnemonic": "把 orthodox 与“正统的”绑定成一幅画面；等价词 conformist 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 359
     },
     {
       "word": "source",
@@ -5047,7 +5406,8 @@
       "pair_note": "都表示事物开始或产生的地方",
       "mnemonic": "把 source 与“来源”绑定成一幅画面；等价词 origin 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 360
     },
     {
       "word": "enmity",
@@ -5061,7 +5421,8 @@
       "pair_note": "都表示强烈的敌意或厌恶",
       "mnemonic": "把 enmity 与“敌意”绑定成一幅画面；等价词 antipathy 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 361
     },
     {
       "word": "slippery",
@@ -5075,7 +5436,8 @@
       "pair_note": "都表示难以捉摸或难以理解",
       "mnemonic": "把 slippery 与“滑的”绑定成一幅画面；等价词 elusive 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 362
     },
     {
       "word": "dynamic",
@@ -5089,7 +5451,8 @@
       "pair_note": "都表示持续活跃、不断发生的状态",
       "mnemonic": "把 dynamic 与“动态的”绑定成一幅画面；等价词 ongoing 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 363
     },
     {
       "word": "drives",
@@ -5103,7 +5466,8 @@
       "pair_note": "都能表示激发或推动某人去做某事",
       "mnemonic": "把 drives 与“驱动的”绑定成一幅画面；等价词 intrigues 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 364
     },
     {
       "word": "credulous",
@@ -5117,7 +5481,8 @@
       "pair_note": "都表示轻易相信他人，缺乏怀疑精神",
       "mnemonic": "把 credulous 与“轻信的”绑定成一幅画面；等价词 gullible 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 365
     },
     {
       "word": "top-down",
@@ -5131,7 +5496,8 @@
       "pair_note": "都表示一种强制性的、不容置疑的方法",
       "mnemonic": "把 top-down 与“自上而下的”绑定成一幅画面；等价词 peremptory 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 366
     },
     {
       "word": "abundance",
@@ -5145,7 +5511,8 @@
       "pair_note": "都表示数量多或分布广，使得某物容易被遇到",
       "mnemonic": "把 abundance 与“丰富”绑定成一幅画面；等价词 ubiquity 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 367
     },
     {
       "word": "abstruseness",
@@ -5159,7 +5526,8 @@
       "pair_note": "都表示难以理解或晦涩的性质",
       "mnemonic": "把 abstruseness 与“深奥难懂”绑定成一幅画面；等价词 opacity 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 368
     },
     {
       "word": "celebrity",
@@ -5173,7 +5541,8 @@
       "pair_note": "都表示高度的名声或公众关注",
       "mnemonic": "把 celebrity 与“名人”绑定成一幅画面；等价词 prominence 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 369
     },
     {
       "word": "pulverized",
@@ -5187,7 +5556,8 @@
       "pair_note": "都表示彻底摧毁或严厉批评，使对方无力反驳",
       "mnemonic": "把 pulverized 与“粉碎的”绑定成一幅画面；等价词 eviscerated 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 370
     },
     {
       "word": "arbitrary",
@@ -5201,7 +5571,8 @@
       "pair_note": "都表示缺乏特定理由或计划，强调随意性或偶然性",
       "mnemonic": "把 arbitrary 与“随意的”绑定成一幅画面；等价词 random 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 371
     },
     {
       "word": "prophylactic",
@@ -5215,7 +5586,8 @@
       "pair_note": "都表示防止或抑制某事发生",
       "mnemonic": "把 prophylactic 与“预防性的”绑定成一幅画面；等价词 inhibitory 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 372
     },
     {
       "word": "subversion",
@@ -5229,7 +5601,8 @@
       "pair_note": "都表示对既定秩序或规则的破坏或违背",
       "mnemonic": "把 subversion 与“颠覆”绑定成一幅画面；等价词 violation 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 373
     },
     {
       "word": "unfounded",
@@ -5243,7 +5616,8 @@
       "pair_note": "都表示缺乏根据或基础，不属实",
       "mnemonic": "把 unfounded 与“无根据的”绑定成一幅画面；等价词 baseless 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 374
     },
     {
       "word": "complicated",
@@ -5257,7 +5631,8 @@
       "pair_note": "都表示事物复杂、难以理解或处理",
       "mnemonic": "把 complicated 与“复杂的”绑定成一幅画面；等价词 knotty 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 375
     },
     {
       "word": "rapacious",
@@ -5271,7 +5646,8 @@
       "pair_note": "都表示极度贪婪，尤其是对金钱或财富的贪求",
       "mnemonic": "把 rapacious 与“贪婪的”绑定成一幅画面；等价词 avaricious 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 376
     },
     {
       "word": "order",
@@ -5285,7 +5661,8 @@
       "pair_note": "在语境中都指代一种避免混乱、保持平衡的有序状态",
       "mnemonic": "把 order 与“秩序”绑定成一幅画面；等价词 stability 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 377
     },
     {
       "word": "riddle",
@@ -5299,7 +5676,8 @@
       "pair_note": "都指令人困惑的难题或谜题",
       "mnemonic": "把 riddle 与“谜语”绑定成一幅画面；等价词 conundrum 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 378
     },
     {
       "word": "anomaly",
@@ -5313,7 +5691,8 @@
       "pair_note": "都表示偏离正常或标准的情况",
       "mnemonic": "把 anomaly 与“异常”绑定成一幅画面；等价词 aberration 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 379
     },
     {
       "word": "dimming",
@@ -5327,7 +5706,8 @@
       "pair_note": "都表示变得不那么亮或更黑暗",
       "mnemonic": "把 dimming 与“使变暗”绑定成一幅画面；等价词 darkening 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 380
     },
     {
       "word": "bedrock",
@@ -5341,7 +5721,8 @@
       "pair_note": "都表示基础或根本依据",
       "mnemonic": "把 bedrock 与“基岩”绑定成一幅画面；等价词 foundations 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 381
     },
     {
       "word": "shortcoming",
@@ -5355,7 +5736,8 @@
       "pair_note": "都指事物（如描述、论证、方法）中存在的不好的、不完美的方面或",
       "mnemonic": "把 shortcoming 与“缺点”绑定成一幅画面；等价词 fault 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 382
     },
     {
       "word": "unassuming",
@@ -5369,7 +5751,8 @@
       "pair_note": "都描述人不自负、态度谦逊",
       "mnemonic": "把 unassuming 与“谦虚的”绑定成一幅画面；等价词 modest 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 383
     },
     {
       "word": "quixotic",
@@ -5383,7 +5766,8 @@
       "pair_note": "都表示理想主义或不切实际，常指脱离现实的高尚信念",
       "mnemonic": "把 quixotic 与“不切实际的”绑定成一幅画面；等价词 idealistic 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 384
     },
     {
       "word": "predilection",
@@ -5397,7 +5781,8 @@
       "pair_note": "都指一种固有的、强烈的倾向或偏好",
       "mnemonic": "把 predilection 与“偏好”绑定成一幅画面；等价词 proclivity 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 385
     },
     {
       "word": "relished",
@@ -5411,7 +5796,8 @@
       "pair_note": "都强调对某事物抱有强烈的享受和喜爱态度，而非仅仅被动接受",
       "mnemonic": "把 relished 与“享受”绑定成一幅画面；等价词 delighted in 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 386
     },
     {
       "word": "limiting",
@@ -5425,7 +5811,8 @@
       "pair_note": "都表示限制或束缚，使人感到受约束",
       "mnemonic": "把 limiting 与“限制性的”绑定成一幅画面；等价词 confining 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 387
     },
     {
       "word": "paltry",
@@ -5439,7 +5826,8 @@
       "pair_note": "都表示数量少、价值低或不足",
       "mnemonic": "把 paltry 与“微不足道的”绑定成一幅画面；等价词 meager 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 388
     },
     {
       "word": "exactitude",
@@ -5453,7 +5841,8 @@
       "pair_note": "都强调精确、细致和注重细节",
       "mnemonic": "把 exactitude 与“精确性”绑定成一幅画面；等价词 meticulousness 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 389
     },
     {
       "word": "evasive",
@@ -5467,7 +5856,8 @@
       "pair_note": "都表示难以捕捉或逃避的",
       "mnemonic": "把 evasive 与“逃避的”绑定成一幅画面；等价词 elusive 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 390
     },
     {
       "word": "belie",
@@ -5481,7 +5871,8 @@
       "pair_note": "都表示掩盖或隐藏真相",
       "mnemonic": "把 belie 与“掩饰”绑定成一幅画面；等价词 mask 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 391
     },
     {
       "word": "proliferate",
@@ -5495,7 +5886,8 @@
       "pair_note": "都表示大量存在或快速增长",
       "mnemonic": "把 proliferate 与“激增”绑定成一幅画面；等价词 abound 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 392
     },
     {
       "word": "strips away",
@@ -5509,7 +5901,8 @@
       "pair_note": "都表示除去或移除某物，尤指去除表面、外层或掩盖性的东西",
       "mnemonic": "把 strips away 与“剥离”绑定成一幅画面；等价词 removes 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 393
     },
     {
       "word": "palliate",
@@ -5523,7 +5916,8 @@
       "pair_note": "都会使某物减弱或缓和",
       "mnemonic": "把 palliate 与“减轻”绑定成一幅画面；等价词 damp 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 394
     },
     {
       "word": "audacious",
@@ -5537,7 +5931,8 @@
       "pair_note": "风格大胆出格，旨在/结果令人震惊、印象深刻",
       "mnemonic": "把 audacious 与“大胆的，敢于冒险的”绑定成一幅画面；等价词 striking 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 395
     },
     {
       "word": "meet",
@@ -5551,7 +5946,8 @@
       "pair_note": "都表示适当的、应得的，特别用于描述惩罚或奖励的恰当性",
       "mnemonic": "把 meet 与“合适的，恰当的”绑定成一幅画面；等价词 condign 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 396
     },
     {
       "word": "foolish",
@@ -5565,7 +5961,8 @@
       "pair_note": "都表示缺乏智慧、判断力或世故，形容人天真或愚蠢",
       "mnemonic": "把 foolish 与“愚蠢的”绑定成一幅画面；等价词 simple 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 397
     },
     {
       "word": "cure-all",
@@ -5579,7 +5976,8 @@
       "pair_note": "都指能解决所有问题的万能药或方法",
       "mnemonic": "把 cure-all 与“万灵药”绑定成一幅画面；等价词 panacea 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 398
     },
     {
       "word": "opportune",
@@ -5593,7 +5991,8 @@
       "pair_note": "都强调时机恰当、正合时宜",
       "mnemonic": "把 opportune 与“时机恰当的”绑定成一幅画面；等价词 timely 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 399
     },
     {
       "word": "determines",
@@ -5607,7 +6006,8 @@
       "pair_note": "都表示控制或决定某事的发生或速度",
       "mnemonic": "把 determines 与“决定”绑定成一幅画面；等价词 governs 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 400
     },
     {
       "word": "civility",
@@ -5621,7 +6021,8 @@
       "pair_note": "都表示礼貌、尊重或友善的行为",
       "mnemonic": "把 civility 与“礼貌”绑定成一幅画面；等价词 comity 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 401
     },
     {
       "word": "hindered",
@@ -5635,7 +6036,8 @@
       "pair_note": "都表示被阻止或妨碍，使无法顺利进行或取得进展",
       "mnemonic": "把 hindered 与“被阻碍的”绑定成一幅画面；等价词 stymied 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 402
     },
     {
       "word": "exiguous",
@@ -5649,7 +6051,8 @@
       "pair_note": "都表示微弱的、不明显的，使得事物难以察觉或识别",
       "mnemonic": "把 exiguous 与“稀少的”绑定成一幅画面；等价词 tenuous 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 403
     },
     {
       "word": "plausible",
@@ -5663,7 +6066,8 @@
       "pair_note": "都能表达‘可能发生’这一核心概念，且用于描述事件",
       "mnemonic": "把 plausible 与“看似合理的”绑定成一幅画面；等价词 conceivable 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 404
     },
     {
       "word": "totemic",
@@ -5677,7 +6081,8 @@
       "pair_note": "都表示作为象征或代表，体现某种抽象概念",
       "mnemonic": "把 totemic 与“图腾的”绑定成一幅画面；等价词 emblematic 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 405
     },
     {
       "word": "fosters",
@@ -5691,7 +6096,8 @@
       "pair_note": "在 GRE SE 语境下，都表示照顾或抚养非亲生的个体，强调跨物种的养",
       "mnemonic": "把 fosters 与“抚养”绑定成一幅画面；等价词 adopts 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 406
     },
     {
       "word": "immaterial",
@@ -5705,7 +6111,8 @@
       "pair_note": "都表示不重要或没有实质影响，在语境中可互换",
       "mnemonic": "把 immaterial 与“不重要的”绑定成一幅画面；等价词 inconsequential 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 407
     },
     {
       "word": "equivocal",
@@ -5719,7 +6126,8 @@
       "pair_note": "都表示意思不明确、含糊不清，在语境中可互换使用",
       "mnemonic": "把 equivocal 与“模棱两可的”绑定成一幅画面；等价词 ambiguous 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 408
     },
     {
       "word": "divergent",
@@ -5733,7 +6141,8 @@
       "pair_note": "都强调‘不同、有差异’的核心意思，在句子中都能合理描述处理",
       "mnemonic": "把 divergent 与“相异的”绑定成一幅画面；等价词 dissimilar 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 409
     },
     {
       "word": "private",
@@ -5747,7 +6156,8 @@
       "pair_note": "都表示封闭、不对外公开的状态",
       "mnemonic": "把 private 与“私人的”绑定成一幅画面；等价词 insular 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 410
     },
     {
       "word": "insatiable",
@@ -5761,7 +6171,8 @@
       "pair_note": "都形容一种极度的、不知满足的渴望或吸收状态",
       "mnemonic": "把 insatiable 与“无法满足的”绑定成一幅画面；等价词 voracious 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 411
     },
     {
       "word": "apathy",
@@ -5775,7 +6186,8 @@
       "pair_note": "都表示缺乏兴趣、参与或行动，指政治上的漠不关心或消极态度",
       "mnemonic": "把 apathy 与“冷漠”绑定成一幅画面；等价词 passivity 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 412
     },
     {
       "word": "proponents",
@@ -5789,7 +6201,8 @@
       "pair_note": "都表示积极支持或维护某事物的人",
       "mnemonic": "把 proponents 与“支持者”绑定成一幅画面；等价词 defenders 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 413
     },
     {
       "word": "unquestionable",
@@ -5803,7 +6216,8 @@
       "pair_note": "都表示某事是确定无疑、无法被质疑或否认的",
       "mnemonic": "把 unquestionable 与“无可质疑的”绑定成一幅画面；等价词 undeniable 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 414
     },
     {
       "word": "violates",
@@ -5817,7 +6231,8 @@
       "pair_note": "都表示违反或违背某种规则、法律或硬性约束",
       "mnemonic": "把 violates 与“违反”绑定成一幅画面；等价词 contravenes 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 415
     },
     {
       "word": "eager",
@@ -5831,7 +6246,8 @@
       "pair_note": "都表示强烈的渴望或热切",
       "mnemonic": "把 eager 与“渴望的”绑定成一幅画面；等价词 keen 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 416
     },
     {
       "word": "relinquish",
@@ -5845,7 +6261,8 @@
       "pair_note": "都表示放弃或让出某物，通常指权力、领土或控制权。",
       "mnemonic": "把 relinquish 与“放弃”绑定成一幅画面；等价词 cede 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 417
     },
     {
       "word": "pressing",
@@ -5859,7 +6276,8 @@
       "pair_note": "都表示情况紧急，需要立即行动或关注",
       "mnemonic": "把 pressing 与“紧迫的”绑定成一幅画面；等价词 exigent 一起回忆。",
       "source_page": null,
-      "level": 1
+      "level": 1,
+      "id": 418
     }
   ]
 }
