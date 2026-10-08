@@ -190,7 +190,8 @@ class Store:
 
     def _attach_equivalents(self):
         """镇考卡自动吸收等价词库；独立等价词库则保留自身词组。"""
-        if not self.words or "equivalence" in self.bank_id:
+        if (not self.words or "equivalence" in self.bank_id
+                or not self.bank_id.startswith("zhangwei-zhenkao-7")):
             return
         path = os.path.join(ROOT, "wordbanks", "zhangwei-equivalence-2021.json")
         raw = read_json(path, {})

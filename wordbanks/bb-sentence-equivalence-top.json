@@ -1,0 +1,5865 @@
+{
+  "meta": {
+    "id": "bb-sentence-equivalence-top",
+    "name": "BB 六选二词表（精讲版上·超超超高频）",
+    "version": "2026-03",
+    "source": "用户提供《BB六选二词表（精讲版 上 - 超超超高频）.pdf》；BB 六选二资料",
+    "count": 418,
+    "format_version": 2,
+    "note": "提取PDF中的同义词对及中文释义；保留pair_note作为精讲语境，去除说明页、彩蛋页和水印碎片。"
+  },
+  "words": [
+    {
+      "word": "succumb to",
+      "zh": "屈服于；因压力、疾病或诱惑而放弃抵抗",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "yield to"
+      ],
+      "pair_note": "都表示在外部压力、偏见或诱惑下被动放弃，从而失去自主性",
+      "mnemonic": "把 succumb to 与“屈服于”绑定成一幅画面；等价词 yield to 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "singular",
+      "zh": "独特的；非凡的；单数的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "unique"
+      ],
+      "pair_note": "都表示独一无二、唯一的特性",
+      "mnemonic": "把 singular 与“独特的”绑定成一幅画面；等价词 unique 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "exaggeration",
+      "zh": "夸张；夸大其词；言过其实",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "hyperbole"
+      ],
+      "pair_note": "都表示言过其实、夸大的陈述",
+      "mnemonic": "把 exaggeration 与“夸张”绑定成一幅画面；等价词 hyperbole 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "prescient",
+      "zh": "有预知能力的；有先见之明的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "prophetic"
+      ],
+      "pair_note": "都能表示有预见性或先见之明",
+      "mnemonic": "把 prescient 与“有预知能力的”绑定成一幅画面；等价词 prophetic 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "realism",
+      "zh": "现实主义；对现实的忠实描绘",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "verisimilitude"
+      ],
+      "pair_note": "都强调对现实世界的忠实再现或描绘",
+      "mnemonic": "把 realism 与“现实主义”绑定成一幅画面；等价词 verisimilitude 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "irascibility",
+      "zh": "易怒；暴躁",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "exasperation"
+      ],
+      "pair_note": "都表示易怒或愤怒的情绪",
+      "mnemonic": "把 irascibility 与“易怒”绑定成一幅画面；等价词 exasperation 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "extremist",
+      "zh": "极端主义者；过激分子",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "zealot"
+      ],
+      "pair_note": "都指持有极端或狂热立场的人",
+      "mnemonic": "把 extremist 与“极端主义者”绑定成一幅画面；等价词 zealot 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "intricate",
+      "zh": "复杂难懂的；错综复杂的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "convoluted"
+      ],
+      "pair_note": "都表示结构或思想复杂、纠缠不清，难以简单理解",
+      "mnemonic": "把 intricate 与“复杂难懂的”绑定成一幅画面；等价词 convoluted 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "fairness",
+      "zh": "公平；公正",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "objectivity"
+      ],
+      "pair_note": "都强调公正、不偏不倚，确保判断基于事实而非个人偏见",
+      "mnemonic": "把 fairness 与“公平”绑定成一幅画面；等价词 objectivity 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "groundless",
+      "zh": "没有根据的；无理由的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "unwarranted"
+      ],
+      "pair_note": "都表示缺乏正当理由或基础，因此是无效或不合理的",
+      "mnemonic": "把 groundless 与“没有根据的”绑定成一幅画面；等价词 unwarranted 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "affable",
+      "zh": "亲切的；和蔼可亲的；易于交谈的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "easygoing"
+      ],
+      "pair_note": "都形容人性格友善、随和，易于相处",
+      "mnemonic": "把 affable 与“亲切的”绑定成一幅画面；等价词 easygoing 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "realized",
+      "zh": "实现；认识到",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "achieved"
+      ],
+      "pair_note": "都表示目标或愿望被成功实现或达成",
+      "mnemonic": "把 realized 与“实现”绑定成一幅画面；等价词 achieved 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "diffuse",
+      "zh": "扩散；散布；使分散",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "spread"
+      ],
+      "pair_note": "都表示使某物广泛分布或分散开来",
+      "mnemonic": "把 diffuse 与“扩散”绑定成一幅画面；等价词 spread 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "baseless",
+      "zh": "无根据的；没有基础的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "untenable"
+      ],
+      "pair_note": "都表示缺乏坚实基础或理由，无法被支持或辩护",
+      "mnemonic": "把 baseless 与“无根据的”绑定成一幅画面；等价词 untenable 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "proclaimed",
+      "zh": "宣布；声明；宣称",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "professed"
+      ],
+      "pair_note": "都表示公开表达或声明某种立场或意图",
+      "mnemonic": "把 proclaimed 与“宣布”绑定成一幅画面；等价词 professed 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "pugnacious",
+      "zh": "好斗的；爱争吵的；咄咄逼人的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "truculent"
+      ],
+      "pair_note": "都形容一种好斗、具有攻击性或挑衅性的天性或态度",
+      "mnemonic": "把 pugnacious 与“好斗的”绑定成一幅画面；等价词 truculent 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "stave off",
+      "zh": "延缓；避免；防止（尤指暂时阻止坏事发生）",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "forestall"
+      ],
+      "pair_note": "都表示通过主动干预来防止或延缓负面结果",
+      "mnemonic": "把 stave off 与“延缓”绑定成一幅画面；等价词 forestall 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "momentary",
+      "zh": "短暂的；瞬间的；暂时的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "evanescent"
+      ],
+      "pair_note": "都表示短暂或转瞬即逝",
+      "mnemonic": "把 momentary 与“短暂的”绑定成一幅画面；等价词 evanescent 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "belies",
+      "zh": "掩饰；掩盖；与...不符",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "masks"
+      ],
+      "pair_note": "都表示掩盖或隐藏真实情况",
+      "mnemonic": "把 belies 与“掩饰”绑定成一幅画面；等价词 masks 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "yield",
+      "zh": "产生；出产；屈服",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "engender"
+      ],
+      "pair_note": "都会导致或产生某种结果",
+      "mnemonic": "把 yield 与“产生”绑定成一幅画面；等价词 engender 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "limpid",
+      "zh": "清澈的；透明的；清晰的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "pellucid"
+      ],
+      "pair_note": "都表示清澈透明，尤指空气或液体",
+      "mnemonic": "把 limpid 与“清澈的”绑定成一幅画面；等价词 pellucid 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "interdependent",
+      "zh": "相互依赖的；互依的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "interrelated"
+      ],
+      "pair_note": "都表示事物之间紧密相连、彼此影响或依靠",
+      "mnemonic": "把 interdependent 与“相互依赖的”绑定成一幅画面；等价词 interrelated 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "prevalent",
+      "zh": "普遍存在的；盛行的；流行的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "widespread"
+      ],
+      "pair_note": "普遍存在的，而非罕见或局限的",
+      "mnemonic": "把 prevalent 与“普遍存在的”绑定成一幅画面；等价词 widespread 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "undermined",
+      "zh": "逐渐破坏；削弱基础",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "impaired"
+      ],
+      "pair_note": "都表示削弱或损害，使效果或能力下降",
+      "mnemonic": "把 undermined 与“逐渐破坏”绑定成一幅画面；等价词 impaired 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "original",
+      "zh": "原创的；新颖的；最初的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "novel"
+      ],
+      "pair_note": "都表示新的、独创的、不常见的",
+      "mnemonic": "把 original 与“原创的”绑定成一幅画面；等价词 novel 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "rejection",
+      "zh": "拒绝；排斥",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "liberation"
+      ],
+      "pair_note": "都表示对某种事物的否定或脱离态度",
+      "mnemonic": "把 rejection 与“拒绝”绑定成一幅画面；等价词 liberation 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "confused",
+      "zh": "困惑的；混乱的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "muddled"
+      ],
+      "pair_note": "都表示思维或情况混乱，难以理解",
+      "mnemonic": "把 confused 与“困惑的”绑定成一幅画面；等价词 muddled 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "expansion",
+      "zh": "扩展；扩大；扩张",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "augmentation"
+      ],
+      "pair_note": "都表示规模、范围或数量的增加",
+      "mnemonic": "把 expansion 与“扩展”绑定成一幅画面；等价词 augmentation 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "exalt",
+      "zh": "赞扬；颂扬；提升",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "valorize"
+      ],
+      "pair_note": "都表示高度赞扬或颂扬",
+      "mnemonic": "把 exalt 与“赞扬”绑定成一幅画面；等价词 valorize 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "respite",
+      "zh": "短暂休息；喘息；暂时缓解",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "lull"
+      ],
+      "pair_note": "都表示一个短暂的停顿、间歇或平静期",
+      "mnemonic": "把 respite 与“短暂休息”绑定成一幅画面；等价词 lull 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "gratify",
+      "zh": "使满意；使高兴",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "please"
+      ],
+      "pair_note": "都会使人感到高兴或满意",
+      "mnemonic": "把 gratify 与“使满意”绑定成一幅画面；等价词 please 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "cumbersome",
+      "zh": "笨重的；累赘的；难以操作的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "unwieldy"
+      ],
+      "pair_note": "都表示笨重、难以移动或处理",
+      "mnemonic": "把 cumbersome 与“笨重的”绑定成一幅画面；等价词 unwieldy 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "fractious",
+      "zh": "难以管理的；易怒的；好争吵的（来自 fraction “部分”，像一碰就散，各自为政）",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "restive"
+      ],
+      "pair_note": "指代难以管理、不配合、易引发骚动或不和的状态，都适合形容让推动共",
+      "mnemonic": "把 fractious 与“难以管理的”绑定成一幅画面；等价词 restive 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "snag",
+      "zh": "障碍；意外困难",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "hitch"
+      ],
+      "pair_note": "都指意外出现的障碍或问题",
+      "mnemonic": "把 snag 与“障碍”绑定成一幅画面；等价词 hitch 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "adaptability",
+      "zh": "适应性；适应能力",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "flexibility"
+      ],
+      "pair_note": "都表示能够根据情况调整或改变的能力",
+      "mnemonic": "把 adaptability 与“适应性”绑定成一幅画面；等价词 flexibility 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "galvanize",
+      "zh": "激励；刺激；使振奋",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "animate"
+      ],
+      "pair_note": "都会激励或激发行动",
+      "mnemonic": "把 galvanize 与“激励”绑定成一幅画面；等价词 animate 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "utilitarian",
+      "zh": "功利的；实用的；注重效用的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "functional"
+      ],
+      "pair_note": "都强调实用性和功能性，而非装饰性",
+      "mnemonic": "把 utilitarian 与“功利的”绑定成一幅画面；等价词 functional 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "quiescence",
+      "zh": "静止；沉寂；宁静",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "calm"
+      ],
+      "pair_note": "都表示平静、不活跃或安静的状态",
+      "mnemonic": "把 quiescence 与“静止”绑定成一幅画面；等价词 calm 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "elicit",
+      "zh": "引出；激起",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "draw"
+      ],
+      "pair_note": "都会引起或引出某种反应或行为",
+      "mnemonic": "把 elicit 与“引出”绑定成一幅画面；等价词 draw 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "primitive",
+      "zh": "原始的；初级的；简陋的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "rudimentary"
+      ],
+      "pair_note": "都表示简单、原始或未充分发展的状态",
+      "mnemonic": "把 primitive 与“原始的”绑定成一幅画面；等价词 rudimentary 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "acquiescence",
+      "zh": "默许；顺从；同意",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "accession"
+      ],
+      "pair_note": "在语境中都表示同意或接受请求，体现被动或正式的让步意味",
+      "mnemonic": "把 acquiescence 与“默许”绑定成一幅画面；等价词 accession 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "somnolent",
+      "zh": "昏昏欲睡的；困倦的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "lethargic"
+      ],
+      "pair_note": "都描述一种疲倦、缺乏活力的状态",
+      "mnemonic": "把 somnolent 与“昏昏欲睡的”绑定成一幅画面；等价词 lethargic 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "inferable from",
+      "zh": "可由...推断得出的；能够从...推理出来的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "entailed by"
+      ],
+      "pair_note": "都表示新的结论（新定律）可以从旧的、已知的前提（旧定",
+      "mnemonic": "把 inferable from 与“可由...推断得出的”绑定成一幅画面；等价词 entailed by 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "decay",
+      "zh": "腐烂；衰败；衰退",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "deterioration"
+      ],
+      "pair_note": "都表示逐渐变坏或衰败的过程",
+      "mnemonic": "把 decay 与“腐烂”绑定成一幅画面；等价词 deterioration 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "shackle",
+      "zh": "束缚；限制",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "stifle"
+      ],
+      "pair_note": "都会限制或阻碍自由或发展",
+      "mnemonic": "把 shackle 与“束缚”绑定成一幅画面；等价词 stifle 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "repudiate",
+      "zh": "拒绝接受；否认；驳斥；断绝关系",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "recant"
+      ],
+      "pair_note": "都表示公开拒绝、否认或放弃之前的立场、声明、信仰或政策",
+      "mnemonic": "把 repudiate 与“拒绝接受”绑定成一幅画面；等价词 recant 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "encomiums",
+      "zh": "赞扬，颂词",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "tributes"
+      ],
+      "pair_note": "都表示正式的赞扬或致敬",
+      "mnemonic": "把 encomiums 与“赞扬，颂词”绑定成一幅画面；等价词 tributes 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "unostentatious",
+      "zh": "不炫耀的；朴素的；不引人注目的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "modest"
+      ],
+      "pair_note": "形容不张扬、低调、朴素的特质或风格，与华丽炫耀形成对比",
+      "mnemonic": "把 unostentatious 与“不炫耀的”绑定成一幅画面；等价词 modest 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "dangerous",
+      "zh": "危险的；有风险的；可能造成伤害的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "perilous"
+      ],
+      "pair_note": "都表示存在危险或可能导致伤害、损失的状态，在描述危险情境时",
+      "mnemonic": "把 dangerous 与“危险的”绑定成一幅画面；等价词 perilous 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "speculation",
+      "zh": "推测；猜测；思索",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "conjecture"
+      ],
+      "pair_note": "都表示基于不完全证据的猜测或推测",
+      "mnemonic": "把 speculation 与“推测”绑定成一幅画面；等价词 conjecture 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "disparities",
+      "zh": "差异；不平等；悬殊",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "variances"
+      ],
+      "pair_note": "都表示数量或程度上的差异",
+      "mnemonic": "把 disparities 与“差异”绑定成一幅画面；等价词 variances 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "abused",
+      "zh": "滥用；误用；虐待",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "misused"
+      ],
+      "pair_note": "都表示不正确地使用或滥用，尤其在概念或逻辑上",
+      "mnemonic": "把 abused 与“滥用”绑定成一幅画面；等价词 misused 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "relief",
+      "zh": "痛苦或忧虑的减轻；宽慰",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "respite"
+      ],
+      "pair_note": "从压力、困扰中获得暂时的解脱或宽慰",
+      "mnemonic": "把 relief 与“痛苦或忧虑的减轻”绑定成一幅画面；等价词 respite 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "portend",
+      "zh": "预示；预兆",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "predict"
+      ],
+      "pair_note": "都表示预示或预测未来事件",
+      "mnemonic": "把 portend 与“预示”绑定成一幅画面；等价词 predict 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "pristine",
+      "zh": "原始状态的；未受污染的；纯洁的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "unblemished"
+      ],
+      "pair_note": "都表示完美、未受损害的状态",
+      "mnemonic": "把 pristine 与“原始状态的”绑定成一幅画面；等价词 unblemished 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "lugubrious",
+      "zh": "悲哀的；阴郁的；令人沮丧的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "gloomy"
+      ],
+      "pair_note": "都表示悲伤、阴郁的情绪或氛围",
+      "mnemonic": "把 lugubrious 与“悲哀的”绑定成一幅画面；等价词 gloomy 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "heterogeneity",
+      "zh": "异质性；多样性",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "diversity"
+      ],
+      "pair_note": "都表示由多种不同成分或类型组成的特性",
+      "mnemonic": "把 heterogeneity 与“异质性”绑定成一幅画面；等价词 diversity 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "champion",
+      "zh": "拥护；支持；捍卫",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "defend"
+      ],
+      "pair_note": "都表示积极支持或捍卫某个事业或权利",
+      "mnemonic": "把 champion 与“拥护”绑定成一幅画面；等价词 defend 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "sidestep",
+      "zh": "回避；避开；侧步避开",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "circumvent"
+      ],
+      "pair_note": "都表示采取行动避开或绕过某事物，而非直接面对",
+      "mnemonic": "把 sidestep 与“回避”绑定成一幅画面；等价词 circumvent 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "mockery",
+      "zh": "嘲笑；讥笑；嘲弄",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "derision"
+      ],
+      "pair_note": "都表示轻蔑的嘲笑或嘲弄",
+      "mnemonic": "把 mockery 与“嘲笑”绑定成一幅画面；等价词 derision 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "burgeoning",
+      "zh": "快速增长的；蓬勃发展的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "expansion"
+      ],
+      "pair_note": "都表示快速增长或扩张的状态",
+      "mnemonic": "把 burgeoning 与“快速增长的”绑定成一幅画面；等价词 expansion 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "presage",
+      "zh": "预示；预兆",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "portend"
+      ],
+      "pair_note": "都表示预示或预兆未来事件",
+      "mnemonic": "把 presage 与“预示”绑定成一幅画面；等价词 portend 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "heterogeneous",
+      "zh": "异质的；多样的；由不同成分组成的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "dissimilar"
+      ],
+      "pair_note": "都表示不同或不相似的性质",
+      "mnemonic": "把 heterogeneous 与“异质的”绑定成一幅画面；等价词 dissimilar 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "extirpated",
+      "zh": "根除；彻底消灭",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "eliminated"
+      ],
+      "pair_note": "都表示彻底移除或消灭，使不复存在。",
+      "mnemonic": "把 extirpated 与“根除”绑定成一幅画面；等价词 eliminated 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "deflate",
+      "zh": "使泄气；降低；削弱（信心、重要性等）",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "soothe"
+      ],
+      "pair_note": "缓解或消除（担忧等负面情绪）",
+      "mnemonic": "把 deflate 与“使泄气”绑定成一幅画面；等价词 soothe 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "harmless",
+      "zh": "无害的；不会造成伤害的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "innocuous"
+      ],
+      "pair_note": "都表示无害的，不会引起伤害或危害",
+      "mnemonic": "把 harmless 与“无害的”绑定成一幅画面；等价词 innocuous 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "familiar",
+      "zh": "熟悉的；常见的；亲近的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "recognizable"
+      ],
+      "pair_note": "都表示容易被识别或认识的",
+      "mnemonic": "把 familiar 与“熟悉的”绑定成一幅画面；等价词 recognizable 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "loquacious",
+      "zh": "健谈的；多话的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "garrulous"
+      ],
+      "pair_note": "都表示话多，喋喋不休",
+      "mnemonic": "把 loquacious 与“健谈的”绑定成一幅画面；等价词 garrulous 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "restorative",
+      "zh": "恢复健康的；滋补的；有恢复作用的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "tonic"
+      ],
+      "pair_note": "都具有恢复精力、健康或提振身心效果",
+      "mnemonic": "把 restorative 与“恢复健康的”绑定成一幅画面；等价词 tonic 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "prevented",
+      "zh": "阻止；妨碍",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "precluded"
+      ],
+      "pair_note": "使某事不可能发生或实现",
+      "mnemonic": "把 prevented 与“阻止”绑定成一幅画面；等价词 precluded 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "shrieking",
+      "zh": "尖声喊叫的；刺耳尖叫的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "caterwauling"
+      ],
+      "pair_note": "都指刺耳、不悦耳的尖叫声，常用于贬义描述难听的声音",
+      "mnemonic": "把 shrieking 与“尖声喊叫的”绑定成一幅画面；等价词 caterwauling 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "anticipates",
+      "zh": "预期；预见；提前具有",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "prefigures"
+      ],
+      "pair_note": "都表示提前预示或具有未来特征的迹象",
+      "mnemonic": "把 anticipates 与“预期”绑定成一幅画面；等价词 prefigures 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "generic",
+      "zh": "通用的；一般的；非特定的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "inclusive"
+      ],
+      "pair_note": "都表示术语具有广泛性或包容性，含义依赖于语境",
+      "mnemonic": "把 generic 与“通用的”绑定成一幅画面；等价词 inclusive 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "defied",
+      "zh": "公然反抗；蔑视；挑战",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "disregarded"
+      ],
+      "pair_note": "都表示不遵循或无视逻辑",
+      "mnemonic": "把 defied 与“公然反抗”绑定成一幅画面；等价词 disregarded 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "anonymous",
+      "zh": "匿名的；无名的；不具名的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "obscure"
+      ],
+      "pair_note": "都表示不为人知或不出名的状态",
+      "mnemonic": "把 anonymous 与“匿名的”绑定成一幅画面；等价词 obscure 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "recycle",
+      "zh": "回收利用；重复使用（旧物）",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "rehash"
+      ],
+      "pair_note": "都表示重复使用旧内容，缺乏新意",
+      "mnemonic": "把 recycle 与“回收利用”绑定成一幅画面；等价词 rehash 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "malfeasance",
+      "zh": "渎职；违法行为；不正当行为",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "fraudulence"
+      ],
+      "pair_note": "都指不道德或非法行为，尤其是涉及欺骗或滥用职权的",
+      "mnemonic": "把 malfeasance 与“渎职”绑定成一幅画面；等价词 fraudulence 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "abstraction",
+      "zh": "抽象；抽象概念；抽象化",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "generality"
+      ],
+      "pair_note": "都指抽象、不具体或一般化的概念",
+      "mnemonic": "把 abstraction 与“抽象”绑定成一幅画面；等价词 generality 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "decisive",
+      "zh": "决定性的；关键的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "unmistakable"
+      ],
+      "pair_note": "都表示明确、显著、不容置疑的影响",
+      "mnemonic": "把 decisive 与“决定性的”绑定成一幅画面；等价词 unmistakable 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "capture",
+      "zh": "捕获；夺取；吸引",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "secure"
+      ],
+      "pair_note": "都表示短暂吸引或获得关注",
+      "mnemonic": "把 capture 与“捕获”绑定成一幅画面；等价词 secure 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "malodorous",
+      "zh": "恶臭的；难闻的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "noisome"
+      ],
+      "pair_note": "都表示气味难闻、令人不快的",
+      "mnemonic": "把 malodorous 与“恶臭的”绑定成一幅画面；等价词 noisome 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "prominence",
+      "zh": "突出；显著；重要性",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "salience"
+      ],
+      "pair_note": "都表示在视觉、认知或重要性上引人注目的特征",
+      "mnemonic": "把 prominence 与“突出”绑定成一幅画面；等价词 salience 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "pecuniary",
+      "zh": "金钱的；财务上的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "economic"
+      ],
+      "pair_note": "都与金钱或财务利益相关",
+      "mnemonic": "把 pecuniary 与“金钱的”绑定成一幅画面；等价词 economic 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "waning",
+      "zh": "减弱；衰退；减少",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "declining"
+      ],
+      "pair_note": "都表示减少、下降或衰退的趋势",
+      "mnemonic": "把 waning 与“减弱”绑定成一幅画面；等价词 declining 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "slighted",
+      "zh": "轻视，怠慢，冷落",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "disparaged"
+      ],
+      "pair_note": "都表示轻视或贬低",
+      "mnemonic": "把 slighted 与“轻视，怠慢，冷落”绑定成一幅画面；等价词 disparaged 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "gainsaid",
+      "zh": "否认；反驳",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "disputed"
+      ],
+      "pair_note": "都表示否认或反驳，意指某事物不可争辩",
+      "mnemonic": "把 gainsaid 与“否认”绑定成一幅画面；等价词 disputed 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "conform to",
+      "zh": "符合；顺从；遵守",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "square with"
+      ],
+      "pair_note": "都表示与某事物一致或符合",
+      "mnemonic": "把 conform to 与“符合”绑定成一幅画面；等价词 square with 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "sluggish",
+      "zh": "缓慢的；迟缓的；迟钝的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "dilatory"
+      ],
+      "pair_note": "都表示缓慢或拖延，导致效率低下，需要加速",
+      "mnemonic": "把 sluggish 与“缓慢的”绑定成一幅画面；等价词 dilatory 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "simplicity",
+      "zh": "简单；朴素",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "artlessness"
+      ],
+      "pair_note": "都表示简单、直接、不复杂，与晦涩或装饰相反",
+      "mnemonic": "把 simplicity 与“简单”绑定成一幅画面；等价词 artlessness 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "circumscribed",
+      "zh": "受限制的；被划定的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "confined"
+      ],
+      "pair_note": "都表示受到限制或局限",
+      "mnemonic": "把 circumscribed 与“受限制的”绑定成一幅画面；等价词 confined 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "constraining",
+      "zh": "限制；约束",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "deterring"
+      ],
+      "pair_note": "都表示抑制或阻止某种行为或倾向",
+      "mnemonic": "把 constraining 与“限制”绑定成一幅画面；等价词 deterring 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "detracting",
+      "zh": "贬低的；减损（价值、优点或声誉）的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "deprecatory"
+      ],
+      "pair_note": "都表达批评、贬低，使事物价值或声誉降低的态度",
+      "mnemonic": "把 detracting 与“贬低的”绑定成一幅画面；等价词 deprecatory 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "purposefulness",
+      "zh": "有目的的；意图明确的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "design"
+      ],
+      "pair_note": "都表示有意图或故意的行为",
+      "mnemonic": "把 purposefulness 与“有目的的”绑定成一幅画面；等价词 design 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "hamper",
+      "zh": "阻碍，妨碍，牵制",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "impede"
+      ],
+      "pair_note": "都会造成阻碍、妨碍，使进展变慢或更困难",
+      "mnemonic": "把 hamper 与“阻碍，妨碍，牵制”绑定成一幅画面；等价词 impede 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "impeding",
+      "zh": "阻碍；妨碍",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "hampering"
+      ],
+      "pair_note": "都会表示阻碍或妨碍某事的发展或进展",
+      "mnemonic": "把 impeding 与“阻碍”绑定成一幅画面；等价词 hampering 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "haphazardly",
+      "zh": "随意地；杂乱无章地；缺乏系统或规划的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "randomly"
+      ],
+      "pair_note": "均指缺乏计划、系统或固定模式的混乱状态",
+      "mnemonic": "把 haphazardly 与“随意地”绑定成一幅画面；等价词 randomly 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "capricious",
+      "zh": "反复无常的；任性的；多变的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "unpredictable"
+      ],
+      "pair_note": "都表示变化无常、无法预测的特性",
+      "mnemonic": "把 capricious 与“反复无常的”绑定成一幅画面；等价词 unpredictable 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "foundation",
+      "zh": "建立；创立；基础",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "inception"
+      ],
+      "pair_note": "都表示某物得以存在的最初阶段或建立行为",
+      "mnemonic": "把 foundation 与“建立”绑定成一幅画面；等价词 inception 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "diminutive",
+      "zh": "极小的、特小的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "minuscule"
+      ],
+      "pair_note": "都强调尺寸异常微小",
+      "mnemonic": "把 diminutive 与“极小的、特小的”绑定成一幅画面；等价词 minuscule 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "scarcely",
+      "zh": "几乎不；几乎没有",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "hardly"
+      ],
+      "pair_note": "都表示几乎不，强调程度极小或否定",
+      "mnemonic": "把 scarcely 与“几乎不”绑定成一幅画面；等价词 hardly 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "obtain",
+      "zh": "获得；取得",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "glean"
+      ],
+      "pair_note": "都表示获取、获得信息，尤指从分散或有限来源中费力收集",
+      "mnemonic": "把 obtain 与“获得”绑定成一幅画面；等价词 glean 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "coherent",
+      "zh": "连贯的；一致的；有条理的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "orderly"
+      ],
+      "pair_note": "都表示有条理、有逻辑，能形成完整结构",
+      "mnemonic": "把 coherent 与“连贯的”绑定成一幅画面；等价词 orderly 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "vitiate",
+      "zh": "损害（事物）的本质、效力或价值；使无效；破坏",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "impair"
+      ],
+      "pair_note": "都表示损害事物的效力或价值",
+      "mnemonic": "把 vitiate 与“损害（事物）的本质、效力或价值”绑定成一幅画面；等价词 impair 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "porous",
+      "zh": "多孔的；可渗透的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "permeable"
+      ],
+      "pair_note": "都表示允许物质通过，形容边界不严格或易穿透",
+      "mnemonic": "把 porous 与“多孔的”绑定成一幅画面；等价词 permeable 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "homogeneity",
+      "zh": "同质化；一致性；同类",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "resemblance"
+      ],
+      "pair_note": "都指事物在本质、类型或外观上具有高度的相似性，强调趋",
+      "mnemonic": "把 homogeneity 与“同质化”绑定成一幅画面；等价词 resemblance 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "unfamiliarity with",
+      "zh": "不熟悉；不了解",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "ignorance of"
+      ],
+      "pair_note": "对某事物缺乏了解的状态",
+      "mnemonic": "把 unfamiliarity with 与“不熟悉”绑定成一幅画面；等价词 ignorance of 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "unalloyed",
+      "zh": "纯粹的；完全的；不掺杂的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "unqualified"
+      ],
+      "pair_note": "都表示完全的、纯粹的，没有杂质或限制",
+      "mnemonic": "把 unalloyed 与“纯粹的”绑定成一幅画面；等价词 unqualified 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "denounces",
+      "zh": "谴责；公开指责",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "lambastes"
+      ],
+      "pair_note": "都表示公开、严厉地批评或谴责",
+      "mnemonic": "把 denounces 与“谴责”绑定成一幅画面；等价词 lambastes 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "tortuous",
+      "zh": "曲折的；弯弯曲曲的；复杂的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "convoluted"
+      ],
+      "pair_note": "都描述某事复杂、曲折、难以理解",
+      "mnemonic": "把 tortuous 与“曲折的”绑定成一幅画面；等价词 convoluted 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "burdensome",
+      "zh": "繁重的；难以负担的；累赘的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "onerous"
+      ],
+      "pair_note": "都表示繁重、负担沉重，形容事物令人难以承受或处理",
+      "mnemonic": "把 burdensome 与“繁重的”绑定成一幅画面；等价词 onerous 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "inconstant",
+      "zh": "反复无常的；易变的；不稳定的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "capricious"
+      ],
+      "pair_note": "都表示反复无常、变化不定",
+      "mnemonic": "把 inconstant 与“反复无常的”绑定成一幅画面；等价词 capricious 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "plethora",
+      "zh": "过多的；过剩的；大量",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "surfeit"
+      ],
+      "pair_note": "都表示数量过多或过剩，在句子中暗示已有大量案例研究，因此新研究",
+      "mnemonic": "把 plethora 与“过多的”绑定成一幅画面；等价词 surfeit 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "triumph",
+      "zh": "胜利，巨大成功；喜悦，成就感",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "success"
+      ],
+      "pair_note": "都指一个事件或行动取得了积极的、令人满意的结果或成就",
+      "mnemonic": "把 triumph 与“胜利，巨大成功”绑定成一幅画面；等价词 success 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "unorthodox",
+      "zh": "非正统的；异端的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "unconventional"
+      ],
+      "pair_note": "都表示不遵循传统或常规方法",
+      "mnemonic": "把 unorthodox 与“非正统的”绑定成一幅画面；等价词 unconventional 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "altruistic",
+      "zh": "利他的；无私的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "benevolent"
+      ],
+      "pair_note": "都强调出于善意、无私的动机或行为",
+      "mnemonic": "把 altruistic 与“利他的”绑定成一幅画面；等价词 benevolent 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "favorable",
+      "zh": "有利的；赞成的；顺利的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "auspicious"
+      ],
+      "pair_note": "都表示有利的、积极的，预示着成功或好运",
+      "mnemonic": "把 favorable 与“有利的”绑定成一幅画面；等价词 auspicious 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "cursory",
+      "zh": "粗略的；仓促的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "casual"
+      ],
+      "pair_note": "都表示不深入、不细致的，用于描述快速或表面的检查",
+      "mnemonic": "把 cursory 与“粗略的”绑定成一幅画面；等价词 casual 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "rudimentary",
+      "zh": "基础的；初步的；未充分发展的；原始的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "embryonic"
+      ],
+      "pair_note": "都形容事物处于最早、最初、未充分发展的初始阶段",
+      "mnemonic": "把 rudimentary 与“基础的”绑定成一幅画面；等价词 embryonic 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "maturity",
+      "zh": "成熟；成年；完备",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "precociousness"
+      ],
+      "pair_note": "都表示在年龄上超出预期的成熟或发展",
+      "mnemonic": "把 maturity 与“成熟”绑定成一幅画面；等价词 precociousness 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "kinfolk",
+      "zh": "亲属；家人",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "relative"
+      ],
+      "pair_note": "都指家族成员或血缘关系的人",
+      "mnemonic": "把 kinfolk 与“亲属”绑定成一幅画面；等价词 relative 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "unlinked",
+      "zh": "未连接的；未关联的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "estranged"
+      ],
+      "pair_note": "都表示分离或不连接的状态",
+      "mnemonic": "把 unlinked 与“未连接的”绑定成一幅画面；等价词 estranged 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "paucity",
+      "zh": "稀少；缺乏",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "dearth"
+      ],
+      "pair_note": "都表示数量上的缺乏或不足",
+      "mnemonic": "把 paucity 与“稀少”绑定成一幅画面；等价词 dearth 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "perplexing",
+      "zh": "令人困惑的；使人迷惑的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "enigmatic"
+      ],
+      "pair_note": "都表示难以理解或解释的",
+      "mnemonic": "把 perplexing 与“令人困惑的”绑定成一幅画面；等价词 enigmatic 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "protean",
+      "zh": "多才多艺的；多变的；能适应多种角色的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "versatile"
+      ],
+      "pair_note": "都表示具有多种才能或能扮演多种角色",
+      "mnemonic": "把 protean 与“多才多艺的”绑定成一幅画面；等价词 versatile 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "glut",
+      "zh": "过量；供应过剩",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "surfeit"
+      ],
+      "pair_note": "‘都指过度的、有害的过量’",
+      "mnemonic": "把 glut 与“过量”绑定成一幅画面；等价词 surfeit 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "relic",
+      "zh": "遗物；遗迹；历史残留物",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "vestige"
+      ],
+      "pair_note": "都指过去事物的残留或痕迹，暗示与现在无关",
+      "mnemonic": "把 relic 与“遗物”绑定成一幅画面；等价词 vestige 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "humility",
+      "zh": "谦逊，谦卑；指对自己成就或重要性的低调态度。",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "modesty"
+      ],
+      "pair_note": "都可描述一种不张扬、不自我夸耀的谦逊品质",
+      "mnemonic": "把 humility 与“谦逊，谦卑”绑定成一幅画面；等价词 modesty 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "quiescent",
+      "zh": "静止的；不活跃的；沉寂的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "abeyant"
+      ],
+      "pair_note": "都表示暂时不活跃或暂停的状态",
+      "mnemonic": "把 quiescent 与“静止的”绑定成一幅画面；等价词 abeyant 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "venerated",
+      "zh": "崇敬的；尊崇的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "honored"
+      ],
+      "pair_note": "都表示对某人深表尊敬，尤指因其成就或神圣性",
+      "mnemonic": "把 venerated 与“崇敬的”绑定成一幅画面；等价词 honored 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "exhaustive",
+      "zh": "详尽的；彻底的；全面的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "comprehensive"
+      ],
+      "pair_note": "都表示全面的、详尽的，没有遗漏任何细节",
+      "mnemonic": "把 exhaustive 与“详尽的”绑定成一幅画面；等价词 comprehensive 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "laconic",
+      "zh": "简洁的；寡言少语的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "taciturn"
+      ],
+      "pair_note": "都表示沉默寡言、话语简洁",
+      "mnemonic": "把 laconic 与“简洁的”绑定成一幅画面；等价词 taciturn 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "hailed",
+      "zh": "称赞；赞扬；欢迎",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "acclaimed"
+      ],
+      "pair_note": "都表示公开赞扬或认可",
+      "mnemonic": "把 hailed 与“称赞”绑定成一幅画面；等价词 acclaimed 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "tactless",
+      "zh": "不机智的；不得体的；缺乏社交技巧的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "impolitic"
+      ],
+      "pair_note": "都会因为不合时宜的言行而导致社交上的尴尬或对自身不利",
+      "mnemonic": "把 tactless 与“不机智的”绑定成一幅画面；等价词 impolitic 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "eliminated",
+      "zh": "消除；排除；淘汰",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "put to rest"
+      ],
+      "pair_note": "都表示使某事物结束或消失",
+      "mnemonic": "把 eliminated 与“消除”绑定成一幅画面；等价词 put to rest 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "demanded",
+      "zh": "要求；需要",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "exacted"
+      ],
+      "pair_note": "都表示强制性地要求，带有索取或强制的意味",
+      "mnemonic": "把 demanded 与“要求”绑定成一幅画面；等价词 exacted 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "controversial",
+      "zh": "引发争议的；容易造成分歧的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "provocative"
+      ],
+      "pair_note": "都能引发争议或不同意见",
+      "mnemonic": "把 controversial 与“引发争议的”绑定成一幅画面；等价词 provocative 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "eclipse",
+      "zh": "使…相形见绌；超越；遮蔽",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "outdo"
+      ],
+      "pair_note": "都表示在程度或成就上‘超过、胜过’，使参照对象显得逊色",
+      "mnemonic": "把 eclipse 与“使…相形见绌”绑定成一幅画面；等价词 outdo 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "unconstrained",
+      "zh": "不受约束的；自由的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "free"
+      ],
+      "pair_note": "都表示没有限制或约束，可以自由行动或表达",
+      "mnemonic": "把 unconstrained 与“不受约束的”绑定成一幅画面；等价词 free 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "approbation",
+      "zh": "批准；认可；赞扬",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "adulation"
+      ],
+      "pair_note": "都表示赞扬或认可，常指公开或正式的高度评价",
+      "mnemonic": "把 approbation 与“批准”绑定成一幅画面；等价词 adulation 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "opprobrium",
+      "zh": "耻辱；谴责；恶评",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "disdain"
+      ],
+      "pair_note": "都表示强烈的鄙视、轻蔑或谴责",
+      "mnemonic": "把 opprobrium 与“耻辱”绑定成一幅画面；等价词 disdain 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "panacea",
+      "zh": "万能药；解决一切问题的办法",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "remedy"
+      ],
+      "pair_note": "都表示能解决问题的方法或药方",
+      "mnemonic": "把 panacea 与“万能药”绑定成一幅画面；等价词 remedy 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "contingent",
+      "zh": "取决于特定条件的；偶然发生的；依情况而定的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "circumstantial"
+      ],
+      "pair_note": "都表示由外部环境或偶然条件决定的，而非内在固有的",
+      "mnemonic": "把 contingent 与“取决于特定条件的”绑定成一幅画面；等价词 circumstantial 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "spurious",
+      "zh": "伪造的；假的；欺骗性的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "specious"
+      ],
+      "pair_note": "外表具有欺骗性的虚假之物",
+      "mnemonic": "把 spurious 与“伪造的”绑定成一幅画面；等价词 specious 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "short-lived",
+      "zh": "短暂存在的；寿命短的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "ephemeral"
+      ],
+      "pair_note": "都表示持续时间很短的，易逝的",
+      "mnemonic": "把 short-lived 与“短暂存在的”绑定成一幅画面；等价词 ephemeral 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "solidarity",
+      "zh": "团结；团结一致",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "camaraderie"
+      ],
+      "pair_note": "都表示团结、团队精神或集体归属感",
+      "mnemonic": "把 solidarity 与“团结”绑定成一幅画面；等价词 camaraderie 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "obtrusive",
+      "zh": "冒失的；突兀的；显眼的；强行闯入视线的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "conspicuous"
+      ],
+      "pair_note": "引人注意、难以被忽视的（人或事物）",
+      "mnemonic": "把 obtrusive 与“冒失的”绑定成一幅画面；等价词 conspicuous 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "secure",
+      "zh": "确保；获得；使安全",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "earn"
+      ],
+      "pair_note": "都表示通过行动或策略来获得或确保某物，如在政治中获取支持或选票",
+      "mnemonic": "把 secure 与“确保”绑定成一幅画面；等价词 earn 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "origin",
+      "zh": "起源；来源；出身",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "provenance"
+      ],
+      "pair_note": "都指事物的起源或来源，强调产地或出处",
+      "mnemonic": "把 origin 与“起源”绑定成一幅画面；等价词 provenance 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "mitigated",
+      "zh": "减轻的；缓和的；缓解的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "abated"
+      ],
+      "pair_note": "都表示减轻或减弱某事物的强度或影响",
+      "mnemonic": "把 mitigated 与“减轻的”绑定成一幅画面；等价词 abated 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "artificial",
+      "zh": "人工的；人造的；虚假的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "spurious"
+      ],
+      "pair_note": "都表示虚假的、不真实的",
+      "mnemonic": "把 artificial 与“人工的”绑定成一幅画面；等价词 spurious 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "dissemblance",
+      "zh": "掩饰；虚伪；假装",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "duplicity"
+      ],
+      "pair_note": "都指假装或欺骗，尤指言行不一",
+      "mnemonic": "把 dissemblance 与“掩饰”绑定成一幅画面；等价词 duplicity 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "self-interest",
+      "zh": "自私自利；利己主义",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "opportunism"
+      ],
+      "pair_note": "都表示行为出于个人利益或机会考量",
+      "mnemonic": "把 self-interest 与“自私自利”绑定成一幅画面；等价词 opportunism 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "resonates",
+      "zh": "引起共鸣；产生共振",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "rings true"
+      ],
+      "pair_note": "都表示某事听起来真实可信，能引起共鸣或认同",
+      "mnemonic": "把 resonates 与“引起共鸣”绑定成一幅画面；等价词 rings true 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "tenacity",
+      "zh": "坚韧不拔；顽强；固执",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "resolve"
+      ],
+      "pair_note": "都表示坚定不移、不轻易放弃的品质",
+      "mnemonic": "把 tenacity 与“坚韧不拔”绑定成一幅画面；等价词 resolve 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "adept",
+      "zh": "精通的；熟练的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "proficient"
+      ],
+      "pair_note": "都表示在某个领域有高度技能或知识",
+      "mnemonic": "把 adept 与“精通的”绑定成一幅画面；等价词 proficient 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "spirited",
+      "zh": "精神饱满的；充满活力的；热烈的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "vigorous"
+      ],
+      "pair_note": "都表示充满活力和能量的状态",
+      "mnemonic": "把 spirited 与“精神饱满的”绑定成一幅画面；等价词 vigorous 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "alarm",
+      "zh": "使惊慌；使警觉",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "unsettle"
+      ],
+      "pair_note": "都会使人感到不安或惊慌",
+      "mnemonic": "把 alarm 与“使惊慌”绑定成一幅画面；等价词 unsettle 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "temperate",
+      "zh": "温和的；适度的；有节制的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "dispassionate"
+      ],
+      "pair_note": "都表示冷静、不情绪化，与激烈的争论形成对比",
+      "mnemonic": "把 temperate 与“温和的”绑定成一幅画面；等价词 dispassionate 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "amazing",
+      "zh": "令人惊讶的；惊人的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "wondrous"
+      ],
+      "pair_note": "都表示令人惊奇或赞叹的事物",
+      "mnemonic": "把 amazing 与“令人惊讶的”绑定成一幅画面；等价词 wondrous 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "trivial",
+      "zh": "琐碎的；不重要的；微不足道的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "inessential"
+      ],
+      "pair_note": "都表示不重要或无关紧要",
+      "mnemonic": "把 trivial 与“琐碎的”绑定成一幅画面；等价词 inessential 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "denunciations",
+      "zh": "谴责；公开指责",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "indictments"
+      ],
+      "pair_note": "都表示公开的谴责或批评",
+      "mnemonic": "把 denunciations 与“谴责”绑定成一幅画面；等价词 indictments 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "neutrality",
+      "zh": "中立；不偏不倚的态度或立场",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "impartiality"
+      ],
+      "pair_note": "都表示不偏不倚、保持客观中立的立场或态度",
+      "mnemonic": "把 neutrality 与“中立”绑定成一幅画面；等价词 impartiality 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "obscure",
+      "zh": "不为人知的；模糊的；晦涩的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "unknown"
+      ],
+      "pair_note": "都表示不为人知或缺乏知名度",
+      "mnemonic": "把 obscure 与“不为人知的”绑定成一幅画面；等价词 unknown 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "perennial",
+      "zh": "永久的；持续的；多年生的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "long-standing"
+      ],
+      "pair_note": "都表示持续很长时间的",
+      "mnemonic": "把 perennial 与“永久的”绑定成一幅画面；等价词 long-standing 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "long-winded",
+      "zh": "冗长的；累赘的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "verbose"
+      ],
+      "pair_note": "都表示言语或文字不必要地冗长、啰嗦，用词超过所需",
+      "mnemonic": "把 long-winded 与“冗长的”绑定成一幅画面；等价词 verbose 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "tempered",
+      "zh": "使缓和；调节；使温和",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "moderated"
+      ],
+      "pair_note": "都表示通过调节使事物变得温和或适度，以减少极端性，从而达成",
+      "mnemonic": "把 tempered 与“使缓和”绑定成一幅画面；等价词 moderated 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "canned",
+      "zh": "预先录制好的；千篇一律的；刻板的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "formulaic"
+      ],
+      "pair_note": "都表示缺乏原创性、按固定模式或公式制作的",
+      "mnemonic": "把 canned 与“预先录制好的”绑定成一幅画面；等价词 formulaic 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "obsolete",
+      "zh": "过时的；废弃的；不再使用的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "outmoded"
+      ],
+      "pair_note": "都表示过时的、不再适用的",
+      "mnemonic": "把 obsolete 与“过时的”绑定成一幅画面；等价词 outmoded 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "inexplicable",
+      "zh": "无法解释的；莫名其妙的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "incomprehensible"
+      ],
+      "pair_note": "都表示无法理解或解释的",
+      "mnemonic": "把 inexplicable 与“无法解释的”绑定成一幅画面；等价词 incomprehensible 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "experimental",
+      "zh": "实验性的；尝试新方法的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "innovative"
+      ],
+      "pair_note": "都表示尝试新方法或引入新思想，与传统或常规相对",
+      "mnemonic": "把 experimental 与“实验性的”绑定成一幅画面；等价词 innovative 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "veneration",
+      "zh": "尊敬；崇敬；崇拜",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "reverence"
+      ],
+      "pair_note": "都表示深深的尊敬或崇敬",
+      "mnemonic": "把 veneration 与“尊敬”绑定成一幅画面；等价词 reverence 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "perceptive",
+      "zh": "洞察力强的；有深刻理解力的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "discerning"
+      ],
+      "pair_note": "都指具有敏锐的观察、理解和精细区分的能力",
+      "mnemonic": "把 perceptive 与“洞察力强的”绑定成一幅画面；等价词 discerning 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "unabated",
+      "zh": "未减弱的；未减退的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "undiminished"
+      ],
+      "pair_note": "都表示没有减弱或减少，保持原样或持续不变",
+      "mnemonic": "把 unabated 与“未减弱的”绑定成一幅画面；等价词 undiminished 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "regular",
+      "zh": "规律的；定期的；经常的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "consistent"
+      ],
+      "pair_note": "都表示有规律的、稳定发生的",
+      "mnemonic": "把 regular 与“规律的”绑定成一幅画面；等价词 consistent 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "imitate",
+      "zh": "模仿；效仿",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "emulate"
+      ],
+      "pair_note": "都表示模仿或效仿他人的行为",
+      "mnemonic": "把 imitate 与“模仿”绑定成一幅画面；等价词 emulate 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "shrewd",
+      "zh": "精明的；狡猾的；有判断力的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "canny"
+      ],
+      "pair_note": "都表示精明、有洞察力，善于在策略或决策中做出明智判断",
+      "mnemonic": "把 shrewd 与“精明的”绑定成一幅画面；等价词 canny 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "discrepancies",
+      "zh": "差异；不一致；矛盾之处（尤指在数据、说法之间）",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "incongruities"
+      ],
+      "pair_note": "均指事物间的不匹配、不一致或矛盾的状态，与‘major（主",
+      "mnemonic": "把 discrepancies 与“差异”绑定成一幅画面；等价词 incongruities 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "precise",
+      "zh": "精确的；准确的；严谨的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "circumspect"
+      ],
+      "pair_note": "在陈述事实时注重准确性和谨慎性",
+      "mnemonic": "把 precise 与“精确的”绑定成一幅画面；等价词 circumspect 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "disinformation",
+      "zh": "虚假信息；故意传播的、旨在误导或欺骗的错误信息。",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "mendacity"
+      ],
+      "pair_note": "都指代虚假、欺骗性的内容或性质",
+      "mnemonic": "把 disinformation 与“虚假信息”绑定成一幅画面；等价词 mendacity 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "disparaged",
+      "zh": "贬低；轻视；诋毁",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "mocked"
+      ],
+      "pair_note": "都表示以轻蔑或嘲笑的方式表达不满或批评",
+      "mnemonic": "把 disparaged 与“贬低”绑定成一幅画面；等价词 mocked 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "assured",
+      "zh": "有保证的；确定的；稳固的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "settled"
+      ],
+      "pair_note": "都表示确定的、稳固的，暗示一个固定或无需争议的位置",
+      "mnemonic": "把 assured 与“有保证的”绑定成一幅画面；等价词 settled 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "transitory",
+      "zh": "短暂的；转瞬即逝的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "temporary"
+      ],
+      "pair_note": "短暂、不持久的性质",
+      "mnemonic": "把 transitory 与“短暂的”绑定成一幅画面；等价词 temporary 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "hallowed",
+      "zh": "神圣的；备受崇敬的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "respected"
+      ],
+      "pair_note": "都表示受到高度尊敬或崇敬，常用来形容被广泛认可或推崇的事物",
+      "mnemonic": "把 hallowed 与“神圣的”绑定成一幅画面；等价词 respected 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "preternatural",
+      "zh": "超自然的；异常的；非凡的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "prodigious"
+      ],
+      "pair_note": "都表示超出寻常的、非凡的，常用于描述卓越的能力或特质",
+      "mnemonic": "把 preternatural 与“超自然的”绑定成一幅画面；等价词 prodigious 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "scarce",
+      "zh": "稀缺的；不足的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "inadequate"
+      ],
+      "pair_note": "都表示数量或程度不足，无法满足需要或标准",
+      "mnemonic": "把 scarce 与“稀缺的”绑定成一幅画面；等价词 inadequate 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "futile",
+      "zh": "徒劳的；无用的；无效的（强调努力或尝试完全白费，注定不会成功）",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "fruitless"
+      ],
+      "pair_note": "都形容努力或行动没有结果、白费力气",
+      "mnemonic": "把 futile 与“徒劳的”绑定成一幅画面；等价词 fruitless 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "excellent",
+      "zh": "极好的，卓越的，非常适宜的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "agreeable"
+      ],
+      "pair_note": "在句子语境中都表示一个‘非常合适/理想的’避难所或环境",
+      "mnemonic": "把 excellent 与“极好的，卓越的，非常适宜的”绑定成一幅画面；等价词 agreeable 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "comprehended",
+      "zh": "理解；领会",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "fathomed"
+      ],
+      "pair_note": "都表示完全理解或领会",
+      "mnemonic": "把 comprehended 与“理解”绑定成一幅画面；等价词 fathomed 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "irony",
+      "zh": "讽刺；反讽；具有讽刺意味的情况",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "paradox"
+      ],
+      "pair_note": "都表示一种矛盾或相反的情况，其中事情的结果与预期相反或自相矛盾",
+      "mnemonic": "把 irony 与“讽刺”绑定成一幅画面；等价词 paradox 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "invigorating",
+      "zh": "令人振奋的；使人精力充沛的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "refreshing"
+      ],
+      "pair_note": "都表示一种令人精神振奋、焕然一新的感觉",
+      "mnemonic": "把 invigorating 与“令人振奋的”绑定成一幅画面；等价词 refreshing 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "divest",
+      "zh": "剥夺；使摆脱",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "strip"
+      ],
+      "pair_note": "都表示剥夺或移除某物，尤其在职位或权力方面",
+      "mnemonic": "把 divest 与“剥夺”绑定成一幅画面；等价词 strip 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "render",
+      "zh": "呈现；描绘；使成为",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "reproduce"
+      ],
+      "pair_note": "都表示精确地呈现或复制原物",
+      "mnemonic": "把 render 与“呈现”绑定成一幅画面；等价词 reproduce 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "mediated by",
+      "zh": "经由...调节/促成；通过中介作用受...影响",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "influenced by"
+      ],
+      "pair_note": "都表示外在因素（如文化）对某事（如习惯）起着重要的塑造",
+      "mnemonic": "把 mediated by 与“经由...调节/促成”绑定成一幅画面；等价词 influenced by 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "catalyst for",
+      "zh": "催化剂；促发因素；强有力的推动力",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "factor in"
+      ],
+      "pair_note": "都是指引发或促进变化的（关键）事物或力量",
+      "mnemonic": "把 catalyst for 与“催化剂”绑定成一幅画面；等价词 factor in 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "sanctioning",
+      "zh": "批准；认可；容忍；制裁（在本题上下文中取“容忍、允许”之意）",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "countenancing"
+      ],
+      "pair_note": "都表示容忍或允许某事发生",
+      "mnemonic": "把 sanctioning 与“批准”绑定成一幅画面；等价词 countenancing 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "dubious",
+      "zh": "可疑的；不确定的；不可靠的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "suspect"
+      ],
+      "pair_note": "都表示某事或某人不可信、值得怀疑",
+      "mnemonic": "把 dubious 与“可疑的”绑定成一幅画面；等价词 suspect 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "scary",
+      "zh": "可怕的；吓人的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "intimidating"
+      ],
+      "pair_note": "都会引起恐惧或害怕的感觉",
+      "mnemonic": "把 scary 与“可怕的”绑定成一幅画面；等价词 intimidating 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "proclivity",
+      "zh": "倾向；偏好；癖好",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "affinity"
+      ],
+      "pair_note": "都表示对某事的自然倾向或喜好",
+      "mnemonic": "把 proclivity 与“倾向”绑定成一幅画面；等价词 affinity 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "identified",
+      "zh": "识别出的；确认为的；视为同一的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "diagnosed"
+      ],
+      "pair_note": "在语境中都可表示识别或判定某事物为某种状态或问题",
+      "mnemonic": "把 identified 与“识别出的”绑定成一幅画面；等价词 diagnosed 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "dismiss",
+      "zh": "不予理会；忽视；驳回",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "ignore"
+      ],
+      "pair_note": "都表示主动选择不理会或忽视某事物",
+      "mnemonic": "把 dismiss 与“不予理会”绑定成一幅画面；等价词 ignore 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "showy",
+      "zh": "显眼的；炫耀的；华丽的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "meretricious"
+      ],
+      "pair_note": "都指外表华丽吸引人但可能缺乏实质或深度",
+      "mnemonic": "把 showy 与“显眼的”绑定成一幅画面；等价词 meretricious 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "inaccessible to",
+      "zh": "让...难以到达的；让...难以理解的；不让...接触的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "insurmountable for"
+      ],
+      "pair_note": "都表示对特定对象（读者）而言，难以达到或难以",
+      "mnemonic": "把 inaccessible to 与“让...难以到达的”绑定成一幅画面；等价词 insurmountable for 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "bounds",
+      "zh": "边界；界限；限制",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "limits"
+      ],
+      "pair_note": "都表示不可逾越的边界或限制，指事物范围或行动的约束",
+      "mnemonic": "把 bounds 与“边界”绑定成一幅画面；等价词 limits 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "placidity",
+      "zh": "平静；宁静；沉着",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "complacency"
+      ],
+      "pair_note": "在句子上下文中都表示因不感威胁而表现出的缺乏担忧或焦虑的",
+      "mnemonic": "把 placidity 与“平静”绑定成一幅画面；等价词 complacency 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "calamity",
+      "zh": "灾难；灾祸",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "disaster"
+      ],
+      "pair_note": "都指严重的灾难或不幸事件，强调巨大损失或痛苦",
+      "mnemonic": "把 calamity 与“灾难”绑定成一幅画面；等价词 disaster 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "comparable",
+      "zh": "可比较的；类似的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "analogous"
+      ],
+      "pair_note": "都表示事物之间具有相似性或可比较性",
+      "mnemonic": "把 comparable 与“可比较的”绑定成一幅画面；等价词 analogous 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "elude",
+      "zh": "逃避；躲避；使困惑",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "puzzle"
+      ],
+      "pair_note": "都会使某人感到困惑或难以理解",
+      "mnemonic": "把 elude 与“逃避”绑定成一幅画面；等价词 puzzle 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "compelling",
+      "zh": "引人入胜的；有强烈吸引力的；令人信服的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "interesting"
+      ],
+      "pair_note": "都指事物具有吸引人的特质，能激发人的关注或兴趣",
+      "mnemonic": "把 compelling 与“引人入胜的”绑定成一幅画面；等价词 interesting 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "beget",
+      "zh": "产生；引起；导致",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "create"
+      ],
+      "pair_note": "都表示产生或创造新事物",
+      "mnemonic": "把 beget 与“产生”绑定成一幅画面；等价词 create 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "palatable",
+      "zh": "可口的；美味的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "appetizing"
+      ],
+      "pair_note": "都形容食物美味、令人有食欲",
+      "mnemonic": "把 palatable 与“可口的”绑定成一幅画面；等价词 appetizing 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "sober",
+      "zh": "清醒的；严肃的；庄重的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "staid"
+      ],
+      "pair_note": "都表示严肃、稳重、不轻浮的状态",
+      "mnemonic": "把 sober 与“清醒的”绑定成一幅画面；等价词 staid 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "benign",
+      "zh": "良性的；无害的；温和的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "innocuous"
+      ],
+      "pair_note": "都强调‘无害的、不造成伤害的’这一核心特征",
+      "mnemonic": "把 benign 与“良性的”绑定成一幅画面；等价词 innocuous 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "disapprobation",
+      "zh": "不赞成；反对；非难",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "censure"
+      ],
+      "pair_note": "上级正式的、不认可的负面评价",
+      "mnemonic": "把 disapprobation 与“不赞成”绑定成一幅画面；等价词 censure 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "attenuating",
+      "zh": "减弱；衰减；变弱",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "dissipating"
+      ],
+      "pair_note": "都表示信号或能量减弱或消失",
+      "mnemonic": "把 attenuating 与“减弱”绑定成一幅画面；等价词 dissipating 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "confound",
+      "zh": "使困惑；混淆；挫败；使难以处理",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "resist"
+      ],
+      "pair_note": "都表示抵制或抗拒分类，使难以被简单归类",
+      "mnemonic": "把 confound 与“使困惑”绑定成一幅画面；等价词 resist 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "intemperate",
+      "zh": "放纵的；无节制的；过度的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "excessive"
+      ],
+      "pair_note": "表示行为或程度超出正常或适当限度",
+      "mnemonic": "把 intemperate 与“放纵的”绑定成一幅画面；等价词 excessive 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "intuitive",
+      "zh": "直观的；凭直觉的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "straightforward"
+      ],
+      "pair_note": "都表示容易理解或无需复杂思考",
+      "mnemonic": "把 intuitive 与“直观的”绑定成一幅画面；等价词 straightforward 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "counterfeit",
+      "zh": "伪造的；假冒的（尤指货币、艺术品等有价值的物品）",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "spurious"
+      ],
+      "pair_note": "都表示‘虚假的、伪造的’，强调其不真实性或欺骗性，因此可以用",
+      "mnemonic": "把 counterfeit 与“伪造的”绑定成一幅画面；等价词 spurious 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "versatile",
+      "zh": "多才多艺的；多功能的；适应性强的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "protean"
+      ],
+      "pair_note": "都表示能够以多种不同的方式、形式或角色展现能力，强调多样变化的",
+      "mnemonic": "把 versatile 与“多才多艺的”绑定成一幅画面；等价词 protean 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "indigence",
+      "zh": "贫困；赤贫",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "penury"
+      ],
+      "pair_note": "都表示极度的贫困或贫穷状态",
+      "mnemonic": "把 indigence 与“贫困”绑定成一幅画面；等价词 penury 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "unrelated",
+      "zh": "无关的；没有联系的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "separate"
+      ],
+      "pair_note": "都强调两个事物之间没有关联、是独立的",
+      "mnemonic": "把 unrelated 与“无关的”绑定成一幅画面；等价词 separate 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "asymmetrically",
+      "zh": "不对称地；非对称地",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "unevenly"
+      ],
+      "pair_note": "都表示不对称或不均匀的分布，强调位置或形状的不平衡",
+      "mnemonic": "把 asymmetrically 与“不对称地”绑定成一幅画面；等价词 unevenly 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "sullen",
+      "zh": "闷闷不乐的，阴郁的；愤怒且沉默寡言的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "surly"
+      ],
+      "pair_note": "都描述了不友好、阴沉、易怒的情绪状态",
+      "mnemonic": "把 sullen 与“闷闷不乐的，阴郁的”绑定成一幅画面；等价词 surly 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "predominantly",
+      "zh": "主要地；占主导地位地；占绝大多数地",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "particularly"
+      ],
+      "pair_note": "在句中都能表达出‘特别地、突出地’这一核心语义，强调",
+      "mnemonic": "把 predominantly 与“主要地”绑定成一幅画面；等价词 particularly 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "hidebound",
+      "zh": "思想狭隘的；守旧的；固执己见的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "illiberal"
+      ],
+      "pair_note": "都表示思想狭隘、固执守旧、不开放",
+      "mnemonic": "把 hidebound 与“思想狭隘的”绑定成一幅画面；等价词 illiberal 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "competing",
+      "zh": "竞争的；角逐的；对抗的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "contending"
+      ],
+      "pair_note": "都表示相互竞争、对抗或争论的状态",
+      "mnemonic": "把 competing 与“竞争的”绑定成一幅画面；等价词 contending 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "prudent",
+      "zh": "谨慎的；精明的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "provident"
+      ],
+      "pair_note": "都表示谨慎、有远见，强调为避免未来问题而采取行动",
+      "mnemonic": "把 prudent 与“谨慎的”绑定成一幅画面；等价词 provident 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "somnolence",
+      "zh": "困倦；嗜睡",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "lethargy"
+      ],
+      "pair_note": "都表示一种昏昏欲睡、缺乏活力的状态，导致行动迟缓或准备不足",
+      "mnemonic": "把 somnolence 与“困倦”绑定成一幅画面；等价词 lethargy 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "insulated from",
+      "zh": "隔离于；免受...影响",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "buffered against"
+      ],
+      "pair_note": "都表示保护免受某事的影响，起到隔离或缓冲作用",
+      "mnemonic": "把 insulated from 与“隔离于”绑定成一幅画面；等价词 buffered against 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "inconspicuous",
+      "zh": "不显眼的；不易被注意的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "discreet"
+      ],
+      "pair_note": "都表示不显眼或不引人注目",
+      "mnemonic": "把 inconspicuous 与“不显眼的”绑定成一幅画面；等价词 discreet 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "altruism",
+      "zh": "利他主义；无私",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "benevolence"
+      ],
+      "pair_note": "都表示无私、关心他人的品质或行为",
+      "mnemonic": "把 altruism 与“利他主义”绑定成一幅画面；等价词 benevolence 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "convey",
+      "zh": "传达；传递；表达",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "impart"
+      ],
+      "pair_note": "都表示传递或传达信息、情感或品质",
+      "mnemonic": "把 convey 与“传达”绑定成一幅画面；等价词 impart 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "imprecise",
+      "zh": "不精确的；不准确的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "inexact"
+      ],
+      "pair_note": "都表示不精确、不准确，强调缺乏精准性",
+      "mnemonic": "把 imprecise 与“不精确的”绑定成一幅画面；等价词 inexact 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "peripatetic",
+      "zh": "巡游的；流动的；四处奔波的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "itinerant"
+      ],
+      "pair_note": "都表示经常移动、旅行或流动的状态",
+      "mnemonic": "把 peripatetic 与“巡游的”绑定成一幅画面；等价词 itinerant 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "pliable",
+      "zh": "易弯曲的；柔韧的；顺从的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "malleable"
+      ],
+      "pair_note": "都表示材料容易弯曲或塑造的性质",
+      "mnemonic": "把 pliable 与“易弯曲的”绑定成一幅画面；等价词 malleable 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "anomalous",
+      "zh": "异常的；反常的；不规则的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "uncommon"
+      ],
+      "pair_note": "都表示偏离常态或不常见，强调异常性或稀有性",
+      "mnemonic": "把 anomalous 与“异常的”绑定成一幅画面；等价词 uncommon 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "defray",
+      "zh": "支付；负担费用",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "pay"
+      ],
+      "pair_note": "都表示支付或承担费用",
+      "mnemonic": "把 defray 与“支付”绑定成一幅画面；等价词 pay 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "fitting",
+      "zh": "合适的；恰当的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "apposite"
+      ],
+      "pair_note": "都表示恰当的、适合的",
+      "mnemonic": "把 fitting 与“合适的”绑定成一幅画面；等价词 apposite 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "inept at",
+      "zh": "不擅长的；笨拙的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "unequal to"
+      ],
+      "pair_note": "都表示缺乏能力或不擅长",
+      "mnemonic": "把 inept at 与“不擅长的”绑定成一幅画面；等价词 unequal to 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "stratified",
+      "zh": "分层的；形成层次的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "differentiated"
+      ],
+      "pair_note": "都表示形成层次或区分出不同部分",
+      "mnemonic": "把 stratified 与“分层的”绑定成一幅画面；等价词 differentiated 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "slanted",
+      "zh": "有偏见的；带有倾向性的；歪曲的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "tendentious"
+      ],
+      "pair_note": "都表示信息带有偏见或倾向性，不中立客观，使得区分真假变得困",
+      "mnemonic": "把 slanted 与“有偏见的”绑定成一幅画面；等价词 tendentious 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "impatient",
+      "zh": "不耐烦的；急躁的；急切的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "keen"
+      ],
+      "pair_note": "在否定结构中表示不急切或不情愿",
+      "mnemonic": "把 impatient 与“不耐烦的”绑定成一幅画面；等价词 keen 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "malleable",
+      "zh": "可塑的；易变的；易受影响的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "plastic"
+      ],
+      "pair_note": "都表示物质或事物能够被塑造、改变或适应新条件",
+      "mnemonic": "把 malleable 与“可塑的”绑定成一幅画面；等价词 plastic 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "discounted",
+      "zh": "低估…的重要性；忽视；不予考虑",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "slighted"
+      ],
+      "pair_note": "都被学者们给予过低评价、未给予应有重视",
+      "mnemonic": "把 discounted 与“低估…的重要性”绑定成一幅画面；等价词 slighted 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "overstated",
+      "zh": "夸大；言过其实；把…说得过于严重",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "exaggerated"
+      ],
+      "pair_note": "都表示把事情说得比实际情况更严重或更重要，即过度陈述",
+      "mnemonic": "把 overstated 与“夸大”绑定成一幅画面；等价词 exaggerated 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "dearth",
+      "zh": "短缺；缺乏；不足",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "paucity"
+      ],
+      "pair_note": "都表示数量上的缺乏或不足",
+      "mnemonic": "把 dearth 与“短缺”绑定成一幅画面；等价词 paucity 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "engaging",
+      "zh": "吸引人的；迷人的；有趣的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "winning"
+      ],
+      "pair_note": "都表示有吸引力、迷人的特质",
+      "mnemonic": "把 engaging 与“吸引人的”绑定成一幅画面；等价词 winning 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "unremunerative",
+      "zh": "无利可图的；不赚钱的；无法带来足够经济回报的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "unprofitable"
+      ],
+      "pair_note": "都指在经济回报或收益上不划算、不值得做",
+      "mnemonic": "把 unremunerative 与“无利可图的”绑定成一幅画面；等价词 unprofitable 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "staid",
+      "zh": "因循守旧的；严肃古板的；缺乏活力的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "unadventurous"
+      ],
+      "pair_note": "都描述一种因循守旧、缺乏创新或活力的保守状态",
+      "mnemonic": "把 staid 与“因循守旧的”绑定成一幅画面；等价词 unadventurous 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "sullying",
+      "zh": "玷污；弄脏",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "tainting"
+      ],
+      "pair_note": "都表示玷污或败坏，尤指名声或纯洁性",
+      "mnemonic": "把 sullying 与“玷污”绑定成一幅画面；等价词 tainting 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "flexibility",
+      "zh": "灵活性；柔韧性；适应能力",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "suppleness"
+      ],
+      "pair_note": "都表示物体能够弯曲、适应而不易断裂，适合描述工具进入身体的",
+      "mnemonic": "把 flexibility 与“灵活性”绑定成一幅画面；等价词 suppleness 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "elisions",
+      "zh": "省略；删节（尤指为流畅或简洁而故意从文本、演讲中删去的内容）",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "omissions"
+      ],
+      "pair_note": "都表示‘被省略、未被包含的内容’",
+      "mnemonic": "把 elisions 与“省略”绑定成一幅画面；等价词 omissions 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "paralleled",
+      "zh": "相似的，对应的；与…同时发生",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "resembled"
+      ],
+      "pair_note": "都表示‘与…相似’或‘具有相似性’这一核心含义",
+      "mnemonic": "把 paralleled 与“相似的，对应的”绑定成一幅画面；等价词 resembled 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "misleading",
+      "zh": "误导性的；使人误解的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "illusory"
+      ],
+      "pair_note": "都表示不真实或具有误导性，给人以虚假或错误的印象",
+      "mnemonic": "把 misleading 与“误导性的”绑定成一幅画面；等价词 illusory 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "elusive",
+      "zh": "难以捉摸的；逃避的；难以理解的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "unattainable"
+      ],
+      "pair_note": "都表示难以获得、实现或捉摸的状态",
+      "mnemonic": "把 elusive 与“难以捉摸的”绑定成一幅画面；等价词 unattainable 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "atypical",
+      "zh": "非典型的；不寻常的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "exceptional"
+      ],
+      "pair_note": "都表示偏离常规或标准，具有不寻常或非凡的特性",
+      "mnemonic": "把 atypical 与“非典型的”绑定成一幅画面；等价词 exceptional 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "proscribing",
+      "zh": "明令禁止；正式谴责",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "enjoining"
+      ],
+      "pair_note": "都表示禁止或不允许的行为",
+      "mnemonic": "把 proscribing 与“明令禁止”绑定成一幅画面；等价词 enjoining 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "contemptuous",
+      "zh": "轻蔑的、鄙视的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "supercilious"
+      ],
+      "pair_note": "都表示一种居高临下、看不起人的轻蔑态度",
+      "mnemonic": "把 contemptuous 与“轻蔑的、鄙视的”绑定成一幅画面；等价词 supercilious 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "uniform",
+      "zh": "均匀的；一致的；统一的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "homogeneous"
+      ],
+      "pair_note": "都表示均匀、一致、没有差异的状态",
+      "mnemonic": "把 uniform 与“均匀的”绑定成一幅画面；等价词 homogeneous 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "scant",
+      "zh": "缺乏的；不足的；少量的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "little"
+      ],
+      "pair_note": "都表示数量很少或不足",
+      "mnemonic": "把 scant 与“缺乏的”绑定成一幅画面；等价词 little 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "tendentious",
+      "zh": "有倾向性的；带偏见的（尤指写作或论点旨在支持某一特定观点）",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "partisan"
+      ],
+      "pair_note": "都表示并非中立、带有强烈的偏见或倾向性，服务于特定立场",
+      "mnemonic": "把 tendentious 与“有倾向性的”绑定成一幅画面；等价词 partisan 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "propagate",
+      "zh": "传播；扩散；繁殖",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "spread"
+      ],
+      "pair_note": "都表示传播或扩散，尤其指技术、信息等的广泛传布",
+      "mnemonic": "把 propagate 与“传播”绑定成一幅画面；等价词 spread 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "ubiquitous",
+      "zh": "普遍存在的；无所不在的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "prevalent"
+      ],
+      "pair_note": "表示某物非常普遍或广泛存在",
+      "mnemonic": "把 ubiquitous 与“普遍存在的”绑定成一幅画面；等价词 prevalent 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "robust",
+      "zh": "强健的；茁壮的；强劲的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "healthy"
+      ],
+      "pair_note": "都形容经济状态良好、强健，不易受外部冲击",
+      "mnemonic": "把 robust 与“强健的”绑定成一幅画面；等价词 healthy 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "buoyed",
+      "zh": "被支持的；受鼓舞的；浮起的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "sustained"
+      ],
+      "pair_note": "都表示被某种力量支持或维持，使能度过困难或持续前进",
+      "mnemonic": "把 buoyed 与“被支持的”绑定成一幅画面；等价词 sustained 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "eschew",
+      "zh": "避免；避开；戒除",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "avoid"
+      ],
+      "pair_note": "都表示有意避开或避免某事",
+      "mnemonic": "把 eschew 与“避免”绑定成一幅画面；等价词 avoid 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "entrenched",
+      "zh": "根深蒂固的；牢固确立的；深陷于壕沟中的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "obdurate"
+      ],
+      "pair_note": "形容立场坚定、毫不退让，是达成妥协的障碍",
+      "mnemonic": "把 entrenched 与“根深蒂固的”绑定成一幅画面；等价词 obdurate 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "acrimony",
+      "zh": "尖酸刻薄；恶言相向",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "rancor"
+      ],
+      "pair_note": "都表示强烈的敌意或怨恨，尤指在言辞或态度中体现",
+      "mnemonic": "把 acrimony 与“尖酸刻薄”绑定成一幅画面；等价词 rancor 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "enigmatic",
+      "zh": "神秘的；费解的；难以理解的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "inscrutable"
+      ],
+      "pair_note": "都表示难以理解或解释，描述某事神秘或不可知",
+      "mnemonic": "把 enigmatic 与“神秘的”绑定成一幅画面；等价词 inscrutable 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "defy",
+      "zh": "违抗；公然反抗；藐视",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "flout"
+      ],
+      "pair_note": "都表示公然反抗或蔑视规则、权威",
+      "mnemonic": "把 defy 与“违抗”绑定成一幅画面；等价词 flout 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "restraint",
+      "zh": "克制；约束",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "self-control"
+      ],
+      "pair_note": "都表示克制或控制自己的行为或情绪",
+      "mnemonic": "把 restraint 与“克制”绑定成一幅画面；等价词 self-control 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "stationary",
+      "zh": "静止的；固定的；不动的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "static"
+      ],
+      "pair_note": "都表示不移动、不变化的状态",
+      "mnemonic": "把 stationary 与“静止的”绑定成一幅画面；等价词 static 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "polemic",
+      "zh": "激烈的辩论；辩论文章，尤指具煽动性或好辩性质的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "disputation"
+      ],
+      "pair_note": "强调通过激烈辩论来争论",
+      "mnemonic": "把 polemic 与“激烈的辩论”绑定成一幅画面；等价词 disputation 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "voluble",
+      "zh": "健谈的；口若悬河的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "expansive"
+      ],
+      "pair_note": "都表示人健谈、话多",
+      "mnemonic": "把 voluble 与“健谈的”绑定成一幅画面；等价词 expansive 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "understandable",
+      "zh": "可以理解的；合情理的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "unsurprising"
+      ],
+      "pair_note": "都表示某事是合理的或在意料之中",
+      "mnemonic": "把 understandable 与“可以理解的”绑定成一幅画面；等价词 unsurprising 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "permeate",
+      "zh": "渗透、弥漫于、遍及",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "inform"
+      ],
+      "pair_note": "都表示一种深刻、持续且塑造性的影响",
+      "mnemonic": "把 permeate 与“渗透、弥漫于、遍及”绑定成一幅画面；等价词 inform 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "authoritative",
+      "zh": "权威的；有权威的；命令式的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "definitive"
+      ],
+      "pair_note": "都表示具有最终权威或决定性的",
+      "mnemonic": "把 authoritative 与“权威的”绑定成一幅画面；等价词 definitive 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "characteristic",
+      "zh": "典型的；有特色的；特有的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "emblematic"
+      ],
+      "pair_note": "都表示具有代表性或典型特征的",
+      "mnemonic": "把 characteristic 与“典型的”绑定成一幅画面；等价词 emblematic 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "consensus",
+      "zh": "共识；一致同意；共同意见",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "accord"
+      ],
+      "pair_note": "都指意见、看法或判断上的一致状态，而非分歧或混乱",
+      "mnemonic": "把 consensus 与“共识”绑定成一幅画面；等价词 accord 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "unpredictable",
+      "zh": "无法预测的；多变的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "fickleness"
+      ],
+      "pair_note": "都描述了事物（如天气）的本质难以捉摸、无法被准确预见的特",
+      "mnemonic": "把 unpredictable 与“无法预测的”绑定成一幅画面；等价词 fickleness 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "early",
+      "zh": "早期的；早熟的；提早的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "precocious"
+      ],
+      "pair_note": "都形容在年龄较小时就展现出非凡才能或成熟特质",
+      "mnemonic": "把 early 与“早期的”绑定成一幅画面；等价词 precocious 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "contrived",
+      "zh": "刻意做作的；人为制造的；不自然的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "artificial"
+      ],
+      "pair_note": "都描述刻意做作的，非自然或自发产生的状态",
+      "mnemonic": "把 contrived 与“刻意做作的”绑定成一幅画面；等价词 artificial 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "bromides",
+      "zh": "陈词滥调；老生常谈",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "platitudes"
+      ],
+      "pair_note": "都指缺乏新意、平淡无奇的陈腐言论",
+      "mnemonic": "把 bromides 与“陈词滥调”绑定成一幅画面；等价词 platitudes 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "speculative",
+      "zh": "推测的；猜测的；投机的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "unsubstantiated"
+      ],
+      "pair_note": "都表示缺乏确凿证据，基于猜测或未证实的",
+      "mnemonic": "把 speculative 与“推测的”绑定成一幅画面；等价词 unsubstantiated 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "recalcitrant",
+      "zh": "顽抗的；难处理的；桀骜不驯的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "intractable"
+      ],
+      "pair_note": "形容事物或问题极其难以对付、难以管理或解决",
+      "mnemonic": "把 recalcitrant 与“顽抗的”绑定成一幅画面；等价词 intractable 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "deliberate",
+      "zh": "深思熟虑的；故意的；蓄意的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "calculated"
+      ],
+      "pair_note": "都表示经过深思熟虑或计划，而非自动的",
+      "mnemonic": "把 deliberate 与“深思熟虑的”绑定成一幅画面；等价词 calculated 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "rapprochement",
+      "zh": "和解；恢复友好关系",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "reconciliation"
+      ],
+      "pair_note": "都指敌对或疏远双方和解、恢复友好关系",
+      "mnemonic": "把 rapprochement 与“和解”绑定成一幅画面；等价词 reconciliation 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "plastic",
+      "zh": "可塑的；易受影响的；人造的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "malleable"
+      ],
+      "pair_note": "都表示可塑的、易改变的，强调灵活性或易受影响",
+      "mnemonic": "把 plastic 与“可塑的”绑定成一幅画面；等价词 malleable 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "lamentable",
+      "zh": "可悲的；令人惋惜的；不幸的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "deplorable"
+      ],
+      "pair_note": "都表示某事令人遗憾、可悲或糟糕",
+      "mnemonic": "把 lamentable 与“可悲的”绑定成一幅画面；等价词 deplorable 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "scandalous",
+      "zh": "丑闻的；可耻的；令人愤慨的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "unseemly"
+      ],
+      "pair_note": "都会引起道德上的反感或被视为不当行为",
+      "mnemonic": "把 scandalous 与“丑闻的”绑定成一幅画面；等价词 unseemly 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "abjection",
+      "zh": "悲惨；卑劣；落魄",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "wretchedness"
+      ],
+      "pair_note": "都表示极端的悲惨或卑贱状态",
+      "mnemonic": "把 abjection 与“悲惨”绑定成一幅画面；等价词 wretchedness 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "fusty",
+      "zh": "发霉的；陈腐的；过时的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "archaic"
+      ],
+      "pair_note": "都表示过时的、陈旧的，强调事物不再现代或新鲜",
+      "mnemonic": "把 fusty 与“发霉的”绑定成一幅画面；等价词 archaic 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "charitable",
+      "zh": "慈善的；宽厚的；宽容的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "forbearing"
+      ],
+      "pair_note": "都表示对他人缺点或直率行为的宽容、不苛刻",
+      "mnemonic": "把 charitable 与“慈善的”绑定成一幅画面；等价词 forbearing 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "exculpated",
+      "zh": "宣告无罪；开脱罪责",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "absolved"
+      ],
+      "pair_note": "都表示免除罪责或宣告无罪",
+      "mnemonic": "把 exculpated 与“宣告无罪”绑定成一幅画面；等价词 absolved 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "nebulous",
+      "zh": "模糊的；不清晰的；朦胧的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "amorphous"
+      ],
+      "pair_note": "都表示模糊、不明确、难以捉摸的状态",
+      "mnemonic": "把 nebulous 与“模糊的”绑定成一幅画面；等价词 amorphous 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "a gauge of",
+      "zh": "测量...的仪器；...的指标；衡量标准",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "an indicator of"
+      ],
+      "pair_note": "都表示用来测量、显示或反映某事物的指标或迹象",
+      "mnemonic": "把 a gauge of 与“测量...的仪器”绑定成一幅画面；等价词 an indicator of 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "resented",
+      "zh": "愤恨；怨恨",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "begrudged"
+      ],
+      "pair_note": "都表示因不满或嫉妒而产生的怨恨情绪，尤其当他人得到好处或认可",
+      "mnemonic": "把 resented 与“愤恨”绑定成一幅画面；等价词 begrudged 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "cruelty",
+      "zh": "残忍；残酷行为",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "barbarity"
+      ],
+      "pair_note": "都指残忍或野蛮的行为，常用于描述负面、不人道的特性",
+      "mnemonic": "把 cruelty 与“残忍”绑定成一幅画面；等价词 barbarity 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "tyros",
+      "zh": "新手；生手；初学者",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "novices"
+      ],
+      "pair_note": "都指缺乏经验或技能的新手，与‘天才’形成极端对比",
+      "mnemonic": "把 tyros 与“新手”绑定成一幅画面；等价词 novices 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "inconsistent",
+      "zh": "不一致的；反复无常的；不稳定的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "erratic"
+      ],
+      "pair_note": "都表示行为或观点缺乏一致性，反复无常",
+      "mnemonic": "把 inconsistent 与“不一致的”绑定成一幅画面；等价词 erratic 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "inhibited",
+      "zh": "被抑制的；受限制的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "constrained"
+      ],
+      "pair_note": "都表示被阻止或限制的状态",
+      "mnemonic": "把 inhibited 与“被抑制的”绑定成一幅画面；等价词 constrained 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "inapposite",
+      "zh": "不恰当的；不合适的；不相干的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "misguided"
+      ],
+      "pair_note": "都表示不合适、错误或不恰当",
+      "mnemonic": "把 inapposite 与“不恰当的”绑定成一幅画面；等价词 misguided 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "enthralled",
+      "zh": "着迷的；被吸引的；全神贯注的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "captivated"
+      ],
+      "pair_note": "都表示被深深吸引或迷住，强调强烈的兴趣或沉浸感",
+      "mnemonic": "把 enthralled 与“着迷的”绑定成一幅画面；等价词 captivated 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "interested in",
+      "zh": "对...感兴趣的；对...关心的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "drawn to"
+      ],
+      "pair_note": "都会被某人或某物所吸引，产生关注或好感",
+      "mnemonic": "把 interested in 与“对...感兴趣的”绑定成一幅画面；等价词 drawn to 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "peripheral",
+      "zh": "边缘的；次要的；外围的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "subsidiary"
+      ],
+      "pair_note": "都表示次要的、非核心的",
+      "mnemonic": "把 peripheral 与“边缘的”绑定成一幅画面；等价词 subsidiary 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "refractory",
+      "zh": "难控制的；顽固的；不服从的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "recalcitrant"
+      ],
+      "pair_note": "都表示顽固或不服从，难以管理",
+      "mnemonic": "把 refractory 与“难控制的”绑定成一幅画面；等价词 recalcitrant 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "constant",
+      "zh": "持续的；不变的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "perennial"
+      ],
+      "pair_note": "都表示持续不断、常年存在的",
+      "mnemonic": "把 constant 与“持续的”绑定成一幅画面；等价词 perennial 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "hauteur",
+      "zh": "傲慢；高傲",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "superciliousness"
+      ],
+      "pair_note": "都表示一种傲慢、轻蔑的态度",
+      "mnemonic": "把 hauteur 与“傲慢”绑定成一幅画面；等价词 superciliousness 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "commonplace",
+      "zh": "常见的；普通的；平凡的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "pervasive"
+      ],
+      "pair_note": "都表示广泛存在或常见的事物",
+      "mnemonic": "把 commonplace 与“常见的”绑定成一幅画面；等价词 pervasive 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "neglected",
+      "zh": "忽视；忽略；疏于照顾",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "dismissed"
+      ],
+      "pair_note": "都表示忽视或不重视",
+      "mnemonic": "把 neglected 与“忽视”绑定成一幅画面；等价词 dismissed 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "wanting",
+      "zh": "缺乏的；不够格的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "lacking"
+      ],
+      "pair_note": "均表示‘缺少、不足’的状态",
+      "mnemonic": "把 wanting 与“缺乏的”绑定成一幅画面；等价词 lacking 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "truculence",
+      "zh": "好斗；挑衅性；凶猛",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "belligerence"
+      ],
+      "pair_note": "都表现出强烈的对抗性、攻击性或好斗性",
+      "mnemonic": "把 truculence 与“好斗”绑定成一幅画面；等价词 belligerence 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "parochial",
+      "zh": "狭隘的；地方观念的；局限的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "narrow"
+      ],
+      "pair_note": "都表示范围狭窄、局限或视野有限",
+      "mnemonic": "把 parochial 与“狭隘的”绑定成一幅画面；等价词 narrow 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "fertile",
+      "zh": "肥沃的；多产的；能生育的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "fecund"
+      ],
+      "pair_note": "都表示多产或繁殖能力强",
+      "mnemonic": "把 fertile 与“肥沃的”绑定成一幅画面；等价词 fecund 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "elegy",
+      "zh": "挽歌；哀诗；悼词",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "requiem"
+      ],
+      "pair_note": "都表示哀悼逝者或终结的作品，常用于象征结束、死亡或消逝",
+      "mnemonic": "把 elegy 与“挽歌”绑定成一幅画面；等价词 requiem 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "apogee",
+      "zh": "最高点；巅峰；远地点",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "acme"
+      ],
+      "pair_note": "都表示最高点或完美状态，强调事物的顶峰或极致",
+      "mnemonic": "把 apogee 与“最高点”绑定成一幅画面；等价词 acme 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "modern",
+      "zh": "现代的；新式的；先进的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "advanced"
+      ],
+      "pair_note": "都表示处于前沿、现代化或高度发展的状态",
+      "mnemonic": "把 modern 与“现代的”绑定成一幅画面；等价词 advanced 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "canny",
+      "zh": "精明的；机警的；谨慎的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "shrewd"
+      ],
+      "pair_note": "都表示精明、有判断力，尤其在商业或实际决策中",
+      "mnemonic": "把 canny 与“精明的”绑定成一幅画面；等价词 shrewd 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "modified",
+      "zh": "修改；更改；调整（通常指进行部分或非根本性的改变）",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "adapted"
+      ],
+      "pair_note": "都对原始内容进行了改动，而非原封不动地保存或传播",
+      "mnemonic": "把 modified 与“修改”绑定成一幅画面；等价词 adapted 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "scorned",
+      "zh": "轻蔑；鄙视",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "disparaged"
+      ],
+      "pair_note": "都表示轻视或贬低的态度",
+      "mnemonic": "把 scorned 与“轻蔑”绑定成一幅画面；等价词 disparaged 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "multifarious",
+      "zh": "多样的；各种各样的；由许多不同部分组成的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "complex"
+      ],
+      "pair_note": "都表示由许多部分组成，从而显得复杂或多样",
+      "mnemonic": "把 multifarious 与“多样的”绑定成一幅画面；等价词 complex 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "striking",
+      "zh": "引人注目的；显著的；惊人的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "pronounced"
+      ],
+      "pair_note": "都表示明显、显著或突出",
+      "mnemonic": "把 striking 与“引人注目的”绑定成一幅画面；等价词 pronounced 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "abstruse",
+      "zh": "深奥的；难懂的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "recondite"
+      ],
+      "pair_note": "都表示深奥难懂，难以理解",
+      "mnemonic": "把 abstruse 与“深奥的”绑定成一幅画面；等价词 recondite 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "exigent",
+      "zh": "紧急的；迫切的；要求立即行动的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "imperative"
+      ],
+      "pair_note": "都表示情况紧急、必须立即处理，强调由外部因素强加的紧迫性",
+      "mnemonic": "把 exigent 与“紧急的”绑定成一幅画面；等价词 imperative 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "inappropriate",
+      "zh": "不恰当的；不合适的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "unfeasible"
+      ],
+      "pair_note": "都表示不合适或不可行的情况",
+      "mnemonic": "把 inappropriate 与“不恰当的”绑定成一幅画面；等价词 unfeasible 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "salubrious",
+      "zh": "有益健康的；促进健康的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "optimal"
+      ],
+      "pair_note": "都表示对健康或状况最有益的状态",
+      "mnemonic": "把 salubrious 与“有益健康的”绑定成一幅画面；等价词 optimal 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "convoluted",
+      "zh": "曲折复杂的；迂回缠绕的；盘绕的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "intricate"
+      ],
+      "pair_note": "都形容事物曲折、复杂、多分支，适合描述蜿蜒河流或复杂结构",
+      "mnemonic": "把 convoluted 与“曲折复杂的”绑定成一幅画面；等价词 intricate 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "proscribe",
+      "zh": "禁止；谴责",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "disallow"
+      ],
+      "pair_note": "都表示正式禁止或不允某事情",
+      "mnemonic": "把 proscribe 与“禁止”绑定成一幅画面；等价词 disallow 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "precipitate",
+      "zh": "仓促的；鲁莽的；突然发生的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "hasty"
+      ],
+      "pair_note": "都会形容行动仓促、鲁莽，没有经过充分思考",
+      "mnemonic": "把 precipitate 与“仓促的”绑定成一幅画面；等价词 hasty 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "onerous",
+      "zh": "繁重的；艰巨的；麻烦的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "arduous"
+      ],
+      "pair_note": "都表示任务或情况非常困难、需要大量努力",
+      "mnemonic": "把 onerous 与“繁重的”绑定成一幅画面；等价词 arduous 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "Controversy",
+      "zh": "争议；争论",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "Disputation"
+      ],
+      "pair_note": "都表示公开的、激烈的争论或分歧",
+      "mnemonic": "把 Controversy 与“争议”绑定成一幅画面；等价词 Disputation 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "functional",
+      "zh": "可运作的；功能性的；起作用的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "serviceable"
+      ],
+      "pair_note": "表示能正常运作、有基本功能的",
+      "mnemonic": "把 functional 与“可运作的”绑定成一幅画面；等价词 serviceable 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "eliminating",
+      "zh": "消除；排除；淘汰",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "discontinuing"
+      ],
+      "pair_note": "都表示停止或结束某事，在此指停止创新",
+      "mnemonic": "把 eliminating 与“消除”绑定成一幅画面；等价词 discontinuing 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "salient",
+      "zh": "显著的，突出的；引人注目的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "prominent"
+      ],
+      "pair_note": "都形容某事物非常突出、显眼或重要",
+      "mnemonic": "把 salient 与“显著的，突出的”绑定成一幅画面；等价词 prominent 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "precludes",
+      "zh": "阻止；排除；使不可能",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "frustrates"
+      ],
+      "pair_note": "都表示阻碍或阻止某事发生，使无法实现",
+      "mnemonic": "把 precludes 与“阻止”绑定成一幅画面；等价词 frustrates 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "superciliousness",
+      "zh": "傲慢的；轻蔑的态度",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "condescension"
+      ],
+      "pair_note": "都表示一种居高临下、看不起别人的傲慢态度",
+      "mnemonic": "把 superciliousness 与“傲慢的”绑定成一幅画面；等价词 condescension 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "refutation",
+      "zh": "驳斥；反驳；通过论证证明某观点错误",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "rebuttal"
+      ],
+      "pair_note": "都指对他人主张进行有力否定或辩驳",
+      "mnemonic": "把 refutation 与“驳斥”绑定成一幅画面；等价词 rebuttal 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "contravening",
+      "zh": "违反；反驳；违背",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "gainsaying"
+      ],
+      "pair_note": "都会表示反对、反驳或否定",
+      "mnemonic": "把 contravening 与“违反”绑定成一幅画面；等价词 gainsaying 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "telescoping",
+      "zh": "压缩；缩短；套叠",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "compression"
+      ],
+      "pair_note": "都表示将大量内容压缩或缩短到更小空间，导致简化或可能失真",
+      "mnemonic": "把 telescoping 与“压缩”绑定成一幅画面；等价词 compression 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "lucid",
+      "zh": "清晰的；易懂的；明了的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "intelligible"
+      ],
+      "pair_note": "都表示清晰易懂，强调表达或内容容易理解",
+      "mnemonic": "把 lucid 与“清晰的”绑定成一幅画面；等价词 intelligible 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "forestall",
+      "zh": "预先阻止；抢先一步防止",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "prevent"
+      ],
+      "pair_note": "都有‘阻止某事发生’的核心含义",
+      "mnemonic": "把 forestall 与“预先阻止”绑定成一幅画面；等价词 prevent 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "frugal",
+      "zh": "节俭的；节约的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "stinting"
+      ],
+      "pair_note": "都表示在给予或使用资源时非常节省，近乎吝啬",
+      "mnemonic": "把 frugal 与“节俭的”绑定成一幅画面；等价词 stinting 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "analogous",
+      "zh": "类似的；相似的；比喻上可类比的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "comparable"
+      ],
+      "pair_note": "都表示事物之间有相似性或可比较性，在特定语境下可互换",
+      "mnemonic": "把 analogous 与“类似的”绑定成一幅画面；等价词 comparable 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "buttressed",
+      "zh": "支撑；加固；支持",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "bolstered"
+      ],
+      "pair_note": "都表示支持或加强某个观点或论证",
+      "mnemonic": "把 buttressed 与“支撑”绑定成一幅画面；等价词 bolstered 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "ruled out",
+      "zh": "排除；使不可能",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "precluded"
+      ],
+      "pair_note": "都表示排除可能性，使某事不发生",
+      "mnemonic": "把 ruled out 与“排除”绑定成一幅画面；等价词 precluded 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "insular",
+      "zh": "岛国的；思想狭隘的，眼光短浅的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "narrow-minded"
+      ],
+      "pair_note": "都形容思想或视野上的局限性，对自身之外的观点不感兴趣或持",
+      "mnemonic": "把 insular 与“岛国的”绑定成一幅画面；等价词 narrow-minded 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "reinforcement",
+      "zh": "加强；强化；巩固",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "bolstering"
+      ],
+      "pair_note": "都表示通过增加支持或力量来加强某事物",
+      "mnemonic": "把 reinforcement 与“加强”绑定成一幅画面；等价词 bolstering 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "undermine",
+      "zh": "暗中破坏，逐渐削弱（基础、论据等）；使信心/效力降低",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "contradict"
+      ],
+      "pair_note": "都表示提供反面证据来否定一个观点或说法",
+      "mnemonic": "把 undermine 与“暗中破坏，逐渐削弱（基础、论据等）”绑定成一幅画面；等价词 contradict 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "finer",
+      "zh": "更精细的；更细致的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "more sensitive"
+      ],
+      "pair_note": "都表示测量或感知的精确度更高，能检测到更细微的差异",
+      "mnemonic": "把 finer 与“更精细的”绑定成一幅画面；等价词 more sensitive 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "unsung",
+      "zh": "未被赞扬的；默默无闻的（尤指本应得到认可或赞誉）",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "disregarded"
+      ],
+      "pair_note": "都表达未被充分认识、重视或赞扬的状态",
+      "mnemonic": "把 unsung 与“未被赞扬的”绑定成一幅画面；等价词 disregarded 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "annalist",
+      "zh": "编年史作者；年鉴编纂者",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "chronicler"
+      ],
+      "pair_note": "都指按时间顺序记录历史事件的作者",
+      "mnemonic": "把 annalist 与“编年史作者”绑定成一幅画面；等价词 chronicler 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "fragility",
+      "zh": "易碎性；脆弱性；虚弱",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "impermanence"
+      ],
+      "pair_note": "都表示容易损坏或不能持久，强调需要保护以延长存在时间",
+      "mnemonic": "把 fragility 与“易碎性”绑定成一幅画面；等价词 impermanence 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "disposition",
+      "zh": "倾向；性情；意向",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "proclivity"
+      ],
+      "pair_note": "都表示一种内在的、自然的倾向或偏好",
+      "mnemonic": "把 disposition 与“倾向”绑定成一幅画面；等价词 proclivity 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "fortuitous",
+      "zh": "偶然的；幸运的；意外的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "accidental"
+      ],
+      "pair_note": "都表示偶然发生的、非计划的",
+      "mnemonic": "把 fortuitous 与“偶然的”绑定成一幅画面；等价词 accidental 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "equanimity",
+      "zh": "内心平静；镇定自若，尤指在压力或逆境中保持情绪稳定",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "sangfroid"
+      ],
+      "pair_note": "在困境中保持冷静与内心平衡",
+      "mnemonic": "把 equanimity 与“内心平静”绑定成一幅画面；等价词 sangfroid 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "exploitable",
+      "zh": "可开发的；可利用的；有利用价值的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "useful"
+      ],
+      "pair_note": "都表示某物具有实用价值或可以被有效利用",
+      "mnemonic": "把 exploitable 与“可开发的”绑定成一幅画面；等价词 useful 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "uncommon",
+      "zh": "不常见的；稀少的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "rare"
+      ],
+      "pair_note": "都形容某物存在或出现的数量极少、不常见",
+      "mnemonic": "把 uncommon 与“不常见的”绑定成一幅画面；等价词 rare 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "piecemeal",
+      "zh": "零碎的；逐步进行的；缺乏整体性的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "fragmentary"
+      ],
+      "pair_note": "都表示内容零散、不成体系，缺乏完整性",
+      "mnemonic": "把 piecemeal 与“零碎的”绑定成一幅画面；等价词 fragmentary 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "orthodox",
+      "zh": "正统的；传统的；规范的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "conformist"
+      ],
+      "pair_note": "都表示遵守传统或规范，循规蹈矩",
+      "mnemonic": "把 orthodox 与“正统的”绑定成一幅画面；等价词 conformist 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "source",
+      "zh": "来源；起源",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "origin"
+      ],
+      "pair_note": "都表示事物开始或产生的地方",
+      "mnemonic": "把 source 与“来源”绑定成一幅画面；等价词 origin 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "enmity",
+      "zh": "敌意；憎恨；敌对",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "antipathy"
+      ],
+      "pair_note": "都表示强烈的敌意或厌恶",
+      "mnemonic": "把 enmity 与“敌意”绑定成一幅画面；等价词 antipathy 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "slippery",
+      "zh": "滑的；难以捉摸的；狡猾的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "elusive"
+      ],
+      "pair_note": "都表示难以捉摸或难以理解",
+      "mnemonic": "把 slippery 与“滑的”绑定成一幅画面；等价词 elusive 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "dynamic",
+      "zh": "动态的；不断变化的；有活力的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "ongoing"
+      ],
+      "pair_note": "都表示持续活跃、不断发生的状态",
+      "mnemonic": "把 dynamic 与“动态的”绑定成一幅画面；等价词 ongoing 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "drives",
+      "zh": "驱动的；推动的；驱使的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "intrigues"
+      ],
+      "pair_note": "都能表示激发或推动某人去做某事",
+      "mnemonic": "把 drives 与“驱动的”绑定成一幅画面；等价词 intrigues 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "credulous",
+      "zh": "轻信的；易受骗的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "gullible"
+      ],
+      "pair_note": "都表示轻易相信他人，缺乏怀疑精神",
+      "mnemonic": "把 credulous 与“轻信的”绑定成一幅画面；等价词 gullible 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "top-down",
+      "zh": "自上而下的；从整体到细节的；强制性的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "peremptory"
+      ],
+      "pair_note": "都表示一种强制性的、不容置疑的方法",
+      "mnemonic": "把 top-down 与“自上而下的”绑定成一幅画面；等价词 peremptory 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "abundance",
+      "zh": "丰富；大量；充裕",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "ubiquity"
+      ],
+      "pair_note": "都表示数量多或分布广，使得某物容易被遇到",
+      "mnemonic": "把 abundance 与“丰富”绑定成一幅画面；等价词 ubiquity 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "abstruseness",
+      "zh": "深奥难懂；晦涩",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "opacity"
+      ],
+      "pair_note": "都表示难以理解或晦涩的性质",
+      "mnemonic": "把 abstruseness 与“深奥难懂”绑定成一幅画面；等价词 opacity 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "celebrity",
+      "zh": "名人；名望；声誉",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "prominence"
+      ],
+      "pair_note": "都表示高度的名声或公众关注",
+      "mnemonic": "把 celebrity 与“名人”绑定成一幅画面；等价词 prominence 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "pulverized",
+      "zh": "粉碎的；彻底摧毁的；严厉批评的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "eviscerated"
+      ],
+      "pair_note": "都表示彻底摧毁或严厉批评，使对方无力反驳",
+      "mnemonic": "把 pulverized 与“粉碎的”绑定成一幅画面；等价词 eviscerated 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "arbitrary",
+      "zh": "随意的；武断的；任意的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "random"
+      ],
+      "pair_note": "都表示缺乏特定理由或计划，强调随意性或偶然性",
+      "mnemonic": "把 arbitrary 与“随意的”绑定成一幅画面；等价词 random 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "prophylactic",
+      "zh": "预防性的；防止的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "inhibitory"
+      ],
+      "pair_note": "都表示防止或抑制某事发生",
+      "mnemonic": "把 prophylactic 与“预防性的”绑定成一幅画面；等价词 inhibitory 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "subversion",
+      "zh": "颠覆；破坏",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "violation"
+      ],
+      "pair_note": "都表示对既定秩序或规则的破坏或违背",
+      "mnemonic": "把 subversion 与“颠覆”绑定成一幅画面；等价词 violation 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "unfounded",
+      "zh": "无根据的；没有事实基础的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "baseless"
+      ],
+      "pair_note": "都表示缺乏根据或基础，不属实",
+      "mnemonic": "把 unfounded 与“无根据的”绑定成一幅画面；等价词 baseless 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "complicated",
+      "zh": "复杂的；难懂的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "knotty"
+      ],
+      "pair_note": "都表示事物复杂、难以理解或处理",
+      "mnemonic": "把 complicated 与“复杂的”绑定成一幅画面；等价词 knotty 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "rapacious",
+      "zh": "贪婪的；掠夺成性的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "avaricious"
+      ],
+      "pair_note": "都表示极度贪婪，尤其是对金钱或财富的贪求",
+      "mnemonic": "把 rapacious 与“贪婪的”绑定成一幅画面；等价词 avaricious 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "order",
+      "zh": "秩序；顺序；条理",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "stability"
+      ],
+      "pair_note": "在语境中都指代一种避免混乱、保持平衡的有序状态",
+      "mnemonic": "把 order 与“秩序”绑定成一幅画面；等价词 stability 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "riddle",
+      "zh": "谜语；难题；令人费解的事物",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "conundrum"
+      ],
+      "pair_note": "都指令人困惑的难题或谜题",
+      "mnemonic": "把 riddle 与“谜语”绑定成一幅画面；等价词 conundrum 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "anomaly",
+      "zh": "异常；反常事物",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "aberration"
+      ],
+      "pair_note": "都表示偏离正常或标准的情况",
+      "mnemonic": "把 anomaly 与“异常”绑定成一幅画面；等价词 aberration 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "dimming",
+      "zh": "使变暗；使暗淡",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "darkening"
+      ],
+      "pair_note": "都表示变得不那么亮或更黑暗",
+      "mnemonic": "把 dimming 与“使变暗”绑定成一幅画面；等价词 darkening 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "bedrock",
+      "zh": "基岩；基础；根本",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "foundations"
+      ],
+      "pair_note": "都表示基础或根本依据",
+      "mnemonic": "把 bedrock 与“基岩”绑定成一幅画面；等价词 foundations 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "shortcoming",
+      "zh": "缺点；不足之处",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "fault"
+      ],
+      "pair_note": "都指事物（如描述、论证、方法）中存在的不好的、不完美的方面或",
+      "mnemonic": "把 shortcoming 与“缺点”绑定成一幅画面；等价词 fault 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "unassuming",
+      "zh": "谦虚的；不张扬的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "modest"
+      ],
+      "pair_note": "都描述人不自负、态度谦逊",
+      "mnemonic": "把 unassuming 与“谦虚的”绑定成一幅画面；等价词 modest 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "quixotic",
+      "zh": "不切实际的；空想的；理想主义的（常带贬义）",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "idealistic"
+      ],
+      "pair_note": "都表示理想主义或不切实际，常指脱离现实的高尚信念",
+      "mnemonic": "把 quixotic 与“不切实际的”绑定成一幅画面；等价词 idealistic 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "predilection",
+      "zh": "偏好；特别的喜好；倾向",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "proclivity"
+      ],
+      "pair_note": "都指一种固有的、强烈的倾向或偏好",
+      "mnemonic": "把 predilection 与“偏好”绑定成一幅画面；等价词 proclivity 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "relished",
+      "zh": "享受；喜欢；从…中获得乐趣",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "delighted in"
+      ],
+      "pair_note": "都强调对某事物抱有强烈的享受和喜爱态度，而非仅仅被动接受",
+      "mnemonic": "把 relished 与“享受”绑定成一幅画面；等价词 delighted in 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "limiting",
+      "zh": "限制性的；造成局限的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "confining"
+      ],
+      "pair_note": "都表示限制或束缚，使人感到受约束",
+      "mnemonic": "把 limiting 与“限制性的”绑定成一幅画面；等价词 confining 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "paltry",
+      "zh": "微不足道的；无价值的；少量的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "meager"
+      ],
+      "pair_note": "都表示数量少、价值低或不足",
+      "mnemonic": "把 paltry 与“微不足道的”绑定成一幅画面；等价词 meager 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "exactitude",
+      "zh": "精确性；准确性",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "meticulousness"
+      ],
+      "pair_note": "都强调精确、细致和注重细节",
+      "mnemonic": "把 exactitude 与“精确性”绑定成一幅画面；等价词 meticulousness 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "evasive",
+      "zh": "逃避的；躲避的；推诿的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "elusive"
+      ],
+      "pair_note": "都表示难以捕捉或逃避的",
+      "mnemonic": "把 evasive 与“逃避的”绑定成一幅画面；等价词 elusive 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "belie",
+      "zh": "掩饰；掩盖；与...不符",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "mask"
+      ],
+      "pair_note": "都表示掩盖或隐藏真相",
+      "mnemonic": "把 belie 与“掩饰”绑定成一幅画面；等价词 mask 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "proliferate",
+      "zh": "激增；快速扩散",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "abound"
+      ],
+      "pair_note": "都表示大量存在或快速增长",
+      "mnemonic": "把 proliferate 与“激增”绑定成一幅画面；等价词 abound 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "strips away",
+      "zh": "剥离；除去",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "removes"
+      ],
+      "pair_note": "都表示除去或移除某物，尤指去除表面、外层或掩盖性的东西",
+      "mnemonic": "把 strips away 与“剥离”绑定成一幅画面；等价词 removes 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "palliate",
+      "zh": "减轻；缓和；掩饰",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "damp"
+      ],
+      "pair_note": "都会使某物减弱或缓和",
+      "mnemonic": "把 palliate 与“减轻”绑定成一幅画面；等价词 damp 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "audacious",
+      "zh": "大胆的，敢于冒险的；尤指在艺术、思想或行为上突破常规、无所顾忌的。",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "striking"
+      ],
+      "pair_note": "风格大胆出格，旨在/结果令人震惊、印象深刻",
+      "mnemonic": "把 audacious 与“大胆的，敢于冒险的”绑定成一幅画面；等价词 striking 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "meet",
+      "zh": "合适的，恰当的；符合要求的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "condign"
+      ],
+      "pair_note": "都表示适当的、应得的，特别用于描述惩罚或奖励的恰当性",
+      "mnemonic": "把 meet 与“合适的，恰当的”绑定成一幅画面；等价词 condign 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "foolish",
+      "zh": "愚蠢的；不明智的；傻的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "simple"
+      ],
+      "pair_note": "都表示缺乏智慧、判断力或世故，形容人天真或愚蠢",
+      "mnemonic": "把 foolish 与“愚蠢的”绑定成一幅画面；等价词 simple 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "cure-all",
+      "zh": "万灵药；能治百病的东西",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "panacea"
+      ],
+      "pair_note": "都指能解决所有问题的万能药或方法",
+      "mnemonic": "把 cure-all 与“万灵药”绑定成一幅画面；等价词 panacea 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "opportune",
+      "zh": "时机恰当的；合时宜的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "timely"
+      ],
+      "pair_note": "都强调时机恰当、正合时宜",
+      "mnemonic": "把 opportune 与“时机恰当的”绑定成一幅画面；等价词 timely 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "determines",
+      "zh": "决定；确定；支配",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "governs"
+      ],
+      "pair_note": "都表示控制或决定某事的发生或速度",
+      "mnemonic": "把 determines 与“决定”绑定成一幅画面；等价词 governs 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "civility",
+      "zh": "礼貌；谦恭；文明举止",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "comity"
+      ],
+      "pair_note": "都表示礼貌、尊重或友善的行为",
+      "mnemonic": "把 civility 与“礼貌”绑定成一幅画面；等价词 comity 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "hindered",
+      "zh": "被阻碍的；妨碍的；阻止的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "stymied"
+      ],
+      "pair_note": "都表示被阻止或妨碍，使无法顺利进行或取得进展",
+      "mnemonic": "把 hindered 与“被阻碍的”绑定成一幅画面；等价词 stymied 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "exiguous",
+      "zh": "稀少的；微薄的；不足的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "tenuous"
+      ],
+      "pair_note": "都表示微弱的、不明显的，使得事物难以察觉或识别",
+      "mnemonic": "把 exiguous 与“稀少的”绑定成一幅画面；等价词 tenuous 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "plausible",
+      "zh": "看似合理的；可能真实的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "conceivable"
+      ],
+      "pair_note": "都能表达‘可能发生’这一核心概念，且用于描述事件",
+      "mnemonic": "把 plausible 与“看似合理的”绑定成一幅画面；等价词 conceivable 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "totemic",
+      "zh": "图腾的；象征性的；作为象征的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "emblematic"
+      ],
+      "pair_note": "都表示作为象征或代表，体现某种抽象概念",
+      "mnemonic": "把 totemic 与“图腾的”绑定成一幅画面；等价词 emblematic 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "fosters",
+      "zh": "抚养；培养；促进（尤指非亲生或临时照顾）",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "adopts"
+      ],
+      "pair_note": "在 GRE SE 语境下，都表示照顾或抚养非亲生的个体，强调跨物种的养",
+      "mnemonic": "把 fosters 与“抚养”绑定成一幅画面；等价词 adopts 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "immaterial",
+      "zh": "不重要的；无关紧要的；非物质的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "inconsequential"
+      ],
+      "pair_note": "都表示不重要或没有实质影响，在语境中可互换",
+      "mnemonic": "把 immaterial 与“不重要的”绑定成一幅画面；等价词 inconsequential 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "equivocal",
+      "zh": "模棱两可的；含糊的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "ambiguous"
+      ],
+      "pair_note": "都表示意思不明确、含糊不清，在语境中可互换使用",
+      "mnemonic": "把 equivocal 与“模棱两可的”绑定成一幅画面；等价词 ambiguous 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "divergent",
+      "zh": "相异的；有分歧的；分道扬镳的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "dissimilar"
+      ],
+      "pair_note": "都强调‘不同、有差异’的核心意思，在句子中都能合理描述处理",
+      "mnemonic": "把 divergent 与“相异的”绑定成一幅画面；等价词 dissimilar 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "private",
+      "zh": "私人的；非公开的；局限于个人的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "insular"
+      ],
+      "pair_note": "都表示封闭、不对外公开的状态",
+      "mnemonic": "把 private 与“私人的”绑定成一幅画面；等价词 insular 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "insatiable",
+      "zh": "无法满足的；贪得无厌的（尤指对知识、经验、食物等的渴望）",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "voracious"
+      ],
+      "pair_note": "都形容一种极度的、不知满足的渴望或吸收状态",
+      "mnemonic": "把 insatiable 与“无法满足的”绑定成一幅画面；等价词 voracious 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "apathy",
+      "zh": "冷漠；无动于衷；缺乏兴趣",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "passivity"
+      ],
+      "pair_note": "都表示缺乏兴趣、参与或行动，指政治上的漠不关心或消极态度",
+      "mnemonic": "把 apathy 与“冷漠”绑定成一幅画面；等价词 passivity 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "proponents",
+      "zh": "支持者；倡导者",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "defenders"
+      ],
+      "pair_note": "都表示积极支持或维护某事物的人",
+      "mnemonic": "把 proponents 与“支持者”绑定成一幅画面；等价词 defenders 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "unquestionable",
+      "zh": "无可质疑的；确定无疑的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "undeniable"
+      ],
+      "pair_note": "都表示某事是确定无疑、无法被质疑或否认的",
+      "mnemonic": "把 unquestionable 与“无可质疑的”绑定成一幅画面；等价词 undeniable 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "violates",
+      "zh": "违反；违背（规则、法律或约束）",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "contravenes"
+      ],
+      "pair_note": "都表示违反或违背某种规则、法律或硬性约束",
+      "mnemonic": "把 violates 与“违反”绑定成一幅画面；等价词 contravenes 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "eager",
+      "zh": "渴望的；热切的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "keen"
+      ],
+      "pair_note": "都表示强烈的渴望或热切",
+      "mnemonic": "把 eager 与“渴望的”绑定成一幅画面；等价词 keen 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "relinquish",
+      "zh": "放弃；交出；让出",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "cede"
+      ],
+      "pair_note": "都表示放弃或让出某物，通常指权力、领土或控制权。",
+      "mnemonic": "把 relinquish 与“放弃”绑定成一幅画面；等价词 cede 一起回忆。",
+      "source_page": null,
+      "level": 1
+    },
+    {
+      "word": "pressing",
+      "zh": "紧迫的；急迫的",
+      "phonetic": "",
+      "pos": "",
+      "en": "",
+      "equivalents": [
+        "exigent"
+      ],
+      "pair_note": "都表示情况紧急，需要立即行动或关注",
+      "mnemonic": "把 pressing 与“紧迫的”绑定成一幅画面；等价词 exigent 一起回忆。",
+      "source_page": null,
+      "level": 1
+    }
+  ]
+}
